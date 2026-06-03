@@ -32,6 +32,7 @@ TABLES = [
                      "description", "thumbnail_url", "channel_url"],
         "pk":       ["channel_id"],
         "conflict": "update",
+        "order_by": "published_at DESC",
     },
     {
         "bq":       "channels_snapshot",
@@ -40,6 +41,7 @@ TABLES = [
                      "view_count", "video_count"],
         "pk":       ["channel_id", "snapshot_date"],
         "conflict": "nothing",
+        "order_by": "snapshot_date DESC",
     },
     {
         "bq":       "videos_static",
@@ -48,6 +50,7 @@ TABLES = [
                      "duration_seconds", "description", "thumbnail_url", "video_url"],
         "pk":       ["video_id"],
         "conflict": "update",
+        "order_by": "published_at DESC",
     },
     {
         "bq":       "videos_snapshot",
@@ -56,6 +59,7 @@ TABLES = [
                      "like_count", "comment_count"],
         "pk":       ["video_id", "snapshot_date"],
         "conflict": "nothing",
+        "order_by": "snapshot_date DESC, video_id",
     },
     {
         "bq":       "playlists_manual_static",
@@ -64,6 +68,7 @@ TABLES = [
                      "description", "privacy_status", "thumbnail_url", "playlist_url"],
         "pk":       ["playlist_id"],
         "conflict": "update",
+        "order_by": "published_at DESC",
     },
     {
         "bq":       "playlist_items_manual_static",
@@ -71,6 +76,7 @@ TABLES = [
         "columns":  ["playlist_id", "video_id", "position", "added_at"],
         "pk":       ["playlist_id", "video_id"],
         "conflict": "update",
+        "order_by": "playlist_id, position",
     },
     {
         "bq":       "playlist_items_snapshot",
@@ -78,6 +84,7 @@ TABLES = [
         "columns":  ["playlist_id", "video_id", "snapshot_date", "position", "added_at"],
         "pk":       ["playlist_id", "video_id", "snapshot_date"],
         "conflict": "nothing",
+        "order_by": "snapshot_date DESC, playlist_id, position",
     },
 ]
 
@@ -184,7 +191,7 @@ def escape_value(val):
 
 def query_table(client, table):
     cols = ", ".join(table["columns"])
-    sql = f"SELECT {cols} FROM `{PROJECT}.{DATASET}.{table['bq']}`"
+    sql = f"SELECT {cols} FROM `{PROJECT}.{DATASET}.{table['bq']}` ORDER BY {table['order_by']}"
     return [dict(row) for row in client.query(sql).result()]
 
 
