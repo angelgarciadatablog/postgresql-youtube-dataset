@@ -166,7 +166,7 @@ def get_client():
     if sa_key:
         info = json.loads(sa_key)
         creds = service_account.Credentials.from_service_account_info(
-            info, scopes=["https://www.googleapis.com/auth/bigquery.readonly"]
+            info, scopes=["https://www.googleapis.com/auth/bigquery"]
         )
         return bigquery.Client(project=PROJECT, credentials=creds)
     return bigquery.Client(project=PROJECT)
