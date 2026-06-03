@@ -5,6 +5,9 @@ on:
     - cron: '30 4 * * 1'  # Lunes 4:30 AM UTC — después del pipeline semanal
   workflow_dispatch:        # permite ejecución manual desde GitHub
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
