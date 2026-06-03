@@ -1,0 +1,2001 @@
+video_id,channel_id,title,published_at,duration_seconds,description,thumbnail_url,video_url
+xB4ecIksJSY,UCUEOHBht8pnQhQvCfIcl-gg,4. Git Push - Actualizar cambios de un repositorio local a remoto,2026-01-24 12:04:21+00:00,960,,https://i.ytimg.com/vi/xB4ecIksJSY/hqdefault.jpg,https://www.youtube.com/watch?v=xB4ecIksJSY
+7bwkNrRpgw0,UCUEOHBht8pnQhQvCfIcl-gg,Modo oscuro - Big query - Google Cloud,2026-01-23 06:52:23+00:00,69,,https://i.ytimg.com/vi/7bwkNrRpgw0/hqdefault.jpg,https://www.youtube.com/watch?v=7bwkNrRpgw0
+HDyKUodeuNw,UCUEOHBht8pnQhQvCfIcl-gg,Como seleccionar valores iguales en SQL,2026-01-23 06:43:39+00:00,294,,https://i.ytimg.com/vi/HDyKUodeuNw/hqdefault.jpg,https://www.youtube.com/watch?v=HDyKUodeuNw
+Zj6uiqMvFOU,UCUEOHBht8pnQhQvCfIcl-gg,3. Cómo funciona el bucle For en python - Repaso ejercicios 1,2026-01-17 20:07:55+00:00,1186,,https://i.ytimg.com/vi/Zj6uiqMvFOU/hqdefault.jpg,https://www.youtube.com/watch?v=Zj6uiqMvFOU
+RiYjYfMTGvw,UCUEOHBht8pnQhQvCfIcl-gg,2. Qué es el PATH en la instalación de python,2026-01-11 23:25:57+00:00,1138,,https://i.ytimg.com/vi/RiYjYfMTGvw/hqdefault.jpg,https://www.youtube.com/watch?v=RiYjYfMTGvw
+0VmI47XeOuE,UCUEOHBht8pnQhQvCfIcl-gg,1. ¿Mi Mac tiene Python instalado de fábrica?,2026-01-11 23:07:39+00:00,417,,https://i.ytimg.com/vi/0VmI47XeOuE/hqdefault.jpg,https://www.youtube.com/watch?v=0VmI47XeOuE
+dnLOQnSM8W8,UCUEOHBht8pnQhQvCfIcl-gg,2. Áreas de git - Staging Area,2026-01-11 10:30:22+00:00,903,,https://i.ytimg.com/vi/dnLOQnSM8W8/hqdefault.jpg,https://www.youtube.com/watch?v=dnLOQnSM8W8
+GLJffh1QDM4,UCUEOHBht8pnQhQvCfIcl-gg,1. Qué es un repositorio de Git,2026-01-11 10:17:42+00:00,648,,https://i.ytimg.com/vi/GLJffh1QDM4/hqdefault.jpg,https://www.youtube.com/watch?v=GLJffh1QDM4
+Gcigj916zyE,UCUEOHBht8pnQhQvCfIcl-gg,3. Estados de Git - git add,2026-01-11 10:13:56+00:00,1086,,https://i.ytimg.com/vi/Gcigj916zyE/hqdefault.jpg,https://www.youtube.com/watch?v=Gcigj916zyE
+M4Q186h3zHA,UCUEOHBht8pnQhQvCfIcl-gg,5. Qualify en SQL BigQuery - Filtrar los resultados de una función de ventana de ranking,2026-01-09 02:57:13+00:00,361,"📌 Recursos útiles para este curso de SQL Avanzado 1 (Funciones de ventana)
+
+📖 Diapositivas de la clase:
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit?slide=id.g369c9bc9744_0_21#slide=id.g369c9bc9744_0_21
+
+🎓 Lista completa del curso SQL Avanzado 1:
+• Curso gratuito de SQL en BigQuery | Funciones de ventana -  Nivel avanzado 1
+
+🌐 Página web oficial: https://angelgarciadatablog.com
+🔗 GitHub: https://github.com/angelgarciadatablog
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog
+
+──────────────────────────────
+📚 Sobre el curso
+Este curso gratuito de SQL nivel avanzado está enfocado en el uso práctico de funciones de ventana en BigQuery, explicadas paso a paso y con ejemplos claros.
+
+Está pensado para quienes ya dominan SELECT, JOINs y subconsultas, y buscan entender cómo realizar análisis más avanzados como rankings, acumulados y comparaciones entre filas.
+
+──────────────────────────────
+💬 Conecta conmigo
+📸 Instagram / LinkedIn / Tik Tok → @angelgarciadatablog",https://i.ytimg.com/vi/M4Q186h3zHA/hqdefault.jpg,https://www.youtube.com/watch?v=M4Q186h3zHA
+thQUAzH5d2o,UCUEOHBht8pnQhQvCfIcl-gg,4. Filtrar los resultados de una función de ventana de ranking - No se usa Where - BigQuery,2026-01-09 00:21:05+00:00,874,"📌 Recursos útiles para este curso de SQL Avanzado 1 (Funciones de ventana)
+
+📖 Diapositivas de la clase:
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit?slide=id.g369c9bc9744_0_21#slide=id.g369c9bc9744_0_21
+
+🎓 Lista completa del curso SQL Avanzado 1:
+• Curso gratuito de SQL en BigQuery | Funciones de ventana -  Nivel avanzado 1
+
+🌐 Página web oficial: https://angelgarciadatablog.com
+🔗 GitHub: https://github.com/angelgarciadatablog
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog
+
+──────────────────────────────
+📚 Sobre el curso
+Este curso gratuito de SQL nivel avanzado está enfocado en el uso práctico de funciones de ventana en BigQuery, explicadas paso a paso y con ejemplos claros.
+
+Está pensado para quienes ya dominan SELECT, JOINs y subconsultas, y buscan entender cómo realizar análisis más avanzados como rankings, acumulados y comparaciones entre filas.
+
+──────────────────────────────
+💬 Conecta conmigo
+📸 Instagram / LinkedIn / Tik Tok → @angelgarciadatablog",https://i.ytimg.com/vi/thQUAzH5d2o/hqdefault.jpg,https://www.youtube.com/watch?v=thQUAzH5d2o
+GgunOaMm_-g,UCUEOHBht8pnQhQvCfIcl-gg,"3. Diferencia entre Row Number, Rank y Dense Rank en SQL - Funciones de Ventana - BigQuery",2026-01-09 00:14:24+00:00,932,"📌 Recursos útiles para este curso de SQL Avanzado 1 (Funciones de ventana)
+
+📖 Diapositivas de la clase:
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit?slide=id.g369c9bc9744_0_21#slide=id.g369c9bc9744_0_21
+
+🎓 Lista completa del curso SQL Avanzado 1:
+• Curso gratuito de SQL en BigQuery | Funciones de ventana -  Nivel avanzado 1
+
+🌐 Página web oficial: https://angelgarciadatablog.com
+🔗 GitHub: https://github.com/angelgarciadatablog
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog
+
+──────────────────────────────
+📚 Sobre el curso
+Este curso gratuito de SQL nivel avanzado está enfocado en el uso práctico de funciones de ventana en BigQuery, explicadas paso a paso y con ejemplos claros.
+
+Está pensado para quienes ya dominan SELECT, JOINs y subconsultas, y buscan entender cómo realizar análisis más avanzados como rankings, acumulados y comparaciones entre filas.
+
+──────────────────────────────
+💬 Conecta conmigo
+📸 Instagram / LinkedIn / Tik Tok → @angelgarciadatablog",https://i.ytimg.com/vi/GgunOaMm_-g/hqdefault.jpg,https://www.youtube.com/watch?v=GgunOaMm_-g
+Cz9osSyqYXI,UCUEOHBht8pnQhQvCfIcl-gg,2. Funciones de ventana en SQL - row_number -  BigQuery,2026-01-08 01:57:33+00:00,772,"📌 Recursos útiles para este curso de SQL Avanzado 1 (Funciones de ventana)
+
+📖 Diapositivas de la clase:
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit?slide=id.g369c9bc9744_0_21#slide=id.g369c9bc9744_0_21
+
+🎓 Lista completa del curso SQL Avanzado 1:
+• Curso gratuito de SQL en BigQuery | Funciones de ventana -  Nivel avanzado 1
+
+🌐 Página web oficial: https://angelgarciadatablog.com
+🔗 GitHub: https://github.com/angelgarciadatablog
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog
+
+──────────────────────────────
+📚 Sobre el curso
+Este curso gratuito de SQL nivel avanzado está enfocado en el uso práctico de funciones de ventana en BigQuery, explicadas paso a paso y con ejemplos claros.
+
+Está pensado para quienes ya dominan SELECT, JOINs y subconsultas, y buscan entender cómo realizar análisis más avanzados como rankings, acumulados y comparaciones entre filas.
+
+──────────────────────────────
+💬 Conecta conmigo
+📸 Instagram / LinkedIn / Tik Tok → @angelgarciadatablog",https://i.ytimg.com/vi/Cz9osSyqYXI/hqdefault.jpg,https://www.youtube.com/watch?v=Cz9osSyqYXI
+XHnA-a5rivU,UCUEOHBht8pnQhQvCfIcl-gg,1. Funciones de ventana de agregación - over y partition by,2026-01-08 01:37:10+00:00,811,"📌 Recursos útiles para este curso de SQL Avanzado 1 (Funciones de ventana)
+
+📖 Diapositivas de la clase:
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit?slide=id.g369c9bc9744_0_21#slide=id.g369c9bc9744_0_21
+
+🎓 Lista completa del curso SQL Avanzado 1:
+• Curso gratuito de SQL en BigQuery | Funciones de ventana -  Nivel avanzado 1
+
+🌐 Página web oficial: https://angelgarciadatablog.com
+🔗 GitHub: https://github.com/angelgarciadatablog
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog
+
+──────────────────────────────
+📚 Sobre el curso
+Este curso gratuito de SQL nivel avanzado está enfocado en el uso práctico de funciones de ventana en BigQuery, explicadas paso a paso y con ejemplos claros.
+
+Está pensado para quienes ya dominan SELECT, JOINs y subconsultas, y buscan entender cómo realizar análisis más avanzados como rankings, acumulados y comparaciones entre filas.
+
+──────────────────────────────
+💬 Conecta conmigo
+📸 Instagram / LinkedIn / Tik Tok → @angelgarciadatablog",https://i.ytimg.com/vi/XHnA-a5rivU/hqdefault.jpg,https://www.youtube.com/watch?v=XHnA-a5rivU
+DebaxM_8EO0,UCUEOHBht8pnQhQvCfIcl-gg,Multiples Joins en una consulta SQL | Curso de SQL Intermedio #10,2026-01-06 00:54:28+00:00,1613,"📌 Recursos útiles para este curso de SQL Intermedio (Joins - Subconsultas - CTE)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit
+
+🎓 Lista completa del curso SQL Intermedio:  
+   • Curso gratuito de SQL en BigQuery | Joins, subconsultas, CTE's, operadores de conjunto 
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a combinar tablas y generar consultas más complejas.
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/DebaxM_8EO0/hqdefault.jpg,https://www.youtube.com/watch?v=DebaxM_8EO0
+ddB92jjDOVs,UCUEOHBht8pnQhQvCfIcl-gg,Uso de Coalesce en Joins | Curso de SQL Intermedio #9,2026-01-06 00:48:50+00:00,550,"📌 Recursos útiles para este curso de SQL Intermedio (Joins - Subconsultas - CTE)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit
+
+🎓 Lista completa del curso SQL Intermedio:  
+   • Curso gratuito de SQL en BigQuery | Joins, subconsultas, CTE's, operadores de conjunto 
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a combinar tablas y generar consultas más complejas.
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/ddB92jjDOVs/hqdefault.jpg,https://www.youtube.com/watch?v=ddB92jjDOVs
+J0GOADsEp4E,UCUEOHBht8pnQhQvCfIcl-gg,Identifica qué clientes compran más con FILTER + CALCULATE (parte 2),2025-11-21 12:00:42+00:00,633,,https://i.ytimg.com/vi/J0GOADsEp4E/hqdefault.jpg,https://www.youtube.com/watch?v=J0GOADsEp4E
+4v5Vv8fsR-g,UCUEOHBht8pnQhQvCfIcl-gg,Identifica qué clientes compran más con FILTER + CALCULATE,2025-11-21 12:00:19+00:00,684,,https://i.ytimg.com/vi/4v5Vv8fsR-g/hqdefault.jpg,https://www.youtube.com/watch?v=4v5Vv8fsR-g
+ffCLLOraLFA,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar FILTER y CALCULATE en Power BI - Ejemplo práctico 2 paso a paso,2025-11-18 12:01:22+00:00,718,,https://i.ytimg.com/vi/ffCLLOraLFA/hqdefault.jpg,https://www.youtube.com/watch?v=ffCLLOraLFA
+8AMwesfk-DM,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar FILTER y CALCULATE en Power BI - Ejemplo práctico 1 paso a paso,2025-11-18 12:00:28+00:00,701,,https://i.ytimg.com/vi/8AMwesfk-DM/hqdefault.jpg,https://www.youtube.com/watch?v=8AMwesfk-DM
+f144Cg6EGxE,UCUEOHBht8pnQhQvCfIcl-gg,Power BI + Visual Studio Code: Accede a tablas y medidas,2025-11-17 12:01:24+00:00,485,,https://i.ytimg.com/vi/f144Cg6EGxE/hqdefault.jpg,https://www.youtube.com/watch?v=f144Cg6EGxE
+8_fVq-UewMc,UCUEOHBht8pnQhQvCfIcl-gg,Documenta todas tus Medidas de Power BI en 1 Minuto,2025-11-17 12:00:14+00:00,668,,https://i.ytimg.com/vi/8_fVq-UewMc/hqdefault.jpg,https://www.youtube.com/watch?v=8_fVq-UewMc
+qytf-g55XFE,UCUEOHBht8pnQhQvCfIcl-gg,Comparar Ventas Año vs Año en Power BI | SAMEPERIODLASTYEAR | parte 2,2025-11-13 14:38:09+00:00,498,"📌 Puedes descargar el archivo del proyecto (.pbix) desde aquí:
+https://drive.google.com/drive/folders/1A9oOapsUyxwVY4pnbwLvBD4rTQiK33rU?usp=sharing
+
+💬 Conecta conmigo 
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog 
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog 
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog",https://i.ytimg.com/vi/qytf-g55XFE/hqdefault.jpg,https://www.youtube.com/watch?v=qytf-g55XFE
+Q3olnvgueTQ,UCUEOHBht8pnQhQvCfIcl-gg,Comparar Ventas Año vs Año en Power BI | SAMEPERIODLASTYEAR | parte 1,2025-11-13 14:37:05+00:00,428,"📌 Puedes descargar el archivo del proyecto (.pbix) desde aquí:
+https://drive.google.com/drive/folders/1A9oOapsUyxwVY4pnbwLvBD4rTQiK33rU?usp=sharing
+
+💬 Conecta conmigo 
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog 
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog 
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog",https://i.ytimg.com/vi/Q3olnvgueTQ/hqdefault.jpg,https://www.youtube.com/watch?v=Q3olnvgueTQ
+LXwH60B973Q,UCUEOHBht8pnQhQvCfIcl-gg,Como poner power bi en modo oscturo,2025-11-10 12:00:44+00:00,161,,https://i.ytimg.com/vi/LXwH60B973Q/hqdefault.jpg,https://www.youtube.com/watch?v=LXwH60B973Q
+0i8W5wucIMc,UCUEOHBht8pnQhQvCfIcl-gg,Por qué no funcionan los filtros cruzados en Power BI y cómo solucionarlo paso a paso,2025-11-08 00:44:15+00:00,112,,https://i.ytimg.com/vi/0i8W5wucIMc/hqdefault.jpg,https://www.youtube.com/watch?v=0i8W5wucIMc
+pHAb6YNGRl4,UCUEOHBht8pnQhQvCfIcl-gg,Registros huérfanos al eliminar datos en SQL | LEFT JOIN vs INNER JOIN | Curso de SQL Intermedio #8,2025-11-06 12:01:41+00:00,815,"📌 Recursos útiles para este curso de SQL Intermedio (Joins - Subconsultas - CTE)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit
+
+🎓 Lista completa del curso SQL Intermedio:  
+   • Curso gratuito de SQL en BigQuery | Joins, subconsultas, CTE's, operadores de conjunto 
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a combinar tablas y generar consultas más complejas.
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/pHAb6YNGRl4/hqdefault.jpg,https://www.youtube.com/watch?v=pHAb6YNGRl4
+1Hgmt97AkBw,UCUEOHBht8pnQhQvCfIcl-gg,LEFT JOIN o INNER JOIN ¿cuál usar? | Caso práctico con registros huérfanos | Curso de SQL #6,2025-11-05 12:00:05+00:00,1058,"📌 Recursos útiles para este curso de SQL Intermedio (Joins - Subconsultas - CTE)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit
+
+🎓 Lista completa del curso SQL Intermedio:  
+   • Curso gratuito de SQL en BigQuery | Joins, subconsultas, CTE's, operadores de conjunto 
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a combinar tablas y generar consultas más complejas.
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/1Hgmt97AkBw/hqdefault.jpg,https://www.youtube.com/watch?v=1Hgmt97AkBw
+zToHhAif9Gw,UCUEOHBht8pnQhQvCfIcl-gg,Qué es un JOIN en SQL | Aprende a relacionar tablas paso a paso | Curso de SQL Intermedio #6,2025-11-04 12:02:08+00:00,951,"📌 Recursos útiles para este curso de SQL Intermedio (Joins - Subconsultas - CTE)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit
+
+🎓 Lista completa del curso SQL Intermedio:  
+   • Curso gratuito de SQL en BigQuery | Joins, subconsultas, CTE's, operadores de conjunto 
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a combinar tablas y generar consultas más complejas.
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/zToHhAif9Gw/hqdefault.jpg,https://www.youtube.com/watch?v=zToHhAif9Gw
+rvVwrHtI4gQ,UCUEOHBht8pnQhQvCfIcl-gg,Atajo de teclado para crear medidas en POWER BI,2025-11-04 12:01:48+00:00,323,"📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog 
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog 
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog",https://i.ytimg.com/vi/rvVwrHtI4gQ/hqdefault.jpg,https://www.youtube.com/watch?v=rvVwrHtI4gQ
+y_rVPdd-RNY,UCUEOHBht8pnQhQvCfIcl-gg,Cómo crear un segmentador con medidas usando parámetros de campo en Power BI,2025-11-03 12:01:59+00:00,178,"📌 Puedes descargar el archivo del proyecto (.pbix) desde aquí:
+https://drive.google.com/drive/folders/1Bma_bAd1XMQff4R3FpgQA8pjaToMRneg?usp=sharing
+
+💬 Conecta conmigo 
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog 
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog 
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog",https://i.ytimg.com/vi/y_rVPdd-RNY/hqdefault.jpg,https://www.youtube.com/watch?v=y_rVPdd-RNY
+Q7BvnpCsUAU,UCUEOHBht8pnQhQvCfIcl-gg,Relaciones de muchos a muchos | Tabla intermedia | Sistema OLTP vs OLAP | Curso de SQL Intermedio #5,2025-11-03 12:01:01+00:00,728,"📌 Recursos útiles para este curso de SQL Intermedio (Joins - Subconsultas - CTE)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit
+
+🎓 Lista completa del curso SQL Intermedio:  
+   • Curso gratuito de SQL en BigQuery | Joins, subconsultas, CTE's, operadores de conjunto 
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a combinar tablas y generar consultas más complejas.
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/Q7BvnpCsUAU/hqdefault.jpg,https://www.youtube.com/watch?v=Q7BvnpCsUAU
+i6Cfsd0CP2g,UCUEOHBht8pnQhQvCfIcl-gg,Relaciones de muchos a muchos | Tabla intermedia | Sistema OLTP | Curso de SQL Intermedio #4,2025-10-31 12:01:37+00:00,702,"📌 Recursos útiles para este curso de SQL Intermedio (Joins - Subconsultas - CTE)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit
+
+🎓 Lista completa del curso SQL Intermedio:  
+   • Curso gratuito de SQL en BigQuery | Joins, subconsultas, CTE's, operadores de conjunto 
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a combinar tablas y generar consultas más complejas.
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/i6Cfsd0CP2g/hqdefault.jpg,https://www.youtube.com/watch?v=i6Cfsd0CP2g
+N-7O94hPplU,UCUEOHBht8pnQhQvCfIcl-gg,Relaciones entre tablas | 1 a muchos | Llave primaria y secundaria | Curso de SQL Intermedio #3,2025-10-30 12:00:47+00:00,354,"📌 Recursos útiles para este curso de SQL Intermedio (Joins - Subconsultas - CTE)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit
+
+🎓 Lista completa del curso SQL Intermedio:  
+   • Curso gratuito de SQL en BigQuery | Joins, subconsultas, CTE's, operadores de conjunto 
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a combinar tablas y generar consultas más complejas.
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/N-7O94hPplU/hqdefault.jpg,https://www.youtube.com/watch?v=N-7O94hPplU
+dbYadcZ2uOU,UCUEOHBht8pnQhQvCfIcl-gg,Relaciones entre tablas | Llave primaria y secundaria | OLTP vs OLAP | Capitulo #2,2025-10-29 12:01:28+00:00,876,"📌 Recursos útiles para este curso de SQL Intermedio (Joins - Subconsultas - CTE)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit
+
+🎓 Lista completa del curso SQL Intermedio:  
+   • Curso gratuito de SQL en BigQuery | Joins, subconsultas, CTE's, operadores de conjunto 
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a combinar tablas y generar consultas más complejas.
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/dbYadcZ2uOU/hqdefault.jpg,https://www.youtube.com/watch?v=dbYadcZ2uOU
+Z4Fo5F_mLuU,UCUEOHBht8pnQhQvCfIcl-gg,Introducción al Nivel Intermedio y Temas Principales |  Curso de SQL Intermedio en BigQuery #1,2025-10-28 12:01:17+00:00,492,"📌 Recursos útiles para este curso de SQL Intermedio (Joins - Subconsultas - CTE)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit
+
+🎓 Lista completa del curso SQL Intermedio:  
+   • Curso gratuito de SQL en BigQuery | Joins, subconsultas, CTE's, operadores de conjunto 
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a combinar tablas y generar consultas más complejas.
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/Z4Fo5F_mLuU/hqdefault.jpg,https://www.youtube.com/watch?v=Z4Fo5F_mLuU
+njqE2uGyysQ,UCUEOHBht8pnQhQvCfIcl-gg,ALTER TABLE en SQL | Modificar la estructura de una tabla |Consulta DDL| Curso de SQL Intermedio #9,2025-10-27 12:01:39+00:00,376,"📌 Recursos útiles para este curso de SQL Intermedio (Manipulación de tablas)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM 
+
+🎓 Lista completa del curso SQL Intermedio:  
+https://www.youtube.com/playlist?list=PLV4oS06_KpqY-NCxlYCYMPENL0EUTLNuU  
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a manipular tablas paso a paso usando ejemplos reales.  
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/njqE2uGyysQ/hqdefault.jpg,https://www.youtube.com/watch?v=njqE2uGyysQ
+4JmKLgtmMBI,UCUEOHBht8pnQhQvCfIcl-gg,ALTER TABLE SET OPTIONS en SQL | Modificar metadatos | Consulta DDL | Curso de SQL Intermedio #10,2025-10-27 12:00:13+00:00,615,"📌 Recursos útiles para este curso de SQL Intermedio (Manipulación de tablas)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM 
+
+🎓 Lista completa del curso SQL Intermedio:  
+https://www.youtube.com/playlist?list=PLV4oS06_KpqY-NCxlYCYMPENL0EUTLNuU  
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a manipular tablas paso a paso usando ejemplos reales.  
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/4JmKLgtmMBI/hqdefault.jpg,https://www.youtube.com/watch?v=4JmKLgtmMBI
+OzgC7e3Eths,UCUEOHBht8pnQhQvCfIcl-gg,UPDATE SET WHERE en SQL | Actualizar registros de una tabla | Curso de SQL Intermedio #8,2025-10-24 12:00:51+00:00,341,"📌 Recursos útiles para este curso de SQL Intermedio (Manipulación de tablas)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM 
+
+🎓 Lista completa del curso SQL Intermedio:  
+https://www.youtube.com/playlist?list=PLV4oS06_KpqY-NCxlYCYMPENL0EUTLNuU  
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a manipular tablas paso a paso usando ejemplos reales.  
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/OzgC7e3Eths/hqdefault.jpg,https://www.youtube.com/watch?v=OzgC7e3Eths
+6QlUSg3-ivQ,UCUEOHBht8pnQhQvCfIcl-gg,Emisión en directo de Angel García,2025-10-24 04:15:45+00:00,0,,https://i.ytimg.com/vi/6QlUSg3-ivQ/hqdefault_live.jpg,https://www.youtube.com/watch?v=6QlUSg3-ivQ
+t3jyABNSOno,UCUEOHBht8pnQhQvCfIcl-gg,DELETE FROM WHERE en SQL | Eliminar registros por alguna condición | Curso de SQL Intermedio #7,2025-10-23 12:01:45+00:00,314,"📌 Recursos útiles para este curso de SQL Intermedio (Manipulación de tablas)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM 
+
+🎓 Lista completa del curso SQL Intermedio:  
+https://www.youtube.com/playlist?list=PLV4oS06_KpqY-NCxlYCYMPENL0EUTLNuU  
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a manipular tablas paso a paso usando ejemplos reales.  
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/t3jyABNSOno/hqdefault.jpg,https://www.youtube.com/watch?v=t3jyABNSOno
+pLRAticn7NU,UCUEOHBht8pnQhQvCfIcl-gg,TRUNCATE TABLE en SQL | Eliminar todos los registros de una tabla | Curso de SQL Intermedio #6,2025-10-22 12:01:42+00:00,261,"📌 Recursos útiles para este curso de SQL Intermedio (Manipulación de tablas)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM 
+
+🎓 Lista completa del curso SQL Intermedio:  
+https://www.youtube.com/playlist?list=PLV4oS06_KpqY-NCxlYCYMPENL0EUTLNuU  
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a manipular tablas paso a paso usando ejemplos reales.  
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/pLRAticn7NU/hqdefault.jpg,https://www.youtube.com/watch?v=pLRAticn7NU
+ecJm9JHj18g,UCUEOHBht8pnQhQvCfIcl-gg,INSERT INTO VALUES en SQL | Insertar valores en una tabla |Consulta DML| Curso de SQL Intermedio #5,2025-10-22 12:01:25+00:00,249,"📌 Recursos útiles para este curso de SQL Intermedio (Manipulación de tablas)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM 
+
+🎓 Lista completa del curso SQL Intermedio:  
+https://www.youtube.com/playlist?list=PLV4oS06_KpqY-NCxlYCYMPENL0EUTLNuU  
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a manipular tablas paso a paso usando ejemplos reales.  
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/ecJm9JHj18g/hqdefault.jpg,https://www.youtube.com/watch?v=ecJm9JHj18g
+IIT39Xomn94,UCUEOHBht8pnQhQvCfIcl-gg,INSERT INTO VALUES en SQL | Crear cuenta de facturación | Consulta DML | Curso de SQL Intermedio #4,2025-10-21 12:00:36+00:00,503,"📌 Recursos útiles para este curso de SQL Intermedio (Manipulación de tablas)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM 
+
+🎓 Lista completa del curso SQL Intermedio:  
+https://www.youtube.com/playlist?list=PLV4oS06_KpqY-NCxlYCYMPENL0EUTLNuU  
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a manipular tablas paso a paso usando ejemplos reales.  
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/IIT39Xomn94/hqdefault.jpg,https://www.youtube.com/watch?v=IIT39Xomn94
+1eRuwnvwsPo,UCUEOHBht8pnQhQvCfIcl-gg,CREATE OR REPLACE TABLE en SQL BigQuery | Consulta DDL | Curso de SQL Intermedio #3,2025-10-21 12:00:03+00:00,854,"📌 Recursos útiles para este curso de SQL Intermedio (Manipulación de tablas)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM 
+
+🎓 Lista completa del curso SQL Intermedio:  
+https://www.youtube.com/playlist?list=PLV4oS06_KpqY-NCxlYCYMPENL0EUTLNuU  
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a manipular tablas paso a paso usando ejemplos reales.  
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/1eRuwnvwsPo/hqdefault.jpg,https://www.youtube.com/watch?v=1eRuwnvwsPo
+MHxjAOrdxCU,UCUEOHBht8pnQhQvCfIcl-gg,CREATE TABLE en SQL BigQuery | Costos por almacenamiento en BigQuery | Curso de SQL Intermedio #2,2025-10-20 12:00:49+00:00,511,"📌 Recursos útiles para este curso de SQL Intermedio (Manipulación de tablas)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM 
+
+🎓 Lista completa del curso SQL Intermedio:  
+https://www.youtube.com/playlist?list=PLV4oS06_KpqY-NCxlYCYMPENL0EUTLNuU  
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a manipular tablas paso a paso usando ejemplos reales.  
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/MHxjAOrdxCU/hqdefault.jpg,https://www.youtube.com/watch?v=MHxjAOrdxCU
+DQlkV2DmA_M,UCUEOHBht8pnQhQvCfIcl-gg,Introducción al nivel intermedio de SQL BigQuery | Curso de SQL Intermedio #1,2025-10-20 12:00:32+00:00,308,"📌 Recursos útiles para este curso de SQL Intermedio (Manipulación de tablas)
+
+📖 Diapositivas de la clase:  
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM 
+
+🎓 Lista completa del curso SQL Intermedio:  
+https://www.youtube.com/playlist?list=PLV4oS06_KpqY-NCxlYCYMPENL0EUTLNuU  
+
+🌐 Página web oficial: https://angelgarciadatablog.com 
+🔗 GitHub: https://github.com/angelgarciadatablog   
+💙 Apóyame en PayPal: https://paypal.me/angeldatablog  
+
+
+──────────────────────────────  
+📚 Sobre el curso  
+Este curso gratuito de SQL nivel intermedio está diseñado para que aprendas a manipular tablas paso a paso usando ejemplos reales.  
+
+Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más profesional de análisis de datos.  
+
+──────────────────────────────  
+💬 Conecta conmigo  
+📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog",https://i.ytimg.com/vi/DQlkV2DmA_M/hqdefault.jpg,https://www.youtube.com/watch?v=DQlkV2DmA_M
+a1nrZ-A7vSg,UCUEOHBht8pnQhQvCfIcl-gg,Introducción al nivel intermedio de SQL BigQuery | Curso de SQL BigQuery #57,2025-10-19 16:20:49+00:00,418,"En este capítulo damos inicio al nivel intermedio de SQL con BigQuery, donde pasaremos de consultas básicas a consultas más complejas y útiles en análisis de datos reales. Explicaremos la estructura de los próximos módulos, qué aprenderás en cada uno y cómo todo se conecta con casos prácticos de Google Analytics 4 y otros escenarios de negocio.
+
+📌 Temas que veremos en este nivel intermedio:
+✅ Consultas DDL y DML: CREATE, INSERT, UPDATE y DELETE para crear tablas de prueba.
+✅ JOINS: cómo unir tablas y ampliar el análisis de datos.
+✅ Subconsultas y Common Table Expressions (CTE) para estructurar consultas largas y legibles.
+✅ Operadores de conjunto: UNION, INTERSECT y EXCEPT.
+✅ Funciones de ventana para análisis avanzados.
+✅ Aplicación práctica en la tabla de Google Analytics 4 (events): usuarios, sesiones, e-commerce y desanidado de parámetros.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+📚 Lista de reproducción completa del curso: https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/a1nrZ-A7vSg/hqdefault.jpg,https://www.youtube.com/watch?v=a1nrZ-A7vSg
+Zyg3scrypKQ,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar HAVING en SQL BigQuery: teoría y ejemplos prácticos | Curso de SQL BigQuery #56,2025-10-17 13:01:11+00:00,628,"En este capítulo aprenderemos a utilizar la cláusula HAVING en SQL BigQuery, entendiendo su relación con GROUP BY y cómo se diferencia de la cláusula WHERE. Veremos cómo aplicar filtros sobre columnas creadas a partir de funciones de agregación y revisaremos las particularidades de BigQuery frente a otros gestores de bases de datos.
+
+📌 Temas que veremos:
+✅ Diferencia entre WHERE y HAVING.
+✅ Uso de HAVING para filtrar resultados después de un GROUP BY.
+✅ Cómo funciona HAVING en BigQuery respecto a los alias.
+✅ Ejemplo práctico: filtrar países con más de 100 usuarios.
+✅ Ejemplo práctico: filtrar horas con más de 140 usuarios en la web.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+📚 Lista de reproducción completa del curso: https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/Zyg3scrypKQ/hqdefault.jpg,https://www.youtube.com/watch?v=Zyg3scrypKQ
+7kTYy0cJ_EE,UCUEOHBht8pnQhQvCfIcl-gg,STRING_AGG y ARRAY_AGG en SQL: teoría y ejemplos prácticos | Curso de SQL BigQuery #55,2025-10-16 13:00:14+00:00,517,"En este capítulo aprenderemos a utilizar dos funciones de agregación menos comunes pero muy poderosas en SQL BigQuery: STRING_AGG y ARRAY_AGG. Veremos cómo agrupar información no solo para contar eventos, sino también para listar cuáles fueron, explorando la diferencia entre generar una cadena de texto concatenada y una lista de elementos.
+
+📌 Temas que veremos:
+✅ Cuándo usar STRING_AGG y cómo personalizar separadores.
+✅ Diferencias entre STRING_AGG y ARRAY_AGG.
+✅ Ejemplo práctico: contar y listar eventos por usuario en una tabla de BigQuery.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+📚 Lista de reproducción completa del curso: https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/7kTYy0cJ_EE/hqdefault.jpg,https://www.youtube.com/watch?v=7kTYy0cJ_EE
+xic7AMpR4IM,UCUEOHBht8pnQhQvCfIcl-gg,Ejercicio práctico de SQL: Cuántos usuarios hay en la web por hora | Curso de SQL BigQuery #53,2025-10-15 13:02:10+00:00,827,"En este capítulo aplicamos la cláusula GROUP BY en un ejercicio práctico para responder la pregunta: ¿Cuántos usuarios hay en la web por hora? Aprenderemos a transformar datos de eventos en información útil para análisis comparativos.
+
+📌 Temas que veremos:
+✅ Conversión de timestamp a horas en BigQuery.
+✅ Uso de COUNT(DISTINCT user_id) para evitar duplicados.
+✅ Agrupación por hora y fecha con GROUP BY.
+✅ Ordenamiento con ORDER BY.
+✅ Comparación de usuarios entre dos días distintos.
+✅ Visualización del resultado en Looker Studio con tablas dinámicas y gráficos de líneas.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+📚 Lista de reproducción completa del curso: https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/xic7AMpR4IM/hqdefault.jpg,https://www.youtube.com/watch?v=xic7AMpR4IM
+DWS8WsB2FgE,UCUEOHBht8pnQhQvCfIcl-gg,"Contar usuarios por tipo de dispositivo, marca de celular o país GROUP BY, ROLLUP | Curso de SQL #54",2025-10-15 13:00:33+00:00,616,"En este capítulo del curso de SQL con BigQuery resolveremos ejercicios prácticos usando la cláusula GROUP BY, enfocándonos en preguntas reales de análisis de datos: cuántos usuarios ingresan por tipo de dispositivo, sistema operativo, marca de celular o país. Además, veremos cómo obtener totales con ROLLUP y cómo trabajar con rangos de fechas en BigQuery.
+
+📌 Temas que veremos:
+✅ Cómo contar usuarios por tipo de dispositivo (device category).
+✅ Uso de COUNT DISTINCT para evitar duplicados en recuentos de usuarios.
+✅ Cómo agrupar por sistema operativo, marca de celular o país/ciudad.
+✅ Aplicar rango de fechas con _TABLE_SUFFIX y BETWEEN.
+✅ Uso de ROLLUP para obtener totales automáticamente.
+
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/DWS8WsB2FgE/hqdefault.jpg,https://www.youtube.com/watch?v=DWS8WsB2FgE
+KpjJH-fdImI,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar GROUP BY con múltiples columnas en SQL BigQuery | Curso de SQL BigQuery #51,2025-10-14 13:00:44+00:00,596,"En este capítulo del curso de SQL con BigQuery aprenderemos a utilizar la cláusula GROUP BY con más de una columna, combinando dimensiones. Veremos cómo aplicar funciones de agregación (SUM, MIN, MAX y COUNT) para calcular métricas por evento y por marca de dispositivo, y cómo filtrar resultados con WHERE antes del agrupamiento.
+
+📌 Temas que veremos:
+✅ Cómo agrupar datos por una o varias columnas.
+✅ Uso de funciones de agregación: SUM, MIN, MAX y COUNT.
+✅ Filtrar resultados antes de agrupar con la cláusula WHERE.
+✅ Relación con tablas dinámicas en Excel (valores, recuentos y sumas).
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/KpjJH-fdImI/hqdefault.jpg,https://www.youtube.com/watch?v=KpjJH-fdImI
+xJ05Nq48Zq4,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar GROUP BY ALL y alias en SQL BigQuery | Curso de SQL BigQuery #52,2025-10-13 12:34:51+00:00,562,"En este capítulo del curso de SQL con BigQuery aprenderemos a utilizar la expresión ALL junto con GROUP BY para simplificar consultas cuando tenemos múltiples columnas de agrupación. Además, revisaremos cómo funciona el uso de alias en BigQuery y por qué se diferencia de otros gestores de bases de datos tradicionales.
+
+📌 Temas que veremos:
+✅ Qué es GROUP BY ALL y en qué casos usarlo.
+✅ Cómo utilizar alias de columnas en la cláusula GROUP BY.
+✅ Buenas prácticas para mantener consultas legibles y eficientes.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/xJ05Nq48Zq4/hqdefault.jpg,https://www.youtube.com/watch?v=xJ05Nq48Zq4
+PLGbRoNcVL4,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar GROUP BY en SQL BigQuery: teoría y ejemplos prácticos | Curso de SQL BigQuery #49,2025-10-13 12:00:48+00:00,443,"En este capítulo aprenderemos a utilizar la cláusula GROUP BY en SQL BigQuery, entendiendo su orden de ejecución, su relación con las funciones de agregación y cómo se asemeja a las tablas dinámicas en Excel. Revisaremos ejemplos prácticos para agrupar datos con una o varias dimensiones y aplicar funciones como SUM, COUNT, AVG y más.
+
+📌 Temas que veremos:
+✅ Orden de ejecución de las cláusulas SELECT, FROM, WHERE y GROUP BY.
+✅ Diferencia entre agrupar con una columna y con múltiples columnas.
+✅ Uso de funciones de agregación: SUM, COUNT, AVG, MAX, MIN, entre otras.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/PLGbRoNcVL4/hqdefault.jpg,https://www.youtube.com/watch?v=PLGbRoNcVL4
+6lR81YOeNKs,UCUEOHBht8pnQhQvCfIcl-gg,"Cómo usar GROUP BY en SQL con funciones de agregación (SUM, MAX, MIN) | Curso de SQL  BigQuery #50",2025-10-13 12:00:20+00:00,580,"En este capítulo aprenderemos a utilizar la cláusula GROUP BY en SQL BigQuery para agrupar datos de eventos en Google Analytics 4 (GA4). Veremos cómo obtener eventos únicos, combinar múltiples dimensiones y aplicar funciones de agregación como SUM, MAX y MIN.
+
+📌 Temas que veremos:
+✅ Cómo funciona GROUP BY en BigQuery con eventos de GA4.
+✅ Diferencia entre agrupar dimensiones y aplicar funciones de agregación.
+✅ Ejemplo práctico con event name y device.brand.
+✅ Uso de SUM, MAX y MIN en columnas como purchase revenue.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/6lR81YOeNKs/hqdefault.jpg,https://www.youtube.com/watch?v=6lR81YOeNKs
+E_MeMkTfBsk,UCUEOHBht8pnQhQvCfIcl-gg,Uso de REGEXP_CONTAINS y REGEXP_REPLACE para clasificar y limpiar datos | Curso de SQL BigQuery #48,2025-10-10 12:00:24+00:00,361,"En este capítulo aprenderemos a aplicar funciones avanzadas de expresiones regulares en SQL BigQuery, no solo para filtrar información, sino también para clasificar y limpiar datos directamente desde el SELECT. Revisaremos cómo usar REGEXP_CONTAINS en combinación con CASE, cómo extraer patrones con REGEXP_EXTRACT y cómo estandarizar datos con REGEXP_REPLACE.
+
+📌 Temas que veremos:
+✅ Uso de REGEXP_CONTAINS dentro de CASE para crear columnas de clasificación.
+✅ Introducción a REGEXP_EXTRACT para extraer patrones específicos desde un campo.
+✅ Ejemplos de limpieza con REGEXP_REPLACE
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/E_MeMkTfBsk/hqdefault.jpg,https://www.youtube.com/watch?v=E_MeMkTfBsk
+R7hA1gBrsvQ,UCUEOHBht8pnQhQvCfIcl-gg,Uso de REGEXP_CONTAINS para buscar patrones avanzados en SQL | Curso de SQL BigQuery #47,2025-10-09 12:01:00+00:00,424,"En este capítulo aprenderemos a utilizar la expresión REGEXP_CONTAINS en SQL BigQuery, que nos permite buscar patrones avanzados de texto dentro de columnas. A diferencia de LIKE, esta función trabaja con expresiones regulares (regex), lo que abre la posibilidad de realizar búsquedas y validaciones mucho más complejas. 
+
+📌 Temas que veremos:
+✅ Diferencia entre LIKE y REGEXP_CONTAINS y cuándo usar cada uno.
+✅ Sintaxis básica de REGEXP_CONTAINS
+✅ Validación de números telefónicos con prefijo internacional (+51) y longitud adecuada.
+✅ Validación de correos electrónicos mediante expresiones regulares.
+✅ Uso de REGEXP_CONTAINS dentro de SELECT con CASE para clasificar datos.
+✅ Recomendaciones para aprender regex y precauciones al usar IA para generarlos.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/R7hA1gBrsvQ/hqdefault.jpg,https://www.youtube.com/watch?v=R7hA1gBrsvQ
+P4--JGi1xH8,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar BETWEEN en SQL para filtrar rangos de fechas y valores | Curso de SQL BigQuery #45,2025-10-08 12:00:46+00:00,252,"En este capítulo aprenderemos a utilizar la expresión BETWEEN dentro de la cláusula WHERE en SQL BigQuery. Veremos cómo aplicarla tanto en rangos de fechas como en valores numéricos, y cómo combinarla con otras condiciones como AND para filtrar de manera más precisa.
+
+📌 Temas que veremos:
+✅ Uso de BETWEEN con fechas para obtener periodos completos.
+✅ Inclusión de valores iniciales y finales en el rango.
+✅ Aplicación de BETWEEN en columnas numéricas (ejemplo: ingresos de compra).
+✅ Combinación de múltiples condiciones en una misma consulta.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/P4--JGi1xH8/hqdefault.jpg,https://www.youtube.com/watch?v=P4--JGi1xH8
+4aUW0262vu8,UCUEOHBht8pnQhQvCfIcl-gg,"Buscar texto con LIKE, CONTAINS_SUBSTR, STARTS_WITH y ENDS_WITH | Curso de SQL BigQuery #46",2025-10-08 12:00:10+00:00,652,"En este capítulo aprenderemos a buscar cadenas dentro de columnas en SQL BigQuery usando las expresiones LIKE, CONTAINS_SUBSTR, STARTS_WITH y ENDS_WITH. Veremos las diferencias de funcionamiento y rendimiento entre ellas, por qué conviene usar LOWER() para evitar problemas con mayúsculas/minúsculas y cuándo preferir cada función según la necesidad (contener, comenzar o terminar). 
+
+📌 Temas que veremos:
+✅ Uso de LIKE y sus comodines para búsquedas por patrón (ej.: LOWER(geo.city) LIKE '%san%').
+✅ CONTAINS_SUBSTR(…) como alternativa más óptima para búsquedas de “contiene”.
+✅ STARTS_WITH(…) y ENDS_WITH(…) para búsquedas que comienzan o terminan con una cadena (mejor rendimiento que LIKE en esos casos).
+✅ Importancia de LOWER() para normalizar mayúsculas/minúsculas y no perder coincidencias.
+✅ Cuándo usar expresiones regulares (REGEXP_CONTAINS) para patrones complejos (tema para capítulos futuros).
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/4aUW0262vu8/hqdefault.jpg,https://www.youtube.com/watch?v=4aUW0262vu8
+UlDUQ9G0QHM,UCUEOHBht8pnQhQvCfIcl-gg,Filtrar fechas con _TABLE_SUFFIX en la tabla de eventos en BigQuery | Curso de SQL BigQuery #43,2025-10-07 12:01:08+00:00,319,"En este capítulo aprenderemos a optimizar filtros de fecha en SQL BigQuery utilizando la variable especial _TABLE_SUFFIX en lugar del campo event_date. Esto nos permitirá consultar rangos de fechas específicos en la tabla events de Google Analytics 4 (GA4)
+
+📌 Temas que veremos:
+✅ Diferencia entre usar event_date y _TABLE_SUFFIX al filtrar.
+✅ Cómo reducir el peso de una consulta de 179 MB a solo 1.7 MB.
+✅ Ventajas de _TABLE_SUFFIX para trabajar con tablas particionadas por fecha.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/UlDUQ9G0QHM/hqdefault.jpg,https://www.youtube.com/watch?v=UlDUQ9G0QHM
+NVwGmBS-wMw,UCUEOHBht8pnQhQvCfIcl-gg,"Cómo usar AND, OR, IN y NOT en la cláusula WHERE de SQL | Curso de SQL BigQuery #44",2025-10-07 12:00:53+00:00,528,"En este capítulo aprenderemos a utilizar los operadores AND, OR, IN y NOT dentro de la cláusula WHERE en SQL BigQuery. Revisaremos cómo combinar múltiples condiciones, agrupar filtros con paréntesis y simplificar consultas al trabajar con un mismo campo.
+
+📌 Temas que veremos:
+✅ Uso del operador AND para combinar condiciones.
+✅ Problemas comunes al usar OR sin paréntesis.
+✅ Cómo simplificar condiciones con IN.
+✅ Exclusión de resultados con NOT.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/NVwGmBS-wMw/hqdefault.jpg,https://www.youtube.com/watch?v=NVwGmBS-wMw
+yzvzl1LBXm0,UCUEOHBht8pnQhQvCfIcl-gg,Consulta todas las fechas de la tabla de eventos en BigQuery | Curso de SQL BigQuery #42,2025-10-06 12:01:54+00:00,417,"En este capítulo aprenderemos a filtrar datos por fechas en SQL BigQuery usando la cláusula WHERE. Analizaremos las particularidades al trabajar con el campo event_date y cómo acceder a múltiples tablas diarias de manera eficiente. 
+
+📌 Temas que veremos:
+✅ Cómo funciona el campo event_date (tipo STRING) y cómo convertirlo a fecha.
+✅ Diferencia entre consultar una sola tabla diaria y todas las tablas con *.
+✅ Impacto del tamaño de las consultas en BigQuery (ejemplos de 1.7 MB hasta 3 GB).
+✅ Importancia de optimizar consultas para no exceder los límites gratuitos o generar costos.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/yzvzl1LBXm0/hqdefault.jpg,https://www.youtube.com/watch?v=yzvzl1LBXm0
+v1Qnd2Uxcjs,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar WHERE en SQL BigQuery con textos | LOWER y UPPER | Curso de SQL BigQuery #41,2025-10-06 12:01:42+00:00,311,"En este capítulo aprenderemos a manejar casos especiales al utilizar la cláusula WHERE con operadores de comparación en SQL BigQuery. Veremos cómo los datos pueden venir con mayúsculas, minúsculas o formatos inconsistentes, y cómo resolverlo con funciones como LOWER y UPPER. Además, exploraremos ejemplos prácticos con datos de Google Analytics 4 (GA4).
+
+📌 Temas que veremos:
+✅ Uso de la cláusula WHERE con campos de texto (ejemplo: marcas de dispositivos).
+✅ Problemas comunes con mayúsculas y minúsculas al filtrar.
+✅ Cómo estandarizar datos con las funciones LOWER y UPPER.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/v1Qnd2Uxcjs/hqdefault.jpg,https://www.youtube.com/watch?v=v1Qnd2Uxcjs
+kegfG0chZHI,UCUEOHBht8pnQhQvCfIcl-gg,"DATE_ADD y DATE_SUB en SQL: sumar o restar días, meses y años a una fecha | Curso de SQL BigQuery#39",2025-10-02 12:01:25+00:00,326,"En este capítulo aprenderás a utilizar las funciones DATE_ADD y DATE_SUB en SQL BigQuery, que permiten sumar o restar intervalos de tiempo a una fecha. Veremos ejemplos prácticos con datos de Google Analytics 4 (GA4) y casos de uso en negocios como fechas de vencimiento, entregas y programación de campañas.
+
+📌 Temas que veremos:
+✅ Qué son y cómo funcionan DATE_ADD y DATE_SUB en SQL BigQuery.
+✅ Sumar y restar días, meses o años a una fecha.
+✅ Diferencia entre DATE_ADD y DATE_SUB para mayor legibilidad.
+✅ Casos reales: vencimientos, proyecciones y fechas de entrega.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/kegfG0chZHI/hqdefault.jpg,https://www.youtube.com/watch?v=kegfG0chZHI
+zT66rq7mEu4,UCUEOHBht8pnQhQvCfIcl-gg,DATEDIFF y CURRENT_DATE en SQL: diferencias de fechas y usos prácticos | Curso de SQL BigQuery #37,2025-10-01 12:02:05+00:00,327,"En este capítulo aprenderemos a usar las funciones DATEDIFF y CURRENT_DATE en SQL BigQuery, esenciales para trabajar con fechas. Veremos cómo calcular diferencias en años, meses y días, sus limitaciones al usarlas para calcular edades y casos prácticos de negocio.
+
+📌 Temas que veremos:
+✅ Qué es y cómo funciona DATEDIFF en SQL BigQuery.
+✅ Cómo obtener la fecha actual con CURRENT_DATE.
+✅ Cálculo de edades y limitaciones de YEAR en BigQuery.
+✅ Diferencia de días desde el último pedido.
+✅ Seguimiento de tiempo entre eventos (contratos, pedidos, entregas).
+✅ Buenas prácticas: uso de zonas horarias con CURRENT_DATE.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/zT66rq7mEu4/hqdefault.jpg,https://www.youtube.com/watch?v=zT66rq7mEu4
+sV8nczRvPAU,UCUEOHBht8pnQhQvCfIcl-gg,"DATEDIFF en SQL: Calcular diferencia entre fechas (años, meses, días) | Curso de SQL BigQuery #38",2025-10-01 12:01:51+00:00,505,"En este capítulo aprenderás a utilizar la función DATEDIFF en SQL BigQuery, que permite calcular la diferencia entre dos fechas de forma sencilla. Veremos casos prácticos con Google Analytics 4 (GA4), cómo transformar strings en fechas y las limitaciones al usarla para cálculos de edad.
+
+📌 Temas que veremos:
+✅ Qué es y cómo funciona DATEDIFF en SQL BigQuery.
+✅ Conversión de cadenas a fecha con PARSE_DATE.
+✅ Diferencia entre fechas actuales, personalizadas y campos en tablas.
+✅ Cálculo de diferencias en años, meses y días.
+✅ Limitaciones al usarlo para calcular edades reales.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/sV8nczRvPAU/hqdefault.jpg,https://www.youtube.com/watch?v=sV8nczRvPAU
+nAYXMoOpNsM,UCUEOHBht8pnQhQvCfIcl-gg,SAFE_DIVIDE en SQL: cómo evitar errores de división entre cero o nulos | Curso de SQL BigQuery #36,2025-09-30 12:01:36+00:00,421,"En este capítulo aprenderemos a usar la función SAFE_DIVIDE en SQL BigQuery, una forma segura de dividir números sin que tu consulta falle por divisiones entre cero o valores nulos. Veremos ejemplos prácticos con datos de Google Analytics 4 (GA4) y cómo complementar esta función con IFNULL y ROUND para mejorar la limpieza de resultados.
+
+📌 Temas que veremos:
+✅ Qué es y cómo funciona SAFE_DIVIDE en BigQuery.
+✅ Diferencia entre usar el operador / y SAFE_DIVIDE.
+✅ Cómo manejar divisiones con cero o nulos.
+✅ Uso combinado con IFNULL para reemplazar nulos por ceros.
+✅ Redondeo de resultados con ROUND.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/nAYXMoOpNsM/hqdefault.jpg,https://www.youtube.com/watch?v=nAYXMoOpNsM
+THxGW9huLRg,UCUEOHBht8pnQhQvCfIcl-gg,"ROUND, CEIL y FLOOR en SQL: cómo redondear números | Curso de SQL BigQuery #35",2025-09-30 12:01:01+00:00,624,"En este capítulo aprenderás a usar las funciones ROUND, CEIL y FLOOR en SQL BigQuery para redondear números decimales. Veremos cómo se diferencian y en qué casos usar cada una, además de explicar por qué CAST y TRUNC no sirven para redondear sino para cortar decimales.
+
+📌  Temas que veremos:
+✅ Cómo funciona ROUND y el redondeo con punto 5.
+✅ Redondeo a número entero y a decimales específicos.
+✅ CEIL: redondear siempre hacia arriba.
+✅ FLOOR: redondear siempre hacia abajo.
+✅ Diferencia entre redondear y truncar con CAST y TRUNC.
+✅ Ejemplos prácticos con métricas de Google Analytics 4 (GA4) en BigQuery.
+
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/THxGW9huLRg/hqdefault.jpg,https://www.youtube.com/watch?v=THxGW9huLRg
+vJXvL5i4OQY,UCUEOHBht8pnQhQvCfIcl-gg,CASE WHEN en SQL: Múltiples condiciones y crear columnas categóricas | Curso de SQL BigQuery #33,2025-09-29 12:01:47+00:00,467,"En este capítulo aprenderás a usar la expresión CASE WHEN en SQL, una de las más potentes para evaluar múltiples condiciones y devolver resultados personalizados en tus consultas de BigQuery con datos de Google Analytics 4.
+
+📌 Temas que veremos:
+✅ Qué es CASE WHEN y cómo funciona en SQL.
+✅ Cómo crear columnas categóricas a partir de columnas numéricas.
+✅ Ejemplo práctico: traducir valores (pending → pendiente, shipped → enviado, etc.).
+✅ Uso de LIKE y REGEXP dentro de CASE WHEN para clasificar textos.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/vJXvL5i4OQY/hqdefault.jpg,https://www.youtube.com/watch?v=vJXvL5i4OQY
+eVL3dw9BfPc,UCUEOHBht8pnQhQvCfIcl-gg,CASE WHEN en SQL: Ejemplos prácticos para clasificar compras | Curso de SQL BigQuery #34,2025-09-29 12:01:15+00:00,795,"En este capítulo aplicaremos de manera práctica lo aprendido sobre CASE WHEN en SQL. Verás cómo usar esta expresión condicional en BigQuery para traducir eventos de Google Analytics 4 y crear columnas categóricas que te ayuden a analizar mejor tus datos.
+
+📌 Temas que veremos:
+✅ Traducción de eventos (purchase → compra, page_view → página vista, etc.).
+✅ Clasificación de compras por rangos (compra alta, media y baja).
+✅ Uso de LOWER() para controlar mayúsculas y minúsculas en condiciones.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/eVL3dw9BfPc/hqdefault.jpg,https://www.youtube.com/watch?v=eVL3dw9BfPc
+U92pTqhzxoQ,UCUEOHBht8pnQhQvCfIcl-gg,"Ejemplos prácticos con IF en cadenas, fechas y listas (IN) | Curso de SQL BigQuery #32",2025-09-26 12:01:06+00:00,539,"En este capítulo continuamos explorando la función IF en SQL, pero ahora con ejemplos más avanzados en BigQuery usando datos de Google Analytics 4. Aprenderemos a usar IF con cadenas de texto, fechas y condiciones múltiples con IN.
+
+📌 Temas:
+✅ Uso de IF con cadenas de texto (traducción de eventos).
+✅ Evaluación de fechas y conversión de string a DATE con PARSE_DATE.
+✅ Condiciones con IF + IN (ejemplo: agrupar varios eventos).
+✅ Diferencia entre usar IF y CASE WHEN en SQL.
+✅ Cuándo conviene IF y cuándo es mejor usar CASE.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/U92pTqhzxoQ/hqdefault.jpg,https://www.youtube.com/watch?v=U92pTqhzxoQ
+5BEWVMsLsBo,UCUEOHBht8pnQhQvCfIcl-gg,WHERE en SQL: cómo usar la cláusula WHERE con ejemplos en GA4 | Curso de SQL BigQuery #40,2025-09-25 15:05:16+00:00,478,"En este capítulo aprenderemos a utilizar la cláusula WHERE en SQL BigQuery, que nos permite filtrar los resultados de una tabla según una o varias condiciones. Veremos tanto la sintaxis correcta como el orden real de ejecución en SQL, además de ejemplos prácticos con datos de Google Analytics 4 (GA4).
+
+📌 Temas que veremos:
+✅ Qué es la cláusula WHERE y cómo funciona en SQL BigQuery.
+✅ Diferencia entre sintaxis y orden de ejecución (FROM → WHERE → SELECT).
+✅ Filtrar por columnas de texto y valores numéricos.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/5BEWVMsLsBo/hqdefault.jpg,https://www.youtube.com/watch?v=5BEWVMsLsBo
+Oswa8OkiQPs,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar la función IF en SQL (condiciones simples como en Excel | Curso de SQL BigQuery #31,2025-09-25 12:00:57+00:00,729,"En este capítulo revisaremos la función IF en SQL, muy parecida a la que usamos en Excel. Veremos cómo crear columnas condicionales en BigQuery usando datos de Google Analytics 4.
+
+📌  Temas:
+✅ Cómo funciona la expresión IF en SQL.
+✅ Creación de nuevas columnas basadas en condiciones.
+✅ Ejemplo práctico con valores numéricos (clientes top).
+✅ Manejo de nulos y qué ocurre si no los evaluamos.
+✅ Diferencia entre usar IF y CASE WHEN en SQL.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/Oswa8OkiQPs/hqdefault.jpg,https://www.youtube.com/watch?v=Oswa8OkiQPs
+Q275enpY7bY,UCUEOHBht8pnQhQvCfIcl-gg,Cómo convertir fechas con CAST y PARSE_DATE en SQL | Curso de SQL BigQuery #30,2025-09-24 12:01:01+00:00,318,"En este capítulo revisaremos cómo manejar conversiones de fechas en SQL utilizando BigQuery con datos de Google Analytics 4. Veremos las limitaciones de CAST al convertir texto a fecha y cómo resolverlo con PARSE_DATE.
+
+📌 Temas:
+✅ Qué ocurre al convertir texto a fecha con CAST.
+✅ Requisitos de formato para que CAST funcione correctamente.
+✅ Cómo usar PARSE_DATE para transformar strings en fechas reales.
+✅ Ejemplos prácticos con columnas de GA4 (event_date).
+✅ Diferencias entre CAST, SAFE_CAST y PARSE_DATE según el tipo de dato.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/Q275enpY7bY/hqdefault.jpg,https://www.youtube.com/watch?v=Q275enpY7bY
+Lox4HlSibXo,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar SAFE_CAST para convertir tipos de datos sin errores | Curso de SQL BigQuery #29,2025-09-24 12:00:42+00:00,431,"En este capítulo revisaremos la función SAFE_CAST en SQL, la forma segura de convertir tipos de datos en BigQuery al trabajar con información de Google Analytics 4.
+
+📌 Temas:
+✅ Diferencia entre CAST y SAFE_CAST en SQL.
+✅ Cómo convertir texto en números (INT64 y FLOAT64).
+✅ Qué ocurre cuando la conversión no es posible (valores NULL).
+✅ Ejemplo práctico con columnas de eventos y user ID en GA4.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/Lox4HlSibXo/hqdefault.jpg,https://www.youtube.com/watch?v=Lox4HlSibXo
+YDElIJ6jMrw,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar EXCEPT para excluir columnas en tus consultas | Curso de SQL BigQuery #28,2025-09-23 12:01:11+00:00,347,"En este capítulo revisaremos la expresión EXCEPT en SQL, aprendiendo a excluir columnas directamente desde la cláusula SELECT en BigQuery con datos de Google Analytics 4.
+
+📌 Temas:
+✅ Cómo funciona EXCEPT dentro de SELECT.
+✅ Diferencia entre excluir una o varias columnas.
+✅ Ejemplo práctico quitando columnas de la tabla de eventos en GA4.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/YDElIJ6jMrw/hqdefault.jpg,https://www.youtube.com/watch?v=YDElIJ6jMrw
+Dc98c6LPQQE,UCUEOHBht8pnQhQvCfIcl-gg,COALESCE en SQL: Manejo de valores nulos en SQL | Curso de SQL BigQuery #27,2025-09-23 12:00:33+00:00,499,"En este capítulo revisaremos la función COALESCE en SQL, una herramienta clave para manejar valores nulos en BigQuery con datos de Google Analytics 4.
+
+📌 Temas:
+✅ ¿Qué es COALESCE y cómo funciona?
+✅ Diferencias entre COALESCE e IFNULL.
+✅ Uso de argumentos dentro de COALESCE.
+✅ Consideraciones al trabajar con valores completamente nulos.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/Dc98c6LPQQE/hqdefault.jpg,https://www.youtube.com/watch?v=Dc98c6LPQQE
+vBRiaP5NgVw,UCUEOHBht8pnQhQvCfIcl-gg,Uso de LENGTH y TRIM para limpiar y estandarizar texto | Curso de SQL BigQuery #25,2025-09-22 12:01:51+00:00,302,"En este capítulo revisaremos las funciones LENGTH y TRIM en SQL, esenciales para medir y limpiar cadenas de texto en BigQuery al trabajar con datos de Google Analytics 4.
+
+📌 Temas:
+✅ Cómo obtener la cantidad de caracteres con LENGTH.
+✅ Ejemplo práctico agregando espacios en blanco y eliminándolos con TRIM.
+✅ Diferencia entre datos limpios y datos con espacios ocultos.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/vBRiaP5NgVw/hqdefault.jpg,https://www.youtube.com/watch?v=vBRiaP5NgVw
+t4eZfB4XTHg,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar LOWER y UPPER para estandarizar datos | Curso de SQL BigQuery #26,2025-09-22 12:01:40+00:00,375,"En este capítulo revisaremos las funciones LOWER y UPPER en SQL, fundamentales para estandarizar datos de texto en BigQuery con información de Google Analytics 4.
+
+📌 Temas:
+✅ Diferencia entre LOWER y UPPER en SQL.
+✅ Cómo convertir texto a minúsculas o mayúsculas.
+✅ Ejemplos prácticos con correos electrónicos y nombres de ciudades.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/t4eZfB4XTHg/hqdefault.jpg,https://www.youtube.com/watch?v=t4eZfB4XTHg
+NQpnc4YfuQo,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar TRANSLATE en SQL | Replace vs Translate | Curso de SQL BigQuery #24,2025-09-19 12:00:48+00:00,549,"En este capítulo revisaremos la función TRANSLATE en SQL, entendiendo sus diferencias con la función REPLACE.
+
+📌Temas:
+✅ Diferencia entre REPLACE y TRANSLATE en SQL.
+✅ Cómo reemplazar un carácter o varios a la vez.
+✅ Ejemplos prácticos con cadenas de texto y limpieza de datos (cambiar todas la vocales)
+✅ Casos reales como normalizar correos o eliminar caracteres especiales.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/NQpnc4YfuQo/hqdefault.jpg,https://www.youtube.com/watch?v=NQpnc4YfuQo
+tIxrQnDwvx4,UCUEOHBht8pnQhQvCfIcl-gg,"Cómo usar REPLACE en SQL | Cambia, limpia y estandariza valores | Curso de SQL BigQuery #23",2025-09-18 12:01:52+00:00,245,"En este capítulo explicamos cómo funciona la función REPLACE en SQL, ideal para reemplazar, eliminar o transformar cadenas de texto dentro de una columna.
+
+📌 Temas:
+✅ Reemplazar un valor específico por otro dentro de un campo.
+✅ Sustituir caracteres como guiones bajos por espacios.
+✅ Eliminar partes de texto reemplazándolas por vacío.
+✅ Entender la diferencia entre REPLACE y expresiones lógicas como CASE o IF.
+✅ Considerar el detalle de mayúsculas y minúsculas (case sensitive) al hacer reemplazos.
+
+Esta función es muy útil cuando necesitas limpiar datos, estandarizar formatos o traducir valores en tus consultas SQL.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/tIxrQnDwvx4/hqdefault.jpg,https://www.youtube.com/watch?v=tIxrQnDwvx4
+ZWi_B_rqvt4,UCUEOHBht8pnQhQvCfIcl-gg,"Cómo usar LEFTPAD y RIGHTPAD | Rellenar valores, estandarizar longitudes | Curso de SQL BigQuery #22",2025-09-17 12:01:14+00:00,198,"En este capítulo exploramos las funciones LEFTPAD y RIGHTPAD en SQL, que nos permiten rellenar cadenas de texto hasta una longitud definida, a diferencia de las funciones clásicas LEFT y RIGHT, que solo extraen caracteres.
+
+📌 Temas:
+✅ Usar LEFTPAD y RIGHTPAD en SQL
+✅ Rellenar con ceros (u otros caracteres) cuando la longitud es menor a la esperada
+✅ Diferenciar entre LEFT/RIGHT (extraer) y LEFTPAD/RIGHTPAD (rellenar)
+✅ Estandarizar la longitud de los datos en columnas
+
+Estas funciones son muy útiles cuando necesitas trabajar con IDs, códigos o campos que deben tener un formato fijo.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/ZWi_B_rqvt4/hqdefault.jpg,https://www.youtube.com/watch?v=ZWi_B_rqvt4
+CrG-FruGb-k,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar INSTR y STRPOS | Encuentra la posición de caracteres | Curso de SQL BigQuery #21,2025-09-17 12:00:33+00:00,332,"En este capítulo exploramos las funciones INSTR y STRPOS en SQL, que nos permiten encontrar la posición de un carácter o subcadena dentro de un texto.
+Veremos ejemplos prácticos comparando su uso con otras funciones como SPLIT y SUBSTRING, para entender cómo podemos localizar posiciones y extraer datos de manera más flexible.
+
+📌 Temas:
+✅ Qué son y cómo funcionan INSTR y STRPOS en SQL
+✅ Cómo combinar INSTR con SUBSTRING para extraer valores dinámicamente
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/CrG-FruGb-k/hqdefault.jpg,https://www.youtube.com/watch?v=CrG-FruGb-k
+q0n48c-f4O8,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar SUBSTRING para extraer texto en BigQuery | Curso de SQL BigQuery #20,2025-09-16 12:01:39+00:00,296,"En este capítulo del curso de BigQuery aprenderás a utilizar la función SUBSTRING (o SUBSTR) para extraer partes específicas de un texto a partir de una posición inicial. 
+
+👉 Veremos ejemplos aplicados y cómo obtener valores antes o después de un punto dentro de una cadena. También entenderás en qué casos conviene usar SUBSTRING, especialmente cuando trabajamos con datos estándar o con longitudes fijas.
+
+📌 Temas:
+✅ Cómo extraer texto a partir de una posición específica
+✅ Cuándo usar SUBSTRING: En datos estándar
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/q0n48c-f4O8/hqdefault.jpg,https://www.youtube.com/watch?v=q0n48c-f4O8
+_cXvg-XPnUs,UCUEOHBht8pnQhQvCfIcl-gg,Cómo separar texto en columnas y entender arrays en Big Query | SPLIT | Curso de SQL BigQuery #19,2025-09-16 12:01:16+00:00,470,"En este capítulo aprenderás a usar la función SPLIT en BigQuery. Veremos cómo aplicar esta función en la tabla events de Google Analytics 4 (GA4) y entender mejor el concepto de arrays en SQL.
+
+📌  Temas:
+✅ Cómo funciona la función SPLIT en BigQuery
+✅ Ejemplo práctico separando un user_pseudo_id en dos columnas
+✅ Qué es un array y cómo interpretarlo en los resultados
+✅ Uso de OFFSET para extraer valores específicos de un array
+✅ Diferencia entre tablas planas y tablas con arrays en GA4
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/_cXvg-XPnUs/hqdefault.jpg,https://www.youtube.com/watch?v=_cXvg-XPnUs
+zcOZ0IEsXHc,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar CONCAT en SQL | Curso de SQL BigQuery #18,2025-09-15 12:01:57+00:00,391,"En este capítulo del curso de BigQuery aprenderás a usar la función CONCAT, muy similar a la función CONCATENAR en Excel, pero con consideraciones importantes en SQL de BigQuery.
+
+📌 Temas:
+✅ Concatenar columnas como fechas y IDs de usuario.
+✅ Insertar espacios, guiones o texto fijo al unir campos.
+✅ Manejar valores nulos con COALESCE para evitar errores en los resultados.
+✅ Alternativa al uso de CONCAT: el operador || para unir cadenas de manera simple.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/zcOZ0IEsXHc/hqdefault.jpg,https://www.youtube.com/watch?v=zcOZ0IEsXHc
+ue5vLsIijHs,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar FORMAT_DATE  | De DATE a STRING | Mostrar días de la semana | Curso de SQL Big Query #17,2025-09-15 12:01:43+00:00,234,"En este video aprenderemos a usar la función FORMAT_DATE en BigQuery, una de las expresiones más útiles para formatear y personalizar fechas en tus consultas SQL. 
+
+📌 Temas:
+✅ Convertir un valor DATE en STRING (texto).
+✅ Extraer el día de la semana (Monday, Tuesday, etc.).
+✅ Crear formatos de fecha personalizados en Big Query.
+
+👉 En próximos capítulos veremos cómo pasar de resultados en inglés a español usando condicionales (CASE).
+
+#BigQuery #SQL #GoogleBigQuery #Fechas #FORMATDATE
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/ue5vLsIijHs/hqdefault.jpg,https://www.youtube.com/watch?v=ue5vLsIijHs
+JbwNhXjC16A,UCUEOHBht8pnQhQvCfIcl-gg,Cómo extraer hora y minuto en Big Query | Manejo de event_timestamp | Curso de SQL BigQuery #16,2025-09-12 12:00:38+00:00,374,"En este capítulo del curso de BigQuery con Google Analytics 4, aprenderás a extraer hora, minuto y segundo a partir del campo event_timestamp, convirtiéndolo correctamente a formato TIMESTAMP para que Big Query lo interprete bien.
+
+Revisaremos cómo usar TIMESTAMP_MICROS junto con la función EXTRACT, y cómo ajustar la información a tu zona horaria (ejemplo: América/Lima) para que tus reportes reflejen la hora real de los eventos.
+
+📌 Temas:
+✅ Cómo convertir un entero a TIMESTAMP usando TIMESTAMP_MICROS.
+✅ Uso de EXTRACT para obtener hora, minuto y segundo en BigQuery.
+✅ Ajustar la zona horaria (UTC vs. América/Lima u otra).
+✅ Alternativas usando DATETIME y consideraciones importantes.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/JbwNhXjC16A/hqdefault.jpg,https://www.youtube.com/watch?v=JbwNhXjC16A
+VrvnwaTppAE,UCUEOHBht8pnQhQvCfIcl-gg,"Cómo usar EXTRACT en BigQuery | Extraer día, mes y año de fechas | Curso de SQL BigQuery #15",2025-09-11 12:00:59+00:00,435,"En este capítulo aprenderemos a usar la función EXTRACT, que permite obtener partes específicas de una fecha, como día, mes, año, trimestre o semana.
+
+Veremos ejemplos prácticos con una tabla prueba y con la tabla de events de GA4, explicando las diferencias entre trabajar con campos de tipo DATE y STRING, y cómo combinar EXTRACT con PARSE_DATE para transformar datos en Big Query.
+
+📌 Temas:
+✅  Cómo funciona la función EXTRACT en Big Query.
+✅ Extraer día, mes, año, semana y trimestre de un campo DATE.
+✅ Diferencias entre DATE, STRING, DATETIME y TIMESTAMP.
+✅ Uso de PARSE_DATE para convertir un string en fecha antes de aplicar EXTRACT.
+✅ Limitaciones: por qué no se puede extraer hora, minuto o segundo desde DATE.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/VrvnwaTppAE/hqdefault.jpg,https://www.youtube.com/watch?v=VrvnwaTppAE
+OTkdggNWv14,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar PARSE_DATE en Big Query | Convierte strings en fechas | Curso de SQL BigQuery #14,2025-09-10 12:00:48+00:00,380,"En este capítulo revisaremos como usar la función PARSE_DATE, fundamental para trabajar con campos de fecha que vienen en formato texto (string).
+Transformaremos el campo event_date de la tabla events de GA4 en un formato de fecha correcto, paso a paso, para que puedas realizar consultas más precisas y ordenadas.
+
+📌 Temas:
+✅ Qué es la función PARSE_DATE en Big Query.
+✅ Cómo convertir un campo string en DATE.
+✅ El formato correcto que debes usar para año, mes y día.
+✅ Buenas prácticas al trabajar con event_date en GA4.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/OTkdggNWv14/hqdefault.jpg,https://www.youtube.com/watch?v=OTkdggNWv14
+BQnwEe6r4Fg,UCUEOHBht8pnQhQvCfIcl-gg,Cláusulas básicas de SQL en Big Query | Curso de SQL BigQuery #13,2025-09-10 12:00:21+00:00,302,"En este capítulo del curso BigQuery con Google Analytics 4, aprenderás las cláusulas básicas de SQL y el orden real de ejecución dentro de una consulta. Revisaremos SELECT, FROM, WHERE, GROUP BY, HAVING y ORDER BY, y veremos cómo se combinan con funciones útiles para transformar y limpiar datos.
+
+📌 Temas:
+✅ Cláusulas básicas de SQL
+✅ El orden correcto de las cláusulas en SQL.
+✅ Funciones prácticas como CONCAT, SPLIT, IF, CASE WHEN y más.
+✅ Casos de uso con datos reales de Google Analytics 4.
+
+💡 Tip: Conocer el orden de ejecución en SQL te ayudará a escribir consultas más eficientes y evitar errores comunes al analizar datos en BigQuery.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/BQnwEe6r4Fg/hqdefault.jpg,https://www.youtube.com/watch?v=BQnwEe6r4Fg
+uN-yP7FwIN4,UCUEOHBht8pnQhQvCfIcl-gg,Cómo conectar Big Query con Looker Studio | Curso de SQL BigQuery #12,2025-09-09 12:01:43+00:00,1097,"En este capítulo aprenderemos cómo llevar datos de BigQuery a Looker Studio para crear reportes visuales y dashboards dinámicos. Mencionaremos paso a paso cómo conectar ambas herramientas, filtrar y organizar la información, y preparar tus datos para que sean claros y fáciles de interpretar.
+
+📌 Temas clave:
+✅ Cómo conectar Big Query con Looker Studio.
+✅ Desventajas de conectar vistas de Big Query con Looker Studio.
+✅ Cuándo conviene usar vistas: para consultar datos en tiempo real
+✅ Ventajas de las tablas particionadas: procesan menos datos que las tablas normales.
+
+💡 Tip: Una buena estructura en Big Query facilita un dashboard limpio y rápido en Looker Studio.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/uN-yP7FwIN4/hqdefault.jpg,https://www.youtube.com/watch?v=uN-yP7FwIN4
+K2jlyUL3zK8,UCUEOHBht8pnQhQvCfIcl-gg,Cómo guardar tus consultas como vistas | Curso de SQL BigQuery #11,2025-09-09 12:00:41+00:00,879,"En este capítulo del curso BigQuery con Google Analytics 4 aprenderás a guardar tus consultas y a crear vistas para reutilizarlas en futuros análisis. Veremos paso a paso cómo convertir tu código en una vista  y cuándo conviene hacerlo para ahorrar tiempo y mantener tu trabajo organizado.
+
+📌 Temas:
+✅ Cómo guardar consultas en Big Query
+✅ Cómo acceder rápidamente a tus consultas guardadas.
+✅ Qué es una vista en BigQuery y cómo crearla.
+✅ Diferencias entre guardar consultas y guardar consultas como vistas.
+
+#BigQuery #GoogleAnalytics4 #SQL #GA4 #DataAnalytics #event_date #AnalisisDeDatos
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/K2jlyUL3zK8/hqdefault.jpg,https://www.youtube.com/watch?v=K2jlyUL3zK8
+m_WT3mJ0J9E,UCUEOHBht8pnQhQvCfIcl-gg,SELECT y FROM en SQL: La base de las consultas SQL (parte 2) | Curso de SQL BigQuery #10,2025-09-08 12:01:27+00:00,438,"En este capítulo del curso BigQuery con datos de Google Analytics 4 aprenderás a mantener un código ordenado y estandarizado al escribir consultas SQL, evitando errores y problemas a futuro.
+
+Veremos cómo indentar correctamente tu código, renombrar columnas con AS, y por qué es importante mantener un esquema de tabla fijo para evitar inconsistencias.
+
+📌 Temas:
+✅ Cómo dar formato e indentación a tus consultas para mejorar la legibilidad.
+✅ Uso de AS para cambiar nombres de columnas y adaptarlos a estándares.
+✅ Agregar columnas nuevas sin perder de vista la estructura original.
+✅ Diferencias entre la tabla física y el resultado de una consulta.
+✅ Por qué se debe establecer un esquema de la tabla resultante de la consulta.
+
+💡 Consejo: Un código limpio y un esquema fijo no solo facilitan tu trabajo, también ayudan a cualquier otra persona que utilice tu consulta más adelante.
+
+#BigQuery #GoogleAnalytics4 #SQL #GA4 #DataAnalytics #event_date #AnalisisDeDatos
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/m_WT3mJ0J9E/hqdefault.jpg,https://www.youtube.com/watch?v=m_WT3mJ0J9E
+TGfUG__aOhw,UCUEOHBht8pnQhQvCfIcl-gg,SELECT y FROM en SQL: La base de las consultas SQL (parte 1) | Curso de SQL BigQuery #9,2025-09-08 12:01:01+00:00,671,"En este capítulo del curso BigQuery con datos de Google Analytics 4 aprenderás a usar las cláusulas SELECT y FROM, la base de cualquier consulta SQL.
+
+Veremos cómo escribir consultas correctas en BigQuery, cómo obtener el ID completo de una tabla, y por qué es importante seleccionar solo las columnas necesarias para optimizar costos.
+
+📍 Temas:
+✅  Estructura básica de una consulta SQL en BigQuery.
+✅  Uso correcto de las comillas invertidas ` para el nombre de la tabla.
+✅  Cómo copiar y usar el Table ID en el FROM.
+✅  Selección de columnas específicas vs. uso de SELECT *
+✅  Impacto en el costo y tamaño procesado según las columnas seleccionadas.
+✅  Diferencia entre una tabla física y el resultado de una consulta.
+
+💡 Consejo clave: evita SELECT * si no es necesario y selecciona solo lo que realmente vas a usar para ahorrar tiempo y recursos.
+
+#BigQuery #GoogleAnalytics4 #SQL #GA4 #DataAnalytics #event_date #AnalisisDeDatos
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/TGfUG__aOhw/hqdefault.jpg,https://www.youtube.com/watch?v=TGfUG__aOhw
+YnFvHoWdvzs,UCUEOHBht8pnQhQvCfIcl-gg,Crea tu primera tabla plana desde events de Google Analytics 4 | Curso de SQL BigQuery #8,2025-09-05 12:01:20+00:00,489,"En este capítulo haremos un breve paréntesis antes de continuar con SQL, para transformar la tabla events (que no es plana) en una tabla plana y regular con la que podamos practicar las consultas básicas de SQL en BigQuery.
+
+📌 Temas clave:
+✅ Consultas de tipo DQL (Data Query Language).
+✅ Crear una tabla plana en base a la tabla events.
+✅ Cómo crear un conjunto de datos y almacenar allí tu tabla.
+✅ Cómo guardar los resultados como una tabla física en tu proyecto de BigQuery.
+✅ Primeros pasos con las cláusulas SELECT y FROM.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+👉Consulta SQL: Creación de tabla prueba
+https://drive.google.com/file/d/1Qe8tGA9X_UAfoLjaQvUZjSR2f72WnYJ4/view?usp=sharing
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/YnFvHoWdvzs/hqdefault.jpg,https://www.youtube.com/watch?v=YnFvHoWdvzs
+CHz9g2LGYlo,UCUEOHBht8pnQhQvCfIcl-gg,Cómo entender los campos anidados de la tabla events de Google Analytics 04 | Curso SQL BigQuery #7,2025-09-04 12:00:20+00:00,648,"En este capítulo del curso SQL en BigQuery con datos de Google Analytics 4 (GA4) aprenderás a identificar y comprender campos anidados en la tabla events, así como la diferencia entre los campos de tipo RECORD y RECORD REPEATED.
+
+📌 Temas clave del video:
+✅ Qué son los campos anidados en BigQuery
+✅ Tipos de datos RECORD y RECORD REPEATED
+✅ Ejemplos con columnas como device, geo y event_params
+✅ Introducción a la cláusula UNNEST para acceder a datos anidados
+
+Este capítulo es fundamental para entender la estructura compleja de la tabla events en BigQuery y cómo esta enriquece la información de cada evento en Google Analytics 4.
+
+#BigQuery #GoogleAnalytics4 #SQL #GA4 #DataAnalytics #event_date #AnalisisDeDatos
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/CHz9g2LGYlo/hqdefault.jpg,https://www.youtube.com/watch?v=CHz9g2LGYlo
+v1lKqeiQFTI,UCUEOHBht8pnQhQvCfIcl-gg,Tabla events y Tabla intraday de google analytics 4 | Curso de SQL BigQuery #5,2025-09-03 12:01:57+00:00,670,"En este capítulo del curso de SQL en BigQuery con datos de Google Analytics 4 (GA4), exploramos las diferencias entre la tabla events y la tabla intraday de google analytics 4.
+
+📌 Temas clave:
+✅ Conjunto de tabla events (tablas por día)
+✅ Esquema de la tabla events (columnas de las tablas)
+✅ En qué formato se almacena la fecha de la tabla events (AAAAMMDD)
+✅ Nombre estándar del conjunto de datos de google analytics (analytics_409893843)
+✅ Tabla events vs Tabla intraday
+✅ Vista en tiempo real de cómo llegan los datos a una tabla intraday
+
+👉 Link a la lista de reproducción de Big Query y Analytics
+https://youtube.com/playlist?list=PLV4oS06_KpqaZWu2b-GR-2w2g11pxgDaz&si=quLmxGmJay-ckd_N
+
+#BigQuery #GoogleAnalytics4 #SQL #GA4 #DataAnalytics #event_date #AnalisisDeDatos
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/v1lKqeiQFTI/hqdefault.jpg,https://www.youtube.com/watch?v=v1lKqeiQFTI
+PIOYkiA1qBw,UCUEOHBht8pnQhQvCfIcl-gg,Cómo se registran los datos en la tabla de events | Curso de SQL BigQuery #6,2025-09-03 12:00:48+00:00,633,"En este capítulo del curso de SQL en BigQuery con datos de Google Analytics 4 (GA4), exploramos en detalle qué representa cada fila registrada en la tabla events.
+
+📌 Temas clave:
+
+✅ Explicación de la tabla events de google analytics 04
+✅ Eventos en google analytics 04
+✅ Esquema de la tabla events (columnas de la tabla)
+✅ Columnas básicas de análisis (event_date, event_timestamp, event_name, user_pseudo_id)
+
+Este capítulo es esencial para entender cómo se reciben los datos de la tabla events en BigQuery usando los datos de Google Analytics 4.
+
+👉 Link a la lista de reproducción de Google analytics 04 | nivel básico
+https://www.youtube.com/playlist?list=PLV4oS06_KpqaJurJFbLi3HGrHrlOShc_x
+
+👉 Link a la lista de reproducción de Big Query y Analytics
+https://youtube.com/playlist?list=PLV4oS06_KpqaZWu2b-GR-2w2g11pxgDaz&si=quLmxGmJay-ckd_N
+
+👉 Link de apoyo, eventos automáticos registrados en GA4
+https://support.google.com/analytics/answer/9234069?hl=es
+
+#BigQuery #GoogleAnalytics4 #SQL #GA4 #DataAnalytics #event_timestamp #AnalisisDeDatos
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/PIOYkiA1qBw/hqdefault.jpg,https://www.youtube.com/watch?v=PIOYkiA1qBw
+X6JyQKV5d0E,UCUEOHBht8pnQhQvCfIcl-gg,Estructura de proyectos y menús en Google Cloud | Curso de SQL BigQuery #3,2025-09-02 12:01:06+00:00,319,"En este video exploramos la estructura básica de BigQuery dentro de la plataforma de Google Cloud. Aprenderemos a diferenciar los menús de Google Cloud y BigQuery, cómo funcionan los proyectos y la cuenta de facturación para acceder a créditos gratuitos y funcionalidades avanzadas.
+
+📍Temas
+✅¿Qué es un proyecto en Google Cloud?
+✅ Menús esenciales para trabajar con BigQuery
+✅ Navegación por el explorador de BigQuery: conjuntos de datos y tablas
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU
+
+#BigQuery #GoogleCloud #SQL #AnalisisDeDatos #CursoGratis #DataAnalytics",https://i.ytimg.com/vi/X6JyQKV5d0E/hqdefault.jpg,https://www.youtube.com/watch?v=X6JyQKV5d0E
+aLp96mNnYA8,UCUEOHBht8pnQhQvCfIcl-gg,De dónde sacar datos en BigQuery para hacer consultas SQL | Curso de SQL BigQuery #4,2025-09-02 12:00:00+00:00,396,"En este capítulo 4 del curso de BigQuery y SQL, aprenderás cómo funciona la estructura de datos en BigQuery y de dónde obtener los datos para practicar consultas SQL.
+
+📍Temas:
+✅Explicamos la jerarquía: proyectos, conjuntos de datos y tablas.
+✅Presentamos los datos públicos de Google Analytics 4 que usaremos en el curso.
+✅ Cómo acceder al conjunto de datos de prueba de comercio electrónico en BigQuery Public Data.
+
+Si estás empezando con BigQuery y quieres aprender SQL aplicado a datos reales y de prueba, este video es para ti.
+
+👉 Link a la lista de reproducción de Google Analytics básico (recomendado para principiantes)
+https://youtube.com/playlist?list=PLV4oS06_KpqaJurJFbLi3HGrHrlOShc_x&si=4kIutKWkpGsyJTjY
+👉 Link al conjunto de datos público de BigQuery usado en este curso (en la descripción)
+https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset?hl=es-419
+
+No olvides suscribirte para no perderte los próximos capítulos.
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU
+
+#BigQuery #SQL #GoogleAnalytics #DataAnalytics #CursoBigQuery",https://i.ytimg.com/vi/aLp96mNnYA8/hqdefault.jpg,https://www.youtube.com/watch?v=aLp96mNnYA8
+mj_b9_nxJfw,UCUEOHBht8pnQhQvCfIcl-gg,Curso gratuito de SQL en BigQuery (desde cero) | Curso de SQL BigQuery #1,2025-09-01 11:01:30+00:00,237,"Bienvenido al Curso Gratuito de SQL aplicado en BigQuery desde cero 🚀
+
+En este primer video te explico las diferencias entre una base de datos relacional y BigQuery, y por qué esto es clave antes de empezar a escribir consultas. También conocerás los diferentes tipos de sentencias SQL (DQL, DML y DDL) que usaremos a lo largo del curso.
+
+🔍 Lo que aprenderás en este video:
+
+Diferencias entre una base de datos relacional y BigQuery.
+Conceptos de llaves primarias, llaves foráneas y cómo se aplican (o no) en BigQuery.
+Introducción a los tipos de sentencias SQL: DQL, DML y DDL.
+Estructura general del curso: nivel básico, intermedio y avanzado.
+
+🎯 Este curso está diseñado para:
+
+Personas que quieren aprender SQL desde cero.
+Analistas de datos y marketers que trabajan con Google Analytics 4 y BigQuery.
+Profesionales que buscan aplicar SQL en proyectos reales con grandes volúmenes de datos.
+
+📚 Próximos módulos:
+
+Módulo básico: SELECT, FROM, WHERE, GROUP BY, JOIN, ORDER BY
+Módulo intermedio: JOINS, subconsultas, operadores de conjunto, expresiones de tabla.
+Módulo avanzado: funciones de ventana y análisis con tablas derivadas.
+
+💡 No olvides suscribirte al canal y activar la campanita 🔔 para no perderte los próximos capítulos del curso.",https://i.ytimg.com/vi/mj_b9_nxJfw/hqdefault.jpg,https://www.youtube.com/watch?v=mj_b9_nxJfw
+LDp0JP4L6YY,UCUEOHBht8pnQhQvCfIcl-gg,Cómo crear cuenta en Google Cloud y activar BigQuery | Curso de SQL BigQuery #2,2025-09-01 10:00:43+00:00,397,"En este video aprenderemos paso a paso cómo crear tu cuenta en Google Cloud para comenzar a trabajar con BigQuery, el potente servicio de análisis de datos en la nube de Google.
+
+📌 Temas:
+✅ Qué es BigQuery y cómo funciona dentro de Google Cloud.
+✅Cómo se cobra el servicio (pago bajo demanda).
+✅Cómo aprovechar el plan gratuito y los 300 USD en créditos de prueba.
+✅Cómo crear tu primer proyecto en Google Cloud.
+
+
+📌 Recursos útiles:
+🔗 GitHub: https://github.com/angelgarciadatablog
+🌐 Página web: https://angelgarciadatablog.com
+💙 Apóyame vía PayPal: https://paypal.me/angeldatablog
+📖 Diapositivas:
+https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM
+
+📚 Lista de reproducción completa del curso:
+https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU
+
+#BigQuery #GoogleCloud #SQL #AnalisisDeDatos #CursoGratis #DataAnalytics",https://i.ytimg.com/vi/LDp0JP4L6YY/hqdefault.jpg,https://www.youtube.com/watch?v=LDp0JP4L6YY
+t8grl_NIYPw,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar DATESINPERIOD en Power BI | Ventas de los últimos 7 días,2025-04-13 05:29:01+00:00,1054,"📌Descargar de archivo
+https://drive.google.com/file/d/1-2w9JaebC4r0MMQmAA1j1LGQmnaEquaf/view?usp=sharing
+
+📌Descargar Contoso
+https://www.microsoft.com/en-us/download/details.aspx?id=46801
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?count... ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/t8grl_NIYPw/hqdefault.jpg,https://www.youtube.com/watch?v=t8grl_NIYPw
+iNyOOzX6lKk,UCUEOHBht8pnQhQvCfIcl-gg,Cómo comparar periodos comerciales que no coinciden entre años | SAMEPERIODLASTYEAR,2025-04-08 05:58:28+00:00,433,"👉Tema: Solución para desfase de periodos comerciales con SAMEPERIODLASTYEAR  y DATEADD 
+
+📌Descarga de archivo
+https://drive.google.com/file/d/126E1OT7MNXMn0_On0eh55jDT7RqxssrA/view?usp=sharing
+
+📌Descarga modelo contoso
+https://www.microsoft.com/en-us/download/details.aspx?id=46801
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/iNyOOzX6lKk/hqdefault.jpg,https://www.youtube.com/watch?v=iNyOOzX6lKk
+E6-cYClJn3Y,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar DATESYTD en Power BI | Ventas Acumuladas por Día y por Mes,2025-04-08 00:11:14+00:00,1204,"📌Descargar de archivo
+https://drive.google.com/file/d/1yiIEDE4V4Koc4Y8ZTjxFWADOTSzuBin-/view?usp=sharing
+
+📌Descargar Contoso
+https://www.microsoft.com/en-us/download/details.aspx?id=46801
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/E6-cYClJn3Y/hqdefault.jpg,https://www.youtube.com/watch?v=E6-cYClJn3Y
+HyPyDdUy-Xk,UCUEOHBht8pnQhQvCfIcl-gg,INTERSECT en Power BI: Cómo Encontrar Valores Repetidos en Dos Tablas,2025-03-30 11:22:36+00:00,796,"📌Descarga de archivo:
+https://drive.google.com/file/d/1T7djvXnYd4P2vi4WJTuLoMVQ7so2DL8x/view?usp=sharing
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/HyPyDdUy-Xk/hqdefault.jpg,https://www.youtube.com/watch?v=HyPyDdUy-Xk
+46knscCk2Ic,UCUEOHBht8pnQhQvCfIcl-gg,Summarize y Filter [Parte 2],2025-03-30 04:55:31+00:00,858,"👉Tema: No es lo mismo usar Filter y Summarize que Summarize y Filter
+Parte 1: https://youtu.be/a4PcaVKyCko
+
+📌Descarga de archivo:
+https://drive.google.com/file/d/1MwrqV3qr5JJwxPeUowtqCvH3HFuCQkCr/view?usp=sharing
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/46knscCk2Ic/hqdefault.jpg,https://www.youtube.com/watch?v=46knscCk2Ic
+a4PcaVKyCko,UCUEOHBht8pnQhQvCfIcl-gg,FILTER Y SUMMARIZE en power bi [Parte 1],2025-03-28 11:23:35+00:00,705,"👉Tema: Cómo acceder a columnas de otra tabla relacionada en power bi
+Parte 2: https://youtu.be/46knscCk2Ic
+
+📌Descargar de archivo:
+https://drive.google.com/file/d/1Wp-Ne48iSZn5MW3Zm7nbKV4M_F8qdDDo/view?usp=sharing
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/a4PcaVKyCko/hqdefault.jpg,https://www.youtube.com/watch?v=a4PcaVKyCko
+OoG2Z1GdWQQ,UCUEOHBht8pnQhQvCfIcl-gg,FILTER y RELATED en power bi,2025-03-28 11:20:34+00:00,492,"👉Tema: Cómo filtrar una tabla de hechos en base a un criterio de una tabla dimensión
+
+📌Descarga de archivo:
+https://drive.google.com/file/d/1Wp-Ne48iSZn5MW3Zm7nbKV4M_F8qdDDo/view?usp=sharing
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/OoG2Z1GdWQQ/hqdefault.jpg,https://www.youtube.com/watch?v=OoG2Z1GdWQQ
+7sgJBBtJV3A,UCUEOHBht8pnQhQvCfIcl-gg,EXCEPT en Power BI: Aprende a Comparar Tablas Fácilmente,2025-03-26 12:48:51+00:00,881,"👉Tema: Como encontrar valores de una tabla que no están en otra tabla
+
+📌Descarga de archivo
+https://drive.google.com/file/d/1y9DUhYcU9MZdHgYdoNIV5UQydZdFHv3A/view?usp=sharing
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/7sgJBBtJV3A/hqdefault.jpg,https://www.youtube.com/watch?v=7sgJBBtJV3A
+NMt3A12yjhg,UCUEOHBht8pnQhQvCfIcl-gg,Cómo encontrar clientes sin transacciones en Power BI [CALCULATE],2025-03-26 12:41:24+00:00,972,"📌Descarga de archivo
+https://drive.google.com/file/d/1y9DUhYcU9MZdHgYdoNIV5UQydZdFHv3A/view?usp=sharing
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/NMt3A12yjhg/hqdefault.jpg,https://www.youtube.com/watch?v=NMt3A12yjhg
+1-VRjF4aDgk,UCUEOHBht8pnQhQvCfIcl-gg,Cómo Usar KEEPFILTERS en Power BI [Periodos Comerciales de Venta],2025-03-26 08:43:45+00:00,641,"📌Descarga de archivo
+https://drive.google.com/file/d/1uscwjILcLxMoXC3EhsAQ02Z_ovzBtPMY/view?usp=sharing
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/1-VRjF4aDgk/hqdefault.jpg,https://www.youtube.com/watch?v=1-VRjF4aDgk
+9wkGoWLVjT8,UCUEOHBht8pnQhQvCfIcl-gg,Comparar Ventas por Hora en Power BI | Análisis Paso a Paso,2025-03-25 08:23:37+00:00,1650,"📌Descarga de archivo
+https://drive.google.com/file/d/1R72TQXOJDEswlSs0jyAzONNxVtZ4YrqX/view?usp=sharing
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/9wkGoWLVjT8/hqdefault.jpg,https://www.youtube.com/watch?v=9wkGoWLVjT8
+x1FB0zvtgOw,UCUEOHBht8pnQhQvCfIcl-gg,Comparar ventas con un periodo personalizado en [POWER BI] [CALCULATE] [USERELATIONSHIP],2025-03-24 11:10:21+00:00,846,"📌Descarga de archivo
+https://drive.google.com/file/d/1I4nQyun0usLiYSEwM2v0dl_XO7Wp9Jm6/view?usp=sharing
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/x1FB0zvtgOw/hqdefault.jpg,https://www.youtube.com/watch?v=x1FB0zvtgOw
+pqAswnET2XQ,UCUEOHBht8pnQhQvCfIcl-gg,Clientes con ventas mayor al promedio [POWER BI] [SUMMARIZE] [CALCULATE],2025-03-24 08:30:20+00:00,1507,"📌Descargar archivo:
+https://drive.google.com/file/d/1Wj3T-JcoX_FfzsALOZ6cEwsTaI30_C0h/view?usp=sharing
+
+*En algunos casos se puede reemplazar el uso de SUMMARIZE con VALUES
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/pqAswnET2XQ/hqdefault.jpg,https://www.youtube.com/watch?v=pqAswnET2XQ
+hhX0ynoT_mc,UCUEOHBht8pnQhQvCfIcl-gg,Clientes con más de dos unidades por transacción [POWER BI] [SUMMARIZE] [CALCULATE],2025-03-23 17:15:02+00:00,1058,"Descarga de archivo
+📌https://drive.google.com/file/d/1Wj3T-JcoX_FfzsALOZ6cEwsTaI30_C0h/view?usp=sharing
+
+*En este caso no se puede reemplazar SUMMARIZE con VALUES debido a que se utiliza dos columnas categóricas en la evaluación (id_cliente, transaction_id)
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/hhX0ynoT_mc/hqdefault.jpg,https://www.youtube.com/watch?v=hhX0ynoT_mc
+XEdE-i6as6I,UCUEOHBht8pnQhQvCfIcl-gg,Clientes con más de una transacción [POWER BI] [SUMMARIZE] [CALCULATE],2025-03-23 17:00:37+00:00,1116,"Descarga de archivo
+📌https://drive.google.com/file/d/1Wj3T-JcoX_FfzsALOZ6cEwsTaI30_C0h/view?usp=sharing
+
+*En algunos casos se puede reemplazar el uso de SUMMARIZE con VALUES
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/XEdE-i6as6I/hqdefault.jpg,https://www.youtube.com/watch?v=XEdE-i6as6I
+Qc0HiH1iZ8U,UCUEOHBht8pnQhQvCfIcl-gg,Comparar ventas (30 días atrás) [Power BI Service],2025-03-18 12:16:06+00:00,801,"📌Descarga de archivo
+https://drive.google.com/file/d/1I4nQyun0usLiYSEwM2v0dl_XO7Wp9Jm6/view?usp=sharing
+
+🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/Qc0HiH1iZ8U/hqdefault.jpg,https://www.youtube.com/watch?v=Qc0HiH1iZ8U
+_4lqZZO3ifA,UCUEOHBht8pnQhQvCfIcl-gg,"Como usar power bi en Mac [crear medidas, columnas, ver tablas]",2025-03-15 20:59:55+00:00,803,"🔁 ¡Ayúdame a llegar a más personas!
+Si te gustó el video, dale like, comenta y compártelo con tus amigos. ¡Tu apoyo es súper importante para que sigamos creciendo! 🚀✨
+
+💬 Si quieres apoyar el canal de manera directa, puedes hacer una donación aquí: https://paypal.me/angeldatablog?country.x=PE&locale.x=es_XC ☕🙏 ¡Gracias por tu ayuda!",https://i.ytimg.com/vi/_4lqZZO3ifA/hqdefault.jpg,https://www.youtube.com/watch?v=_4lqZZO3ifA
+Xgk-fE4kDH4,UCUEOHBht8pnQhQvCfIcl-gg,GA4 y BIG QUERY - Sesiones y Usuarios - GROUP BY [PARTE 7],2024-11-02 07:23:13+00:00,1245,,https://i.ytimg.com/vi/Xgk-fE4kDH4/hqdefault.jpg,https://www.youtube.com/watch?v=Xgk-fE4kDH4
+V3pMWhj4lxQ,UCUEOHBht8pnQhQvCfIcl-gg,GA4 y BIG QUERY - Sesiones y Usuarios - GROUP BY [PARTE 6],2024-11-01 18:19:00+00:00,1322,,https://i.ytimg.com/vi/V3pMWhj4lxQ/hqdefault.jpg,https://www.youtube.com/watch?v=V3pMWhj4lxQ
+mdQHFYj09wg,UCUEOHBht8pnQhQvCfIcl-gg,GOOGLE ANALYTICS Y BIG QUERY - SESIONES Y USUARIOS [PARTE 5],2024-11-01 14:38:42+00:00,1099,,https://i.ytimg.com/vi/mdQHFYj09wg/hqdefault.jpg,https://www.youtube.com/watch?v=mdQHFYj09wg
+NBrio9XsAto,UCUEOHBht8pnQhQvCfIcl-gg,GOOGLE ANALYTICS 4 y BIG QUERY - Primeras consultas SQL [PARTE 4],2024-10-31 11:18:26+00:00,1153,,https://i.ytimg.com/vi/NBrio9XsAto/hqdefault.jpg,https://www.youtube.com/watch?v=NBrio9XsAto
+Y9dNljQTNe0,UCUEOHBht8pnQhQvCfIcl-gg,GOOGLE ANALYTICS Y BIG QUERY - Primeras consultas [PARTE 3],2024-10-30 11:29:59+00:00,1074,,https://i.ytimg.com/vi/Y9dNljQTNe0/hqdefault.jpg,https://www.youtube.com/watch?v=Y9dNljQTNe0
+VgumMjYb89g,UCUEOHBht8pnQhQvCfIcl-gg,Importar tabla de BIG QUERY a GOOGLE SHEETS  - GOOGLE ANALYTICS [PARTE 2],2024-10-30 11:15:51+00:00,585,,https://i.ytimg.com/vi/VgumMjYb89g/hqdefault.jpg,https://www.youtube.com/watch?v=VgumMjYb89g
+DPDmPO-JXe0,UCUEOHBht8pnQhQvCfIcl-gg,GOOGLE ANALYTICS 4 Y BIG QUERY [PARTE 1],2024-10-30 10:53:54+00:00,639,,https://i.ytimg.com/vi/DPDmPO-JXe0/hqdefault.jpg,https://www.youtube.com/watch?v=DPDmPO-JXe0
+aoP5EPC9Skw,UCUEOHBht8pnQhQvCfIcl-gg,Función Query en Google Sheets,2024-07-23 08:17:15+00:00,1991,"Usar referencias de celdas en función query de Google Sheets
+
+Descargar Archivo:
+https://docs.google.com/spreadsheets/d/1QxH4IBXB6xrbER8HoJDUq097NloIaSxKOyl9s9qUTNI/edit?usp=sharing
+
+¿En la función Query se usa lenguaje SQL?
+No exactamente, el lenguaje que se utiliza es el de consulta de la API de visualización de Google, sin embargo, es muy similar a SQL.
+
+Documentación
+https://developers.google.com/chart/interactive/docs/querylanguage?hl=es-419#aggregation-functions",https://i.ytimg.com/vi/aoP5EPC9Skw/hqdefault.jpg,https://www.youtube.com/watch?v=aoP5EPC9Skw
+VUPm0AxqTho,UCUEOHBht8pnQhQvCfIcl-gg,Actualizar datos automáticamente en tabla dinámica de google sheets,2024-07-14 18:00:57+00:00,431,,https://i.ytimg.com/vi/VUPm0AxqTho/hqdefault.jpg,https://www.youtube.com/watch?v=VUPm0AxqTho
+1ISPibwIVQA,UCUEOHBht8pnQhQvCfIcl-gg,Como calcular la cuota de un préstamo | Tabla de amortización | PERU,2024-07-07 17:08:23+00:00,2350,"Temas revisados:
+
+1) Cómo calcular el valor de la cuota de un préstamo
+2) Cuál es la tasa ideal para conseguir un préstamos
+3) Qué es la tabla de amortización
+4) Qué es amortización de un préstamo
+5) Simulador de cuotas de préstamos
+6) Cómo saber cuánto debo al banco si hago un pago adelantado
+
+Links importantes:
+
+Plantilla de simulador:
+https://docs.google.com/spreadsheets/d/19raJqwXRQrrcHsSm-PcpOeZaFtkNfAC7_5TOnOCyfH4/edit?usp=sharing
+
+Simulador de cuota Interbank: https://interbank.pe/tarjetas/tarjetas-credito/simulador-cuota",https://i.ytimg.com/vi/1ISPibwIVQA/hqdefault.jpg,https://www.youtube.com/watch?v=1ISPibwIVQA
+Ie-FqoNGqLA,UCUEOHBht8pnQhQvCfIcl-gg,Extraer valores de una celda [Google Sheet] [Excel] ENCONTRAR - IZQUIERDA,2024-07-06 05:00:13+00:00,452,,https://i.ytimg.com/vi/Ie-FqoNGqLA/hqdefault.jpg,https://www.youtube.com/watch?v=Ie-FqoNGqLA
+lcOQNnj3lwQ,UCUEOHBht8pnQhQvCfIcl-gg,Rellenar columnas con celdas en blanco en excel [Excel] [Power Query],2024-05-17 13:30:18+00:00,452,,https://i.ytimg.com/vi/lcOQNnj3lwQ/hqdefault.jpg,https://www.youtube.com/watch?v=lcOQNnj3lwQ
+7q20ukuXuN8,UCUEOHBht8pnQhQvCfIcl-gg,Separar datos en columnas en excel [Archivo CSV a excel] [Delimitado por comas] [Texto en columnas],2024-05-17 13:28:19+00:00,286,,https://i.ytimg.com/vi/7q20ukuXuN8/hqdefault.jpg,https://www.youtube.com/watch?v=7q20ukuXuN8
+bZgmdcD9THA,UCUEOHBht8pnQhQvCfIcl-gg,Comparar periodos en Power BI | Año actual vs Año anterior [SAMEPERIODLASTYEAR] [Video #6],2024-05-12 12:28:11+00:00,2260,"✓ Descargar Contoso: https://www.microsoft.com/en-us/download/details.aspx?id=46801
+
+✓ Archivo Configuraciones de Formato: https://docs.google.com/presentation/d/1UMC21lN0uR4RkRT1S7VxsZt8LWC4p6BT/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true",https://i.ytimg.com/vi/bZgmdcD9THA/hqdefault.jpg,https://www.youtube.com/watch?v=bZgmdcD9THA
+gKrXqZNAV1Y,UCUEOHBht8pnQhQvCfIcl-gg,Comparar periodos en Power BI | Año actual vs Año anterior [SAMEPERIODLASTYEAR] [Video #7] | parte 2,2024-05-12 12:26:26+00:00,1103,"✓ Descargar Contoso: https://www.microsoft.com/en-us/download/details.aspx?id=46801
+
+✓ Archivo Configuraciones de Formato: https://docs.google.com/presentation/d/1UMC21lN0uR4RkRT1S7VxsZt8LWC4p6BT/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true",https://i.ytimg.com/vi/gKrXqZNAV1Y/hqdefault.jpg,https://www.youtube.com/watch?v=gKrXqZNAV1Y
+b94_Fgq1uM0,UCUEOHBht8pnQhQvCfIcl-gg,Dar formato a mi informe en Power BI - Modelo Contoso [Video #5],2024-05-08 09:03:01+00:00,1929,"✓ Descargar Contoso: https://www.microsoft.com/en-us/download/details.aspx?id=46801
+
+✓ Archivo Configuraciones de Formato: https://docs.google.com/presentation/d/1UMC21lN0uR4RkRT1S7VxsZt8LWC4p6BT/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true
+
+✓ Video Complementario:
+https://youtu.be/6rc09OdwHlk",https://i.ytimg.com/vi/b94_Fgq1uM0/hqdefault.jpg,https://www.youtube.com/watch?v=b94_Fgq1uM0
+YC6d_IxCfPo,UCUEOHBht8pnQhQvCfIcl-gg,Creando mi primer dashboard en Power BI - Modelo Contoso [Video #4],2024-05-07 09:48:05+00:00,1355,✓ Descargar Contoso: https://www.microsoft.com/en-us/download/details.aspx?id=46801,https://i.ytimg.com/vi/YC6d_IxCfPo/hqdefault.jpg,https://www.youtube.com/watch?v=YC6d_IxCfPo
+PPTTWwot8uw,UCUEOHBht8pnQhQvCfIcl-gg,"PARTE 7 | Aprende SQL desde cero | ORDER BY, GROUP BY, SUM(), HAVING, LIMIT, LEN, LIKE",2024-03-10 09:32:17+00:00,1763,https://www.sql-practice.com/,https://i.ytimg.com/vi/PPTTWwot8uw/hqdefault.jpg,https://www.youtube.com/watch?v=PPTTWwot8uw
+iMbfo-nXbOg,UCUEOHBht8pnQhQvCfIcl-gg,"PARTE 6 | Aprende SQL desde cero | ORDER BY, GROUP BY, HAVING COUNT(), UNION ALL",2024-03-09 13:57:08+00:00,2083,https://www.sql-practice.com/,https://i.ytimg.com/vi/iMbfo-nXbOg/hqdefault.jpg,https://www.youtube.com/watch?v=iMbfo-nXbOg
+Aeue3yzSc4M,UCUEOHBht8pnQhQvCfIcl-gg,"PARTE 5 | Aprende SQL desde cero | GROUP BY, COUNT(), HAVING COUNT(), LEN(), JOIN, ON, SUM()",2024-03-09 03:12:32+00:00,2398,https://www.sql-practice.com/,https://i.ytimg.com/vi/Aeue3yzSc4M/hqdefault.jpg,https://www.youtube.com/watch?v=Aeue3yzSc4M
+DFETYUUNO18,UCUEOHBht8pnQhQvCfIcl-gg,"PARTE 4 | Aprende SQL desde cero | COUNT(), DISTINCT, WHERE, IS NOT NULL,",2024-03-08 08:33:05+00:00,738,https://www.sql-practice.com/,https://i.ytimg.com/vi/DFETYUUNO18/hqdefault.jpg,https://www.youtube.com/watch?v=DFETYUUNO18
+6mBufYO1YR8,UCUEOHBht8pnQhQvCfIcl-gg,"PARTE 3 | Aprende SQL desde cero | JOIN, ON, COUNT(), WHERE",2024-03-08 08:30:09+00:00,1083,https://www.sql-practice.com/,https://i.ytimg.com/vi/6mBufYO1YR8/hqdefault.jpg,https://www.youtube.com/watch?v=6mBufYO1YR8
+FXk9SQvqFFs,UCUEOHBht8pnQhQvCfIcl-gg,"PARTE 2 | Aprende SQL desde cero | SELECT, WHERE, LIKE, IS, NULL, UPDATE, SET, CONCAT, BETWEEN, AS",2024-03-08 05:53:46+00:00,993,https://www.sql-practice.com/,https://i.ytimg.com/vi/FXk9SQvqFFs/hqdefault.jpg,https://www.youtube.com/watch?v=FXk9SQvqFFs
+7EhEb5ojYZw,UCUEOHBht8pnQhQvCfIcl-gg,PARTE 1 | Aprende SQL desde cero | SIN INSTALAR NINGÚN PROGRAMA,2024-03-08 05:50:12+00:00,427,https://www.sql-practice.com/,https://i.ytimg.com/vi/7EhEb5ojYZw/hqdefault.jpg,https://www.youtube.com/watch?v=7EhEb5ojYZw
+yZ8DSleduDs,UCUEOHBht8pnQhQvCfIcl-gg,Esquema Estrella en Power BI [Video #2],2024-02-06 20:00:22+00:00,789,"✓ Documentación Esquema Estrella: https://learn.microsoft.com/es-es/power-bi/guidance/star-schema
+
+✓ Descargar Contoso: https://www.microsoft.com/en-us/download/details.aspx?id=46801",https://i.ytimg.com/vi/yZ8DSleduDs/hqdefault.jpg,https://www.youtube.com/watch?v=yZ8DSleduDs
+kPT8l-XKm8A,UCUEOHBht8pnQhQvCfIcl-gg,Normalización y Desnormalización de Tablas [Conceptos Básicos de Power BI] [Video #3],2024-02-06 20:00:16+00:00,628,✓ Descargar Contoso: https://www.microsoft.com/en-us/download/details.aspx?id=46801,https://i.ytimg.com/vi/kPT8l-XKm8A/hqdefault.jpg,https://www.youtube.com/watch?v=kPT8l-XKm8A
+2eUOg1Vmt7Y,UCUEOHBht8pnQhQvCfIcl-gg,Descargar modelo de datos CONTOSO para Power BI [Video #1],2024-02-06 20:00:02+00:00,246,✓ Descargar Contoso: https://www.microsoft.com/en-us/download/details.aspx?id=46801,https://i.ytimg.com/vi/2eUOg1Vmt7Y/hqdefault.jpg,https://www.youtube.com/watch?v=2eUOg1Vmt7Y
+9xx1KaBQxVQ,UCUEOHBht8pnQhQvCfIcl-gg,Explorador de Usuario [Google Analytics 4] [GA4],2024-01-31 16:08:20+00:00,683,,https://i.ytimg.com/vi/9xx1KaBQxVQ/hqdefault.jpg,https://www.youtube.com/watch?v=9xx1KaBQxVQ
+YI0_i2mVva0,UCUEOHBht8pnQhQvCfIcl-gg,Explorador de Rutas [Google Analytics 4] [GA4],2024-01-31 16:08:01+00:00,620,,https://i.ytimg.com/vi/YI0_i2mVva0/hqdefault.jpg,https://www.youtube.com/watch?v=YI0_i2mVva0
+6rc09OdwHlk,UCUEOHBht8pnQhQvCfIcl-gg,Como crear un menú de navegación en Power Bi [Menú interactivo] [Power Bi],2024-01-28 23:19:18+00:00,638,,https://i.ytimg.com/vi/6rc09OdwHlk/hqdefault.jpg,https://www.youtube.com/watch?v=6rc09OdwHlk
+yiDhqGdxFPs,UCUEOHBht8pnQhQvCfIcl-gg,Usuarios en GA4 [Google Analytics 4],2024-01-24 08:00:29+00:00,1010,"Interacción de Usuarios: https://support.google.com/analytics/answer/11109416#user-engagement
+
+Métricas de GA4: https://support.google.com/analytics/answer/11986666?hl=es#zippy=%2Csecciones-de-este-art%C3%ADculo",https://i.ytimg.com/vi/yiDhqGdxFPs/hqdefault.jpg,https://www.youtube.com/watch?v=yiDhqGdxFPs
+W8clxC5S3dU,UCUEOHBht8pnQhQvCfIcl-gg,Cómo crear informes personalizados en GA4 [Explorar] [Google Analytics 4],2024-01-24 08:00:24+00:00,598,,https://i.ytimg.com/vi/W8clxC5S3dU/hqdefault.jpg,https://www.youtube.com/watch?v=W8clxC5S3dU
+dHx1iSHHwx4,UCUEOHBht8pnQhQvCfIcl-gg,Configuración de Mi centro de Anuncios [Google],2024-01-17 14:00:26+00:00,479,,https://i.ytimg.com/vi/dHx1iSHHwx4/hqdefault.jpg,https://www.youtube.com/watch?v=dHx1iSHHwx4
+Xnd-Ygs7U3Y,UCUEOHBht8pnQhQvCfIcl-gg,Cómo se analiza las sesiones en GA4 [Modificar el umbral de 30 minutos],2024-01-17 14:00:19+00:00,1088,,https://i.ytimg.com/vi/Xnd-Ygs7U3Y/hqdefault.jpg,https://www.youtube.com/watch?v=Xnd-Ygs7U3Y
+AtGVhnK5jRo,UCUEOHBht8pnQhQvCfIcl-gg,Activar Google Signals en Google Analytics GA4,2024-01-10 14:00:10+00:00,669,,https://i.ytimg.com/vi/AtGVhnK5jRo/hqdefault.jpg,https://www.youtube.com/watch?v=AtGVhnK5jRo
+7beGTcu4wOY,UCUEOHBht8pnQhQvCfIcl-gg,Informes de GOOGLE ANALYTICS GA4 [PARA PRINCIPIANTES] [COLECCIONES/CARPETAS/INFORMES] #6,2024-01-10 14:00:04+00:00,802,,https://i.ytimg.com/vi/7beGTcu4wOY/hqdefault.jpg,https://www.youtube.com/watch?v=7beGTcu4wOY
+N5qEWgYkGwk,UCUEOHBht8pnQhQvCfIcl-gg,Crear eventos personalizados desde GOOGLE ANALYTICS GA4 [PARA PRINCIPIANTES] [2024] #4,2024-01-01 19:02:01+00:00,1275,"1. Vista de depuración (Debugview) 2:10
+2. Eventos de Google Analytics 3:33
+3. Creación de eventos personalizados 4:30
+4. Evento de Page View personalizado 6:00
+5. Evento de Click personalizado 11:50
+6. Evento de formulario personalizado 17:08",https://i.ytimg.com/vi/N5qEWgYkGwk/hqdefault.jpg,https://www.youtube.com/watch?v=N5qEWgYkGwk
+jJT2Pjgug7s,UCUEOHBht8pnQhQvCfIcl-gg,Crear conversiones en GOOGLE ANALYTICS GA4 [PARA PRINCIPIANTES] [CONCEPTOS BÁSICOS] [2024] #5,2024-01-01 19:02:01+00:00,808,,https://i.ytimg.com/vi/jJT2Pjgug7s/hqdefault.jpg,https://www.youtube.com/watch?v=jJT2Pjgug7s
+AARzy2sfqVw,UCUEOHBht8pnQhQvCfIcl-gg,Como iniciar con GOOGLE ANALYTICS GA4 [BLOGGER] [PARA PRINCIPIANTES] [2024] #2,2024-01-01 18:46:25+00:00,1260,"1. Creando una web (blog) con Blogger 1:10
+2. Crear una entrada en el blog 2:49
+3. Conectar la web con GA4 5:55
+4. ID de medición g-xxxxxxxxxx 8:00
+5. Instalar extensión Google Analytics Debugger 8:40
+6. Vista de depuración (Debugview) 10:30",https://i.ytimg.com/vi/AARzy2sfqVw/hqdefault.jpg,https://www.youtube.com/watch?v=AARzy2sfqVw
+rSYSSOP3h2k,UCUEOHBht8pnQhQvCfIcl-gg,Como crear una cuenta de GOOGLE ANALYTICS GA4 [FACIL Y RÁPIDO] [PARA PRINCIPIANTES] [2024] #1,2024-01-01 18:46:12+00:00,455,"1. Creando una cuenta desde cero
+2. Cuentas y Propiedades 0:24
+3. Webs gratuitas para usar GA4 (Blogger y google site) 2:00
+4. Elegir objetivos e negocio 3:13",https://i.ytimg.com/vi/rSYSSOP3h2k/hqdefault.jpg,https://www.youtube.com/watch?v=rSYSSOP3h2k
+QueSk8MsubI,UCUEOHBht8pnQhQvCfIcl-gg,Eventos de Conversión automáticos de GOOGLE ANALYTICS GA4 [EVENTOS DE CONVERSION MEJORADA] [2024] #3,2024-01-01 14:00:11+00:00,1216,"1. ¿Es necesario usar Google Tag Manager GA4?
+2. Eventos de medición mejorada de GA4 (configuración) 1:03
+3. Eventos de medición mejorada de GA4 (explicación) 3:18
+4. Debug View 5:35
+5. Evento de Page View 6:20
+6. Evento de Click 7:31
+7. Evento de File_download 9:12
+8. Evento form_start 11:30 
+9. Evento video_start 14:34
+10. Evento view_search_result 17:59",https://i.ytimg.com/vi/QueSk8MsubI/hqdefault.jpg,https://www.youtube.com/watch?v=QueSk8MsubI
+Q6vUPD3f4bs,UCUEOHBht8pnQhQvCfIcl-gg,Comparar Periodos sin usar DAX | Power BI | Editar interacciones,2023-12-13 20:00:23+00:00,288,,https://i.ytimg.com/vi/Q6vUPD3f4bs/hqdefault.jpg,https://www.youtube.com/watch?v=Q6vUPD3f4bs
+kJzw5JPC6AI,UCUEOHBht8pnQhQvCfIcl-gg,Cómo agregar un grafico al pasar el cursor | Power BI | TOOLTIP,2023-12-13 01:48:46+00:00,305,"📌Descarga de Archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing",https://i.ytimg.com/vi/kJzw5JPC6AI/hqdefault.jpg,https://www.youtube.com/watch?v=kJzw5JPC6AI
+1OxYQbmdW-Y,UCUEOHBht8pnQhQvCfIcl-gg,17. SWITCH vs IF en POWER BI [descuento por rango de edades],2023-09-14 13:00:03+00:00,1916,"📌Descarga de archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing",https://i.ytimg.com/vi/1OxYQbmdW-Y/hqdefault.jpg,https://www.youtube.com/watch?v=1OxYQbmdW-Y
+HvXbln87KY0,UCUEOHBht8pnQhQvCfIcl-gg,16. RELATED en Power Bi [Como usar valores de otra tabla en mi análisis],2023-09-14 08:38:56+00:00,1097,"📌Descarga de archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing
+
+📌Notas:
+*Related funciona en la tabla de muchos, porque dicha función extrae solo un valor de la tabla de valores únicos.",https://i.ytimg.com/vi/HvXbln87KY0/hqdefault.jpg,https://www.youtube.com/watch?v=HvXbln87KY0
+Im9z2T57eEw,UCUEOHBht8pnQhQvCfIcl-gg,15. DATEDIFF vs YEARFRAC en POWER BI [Cómo calcular la diferencia entre 2 fechas],2023-09-13 13:00:12+00:00,789,"📌Descarga de archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing",https://i.ytimg.com/vi/Im9z2T57eEw/hqdefault.jpg,https://www.youtube.com/watch?v=Im9z2T57eEw
+bOvsWX2Mgmg,UCUEOHBht8pnQhQvCfIcl-gg,14. Cómo usar la función IF en POWER BI [Usando variables],2023-09-11 13:00:24+00:00,936,"📌Descarga de archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing",https://i.ytimg.com/vi/bOvsWX2Mgmg/hqdefault.jpg,https://www.youtube.com/watch?v=bOvsWX2Mgmg
+IQPxO_NmSJk,UCUEOHBht8pnQhQvCfIcl-gg,13. Cómo usar la función IF en POWER BI,2023-09-11 13:00:12+00:00,1641,"📌Descarga de archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing
+
+*Para usarlo en medidas se puede combinar con CALCULATE, pero en columnas calculadas es mucho más sencillo.",https://i.ytimg.com/vi/IQPxO_NmSJk/hqdefault.jpg,https://www.youtube.com/watch?v=IQPxO_NmSJk
+PGZNyTVcZbI,UCUEOHBht8pnQhQvCfIcl-gg,12. DISTINTCOUNT en Power BI [Como contabilizar los pedidos de un criterio en específico],2023-08-31 14:00:26+00:00,1460,"📌Descarga de Archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing
+
+📌 Lista de funciones Count
+https://docs.google.com/document/d/1N7OML5CpeCHYrcqzA_OXU-ceP4E7jK2v/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true",https://i.ytimg.com/vi/PGZNyTVcZbI/hqdefault.jpg,https://www.youtube.com/watch?v=PGZNyTVcZbI
+ci1hFXvOMjw,UCUEOHBht8pnQhQvCfIcl-gg,11. RANKX en Power BI [Como generar un ranking de productos],2023-08-30 14:00:20+00:00,1148,"📌Descarga de Archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing
+
+📌Notas
+*La medida creada se ha probado en una tabla (en el ejemplo), pero podría  cambiarse a un gráfico y luego usar formato condicional con la medida RANKX para resaltar valores.
+*En el parámetro ""Ties"" se activa por defecto la opción ""SKIP"" que va a contar los valores repetidos según el ranking, es decir si hay 5 repetidos contará 5 posiciones, mientras que la opción ""DENSE"" los repetidos se muestran con un solo valor.
+*La función RANK es muy similar, pero permite pasarle un segundo criterio de orden, esto ayuda cuando hay valores repetidos en un criterio. (min 7 video complementario 2)
+
+
+📌Videos complementarios
+https://www.youtube.com/watch?v=dK82cBUfwK4
+https://www.youtube.com/watch?v=xqIdz444KzM&list=LL&index=4",https://i.ytimg.com/vi/ci1hFXvOMjw/hqdefault.jpg,https://www.youtube.com/watch?v=ci1hFXvOMjw
+G0pKbjeeTMs,UCUEOHBht8pnQhQvCfIcl-gg,10. AVERAGE vs AVERAGEX en Power BI [Ejemplo analizando ticket promedio],2023-08-28 13:30:08+00:00,1207,"📌Descarga de Archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing",https://i.ytimg.com/vi/G0pKbjeeTMs/hqdefault.jpg,https://www.youtube.com/watch?v=G0pKbjeeTMs
+_ofTsPs9mT8,UCUEOHBht8pnQhQvCfIcl-gg,9. ALL y ALLSELECTED en Power Bi [Cálculo de porcentajes],2023-08-26 21:26:35+00:00,1584,"📌Descarga de Archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing",https://i.ytimg.com/vi/_ofTsPs9mT8/hqdefault.jpg,https://www.youtube.com/watch?v=_ofTsPs9mT8
+EVkg5zFPcMs,UCUEOHBht8pnQhQvCfIcl-gg,Ticket Promedio [Promedio del cliente Vs. Promedio del pedido],2023-08-26 14:43:34+00:00,1102,"📌Descargar archivo: 
+https://docs.google.com/spreadsheets/d/1F-Pk5sr_XEe9bpsxT8w25bo0K4pvmJD5/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true",https://i.ytimg.com/vi/EVkg5zFPcMs/hqdefault.jpg,https://www.youtube.com/watch?v=EVkg5zFPcMs
+2s7evXo3BkI,UCUEOHBht8pnQhQvCfIcl-gg,8. Summarize Vs Group By [El problema de la eficiencia al usar Summarize],2023-08-26 14:00:02+00:00,734,"📌Descarga de Archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing
+
+
+📌 Videos complementarios
+https://www.youtube.com/watch?v=kZfz9QUvSl0
+https://www.youtube.com/watch?v=sPJyESLn3cM
+
+
+📌Documentación:
+https://learn.microsoft.com/en-us/dax/groupby-function-dax
+https://learn.microsoft.com/en-us/dax/summarize-function-dax",https://i.ytimg.com/vi/2s7evXo3BkI/hqdefault.jpg,https://www.youtube.com/watch?v=2s7evXo3BkI
+C-lZzLmQrsw,UCUEOHBht8pnQhQvCfIcl-gg,Python en Excel,2023-08-25 19:16:16+00:00,61,,https://i.ytimg.com/vi/C-lZzLmQrsw/hqdefault.jpg,https://www.youtube.com/watch?v=C-lZzLmQrsw
+xsptE33QWNE,UCUEOHBht8pnQhQvCfIcl-gg,Como instalar python en excel 2023 [Qué es microsoft insider],2023-08-25 12:19:10+00:00,125,,https://i.ytimg.com/vi/xsptE33QWNE/hqdefault.jpg,https://www.youtube.com/watch?v=xsptE33QWNE
+qr6ATPTgl20,UCUEOHBht8pnQhQvCfIcl-gg,"7. Operadores IN,OR,SEARCH, RIGHT, LEFT [Como crear tablas filtradas en Power BI]",2023-08-23 23:00:31+00:00,1184,"📌CONJUNCIONES PARA LOS FILTROS:
+*(II) Conjunción O
+*(&&) Conjunción Y
+*(IN) Conjunción Y (las categorías pertenecen a una sola columna)
+*(NOT) Condición excluyente
+*(SEARCH) Busca un valor dentro de un filtro
+*(LEFT) (RIGTH) Busca un valor por posición.
+
+
+📌Archivo de Conjunciones:
+https://docs.google.com/document/d/1vj7MO7TxL-GaYMww6xuEQMo7lM4gMAXl/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true
+
+
+📌Descarga de Archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing",https://i.ytimg.com/vi/qr6ATPTgl20/hqdefault.jpg,https://www.youtube.com/watch?v=qr6ATPTgl20
+eO7e64yu3Kk,UCUEOHBht8pnQhQvCfIcl-gg,"6. CALCULATETABLE en Power Bi [Crear tablas filtradas, Diferencia entre Calculatetable y Filter]",2023-08-19 22:58:03+00:00,889,"📌CONJUNCIONES PARA LOS FILTROS:
+*(II) Conjunción O
+*(&&) Conjunción Y
+*(IN) Conjunción Y (las categorías pertenecen a una sola columna)
+*(NOT) Condición excluyente
+*(SEARCH) Busca un valor dentro de un filtro
+*(LEFT) (RIGTH) Busca un valor por posición.
+
+
+📌Descarga de Archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing
+
+
+📌Archivo de filtros: https://docs.google.com/document/d/1rARIMN85iRDt6eiGcUg15j0Xh7OtS1WR/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true
+
+
+📌 Video complementario (CALCULATETABLE vs FILTER): https://www.youtube.com/watch?v=zMbbo013Pto
+
+
+📌Documentación:
+- https://learn.microsoft.com/en-us/dax/calculatetable-function-dax
+-https://learn.microsoft.com/en-us/dax/filter-function-dax
+- https://learn.microsoft.com/es-es/dax/best-practices/dax-avoid-avoid-filter-as-filter-argument",https://i.ytimg.com/vi/eO7e64yu3Kk/hqdefault.jpg,https://www.youtube.com/watch?v=eO7e64yu3Kk
+pcSv3TjR5ZQ,UCUEOHBht8pnQhQvCfIcl-gg,"5. FILTER en Power BI [Crear tablas filtradas, Diferencia con Calculate]",2023-08-19 22:55:34+00:00,1969,"📌CONJUNCIONES PARA LOS FILTROS:
+*(II) Conjunción O
+*(&&) Conjunción Y
+*(IN) Conjunción Y (las categorías pertenecen a una sola columna)
+*(NOT) Condición excluyente
+*(SEARCH) Busca un valor dentro de un filtro
+*(LEFT) (RIGTH) Busca un valor por posición 
+
+
+📌NOTAS IMPORTANTES: 
+*Cuando las tablas tienen una gran cantidad de datos se recomienda usar CALCULATABLE que funciona igual que FILTER, la principal diferencia es que no admite medidas en su expresión de filtro.
+
+
+📌 Video complementario (CALCULATETABLE vs FILTER):  https://www.youtube.com/watch?v=zMbbo013Pto
+
+
+📌Descarga de archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing
+
+
+📌Archivo de filtros: https://docs.google.com/document/d/1rARIMN85iRDt6eiGcUg15j0Xh7OtS1WR/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true
+
+📌 Documentación: 
+https://learn.microsoft.com/es-es/dax/best-practices/dax-avoid-avoid-filter-as-filter-argument
+https://learn.microsoft.com/en-us/dax/filter-function-dax
+https://learn.microsoft.com/en-us/dax/calculatetable-function-dax",https://i.ytimg.com/vi/pcSv3TjR5ZQ/hqdefault.jpg,https://www.youtube.com/watch?v=pcSv3TjR5ZQ
+IAjVUpwzMGo,UCUEOHBht8pnQhQvCfIcl-gg,4. CALCULATE en Power BI  [Cómo entender la función DAX y los errores más comunes al usarlo],2023-08-17 12:00:22+00:00,910,"📌CONJUNCIONES PARA LOS FILTROS:
+*(II) Conjunción O.
+*(&&) (,) Conjunción Y.  
+*(IN) Conjunción Y (las categorías pertenecen a una sola columna)
+*(NOT) Condición excluyente
+*(SEARCH) Busca un valor dentro de un filtro
+*(LEFT) (RIGTH) Busca un valor por posición 
+
+
+📌NOTAS IMPORTANTES
+*Calculate te devuelve una medida haciendo uso de un filtro en una tabla.
+*Calculatetable te devuelve una tabla haciendo uso de un filtro en una tabla.
+*Al usar Calculate, no podemos utilizar medidas como expresiones de filtro, en caso se necesite hacer eso, tendríamos que anidarle una tabla creada con Filter (si permite filtros con medidas)
+
+
+📌VIDEOS COMPLEMENARIOS
+https://www.youtube.com/watch?v=zMbbo013Pto&list=LL&index=2
+https://www.youtube.com/watch?v=P4B9FbzrotM
+
+
+📌Descarga de archivos:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing",https://i.ytimg.com/vi/IAjVUpwzMGo/hqdefault.jpg,https://www.youtube.com/watch?v=IAjVUpwzMGo
+ee-gYMaH1Rk,UCUEOHBht8pnQhQvCfIcl-gg,Contar datos repetidos en Excel [Aplicaciones de CONTAR.SI],2023-08-16 08:00:16+00:00,866,"Descarga de archivo:
+https://docs.google.com/spreadsheets/d/1PJK06bfobzKaInzNGMAtJubi_RcaA24p/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true",https://i.ytimg.com/vi/ee-gYMaH1Rk/hqdefault.jpg,https://www.youtube.com/watch?v=ee-gYMaH1Rk
+hipquVDxH70,UCUEOHBht8pnQhQvCfIcl-gg,3. SUM y SUMX en Power BI [Explicado en Excel y Power BI],2023-08-15 12:00:27+00:00,425,"📌Descarga de Archivo: 
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing",https://i.ytimg.com/vi/hipquVDxH70/hqdefault.jpg,https://www.youtube.com/watch?v=hipquVDxH70
+BUC65TLIGf8,UCUEOHBht8pnQhQvCfIcl-gg,1. Ordenar Medidas DAX en POWER BI [Crear carpetas y organizar medidas],2023-08-14 07:18:23+00:00,356,"📌Notas:
+En algunos casos es necesario dejar la medida en la misma tabla, por ejemplo, cuando intentamos utilizar alguna medida en la función Summarize, esta solo aceptará medidas que estén en la misma tabla que se quiera resumir.",https://i.ytimg.com/vi/BUC65TLIGf8/hqdefault.jpg,https://www.youtube.com/watch?v=BUC65TLIGf8
+o3fMDF3PGhM,UCUEOHBht8pnQhQvCfIcl-gg,2. Crear Tabla Calendario en Power BI [Es más sencillo que Power Query],2023-08-10 06:51:18+00:00,1718,"Descarga de Archivo: https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing
+
+--Dax:
+
+ADDCOLUMNS(
+    CALENDAR(
+            DATE(YEAR(MIN(Sales[DateKey])), 1, 1),  
+            DATE(YEAR(MAX(Sales[DateKey])), 12, 31)
+            ),
+           ""Año NRO"",year([Date]),
+           ""Mes NRO"",MONTH([Date]),
+           ""Día NRO"",DAY([Date]),
+           ""Día del año NRO"", DATEDIFF(DATE(YEAR([Date]), 1, 1), [Date], DAY) + 1,
+           ""Día de semana NRO"",WEEKDAY([Date],2),
+           ""Día de semana TXT"",FORMAT([Date],""DDDD""),
+           ""Mes TXT"",FORMAT([Date],""MMMM""),
+           ""Trimestre"",ROUNDUP(MONTH([Date])/3,0)
+)
+
+
+--Se ha agregado la expresión DATE y YEAR para obtener las fechas completas del año, es decir desde 01 de enero hasta el 31 de diciembre, según la columna Ventas[Fecha del pedido]
+--Se ha agregado la columna ""Día del año NRO"" que contiene una cuenta del 1 al 365 día del año.",https://i.ytimg.com/vi/o3fMDF3PGhM/hqdefault.jpg,https://www.youtube.com/watch?v=o3fMDF3PGhM
+4XgvRRtSUdg,UCUEOHBht8pnQhQvCfIcl-gg,Qué es LEFT JOIN explicado con EXCEL y POWER QUERY,2023-07-29 15:23:26+00:00,1244,"Descarga de Archivo:
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing",https://i.ytimg.com/vi/4XgvRRtSUdg/hqdefault.jpg,https://www.youtube.com/watch?v=4XgvRRtSUdg
+jRm_0dohWB4,UCUEOHBht8pnQhQvCfIcl-gg,Crear Tabla Calendario en POWER QUERY,2023-07-28 16:24:11+00:00,2095,"Descarga de Archivo: 
+https://drive.google.com/drive/folders/1w41Ka4vgTT46tNDuMlNLU4n0OosLNDD0?usp=sharing
+
+*Completar: ""Marcar como tabla de fecha y ""Ordenar columnas""
+*Pdt: Es mejor hacerlo en Power BI",https://i.ytimg.com/vi/jRm_0dohWB4/hqdefault.jpg,https://www.youtube.com/watch?v=jRm_0dohWB4
+-W0cM6L62s8,UCUEOHBht8pnQhQvCfIcl-gg,Variaciones porcentuales [Cómo calcular el número base de un porcentaje],2023-04-12 08:42:16+00:00,1514,"📌Descargar archivo:
+https://docs.google.com/spreadsheets/d/1SJGW7aV6D8Ki815eCK3NrIPFoCXh7hfZ/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true",https://i.ytimg.com/vi/-W0cM6L62s8/hqdefault.jpg,https://www.youtube.com/watch?v=-W0cM6L62s8
+2W7sPgGlNqo,UCUEOHBht8pnQhQvCfIcl-gg,Razones y proporciones [Conceptos básicos de estadística],2023-04-09 06:09:08+00:00,448,,https://i.ytimg.com/vi/2W7sPgGlNqo/hqdefault.jpg,https://www.youtube.com/watch?v=2W7sPgGlNqo
+_VCX-MmBF_4,UCUEOHBht8pnQhQvCfIcl-gg,Como identificar valores atípicos [OUTLIERS],2022-12-19 07:09:52+00:00,724,"Descargar archivo:
+https://docs.google.com/spreadsheets/d/1nYkFCgj61e26jOCllSFyqto5Agp6AC4p/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true",https://i.ytimg.com/vi/_VCX-MmBF_4/hqdefault.jpg,https://www.youtube.com/watch?v=_VCX-MmBF_4
+ICnRxj-bjJE,UCUEOHBht8pnQhQvCfIcl-gg,Qué son los Cuartiles y Percentiles [Gráfico de cajas] [Explicado para principiantes]],2022-12-18 09:09:52+00:00,1895,"Descarga de archivo
+https://docs.google.com/spreadsheets/d/1BsQp0fp2gJc17Der4wf0vlYOrftPscKG/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true",https://i.ytimg.com/vi/ICnRxj-bjJE/hqdefault.jpg,https://www.youtube.com/watch?v=ICnRxj-bjJE
+_wQMZfzqCAo,UCUEOHBht8pnQhQvCfIcl-gg,¿Cómo hacer un ANALISIS EXPLORATORIO DE DATOS en excel?,2022-12-14 07:40:34+00:00,1643,"Activar macro para estadísticos descriptivo 1:00
+Promedio 5:30
+Desviación estándar 6:15
+Coeficiente de variación 8:45
+Error típico (estándar) 11:50
+Mediana 17:18
+Moda 19:20
+Curtosis 21:10
+Coeficiente de asimetría 24:00
+
+Descarga de archivo:
+https://docs.google.com/spreadsheets/d/1yd4Px5R-O6qto0gXQmg2agicK146Q8xa/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true",https://i.ytimg.com/vi/_wQMZfzqCAo/hqdefault.jpg,https://www.youtube.com/watch?v=_wQMZfzqCAo
+QC05ysMl8oc,UCUEOHBht8pnQhQvCfIcl-gg,Tipo de relaciones entre tablas,2022-12-11 09:16:21+00:00,1759,"Descarga de archivos:
+
+Relación de uno a muchos DOCENTES-CURSOS
+https://docs.google.com/spreadsheets/d/1_olh5tkVtThANRktuQ-1FkpVdavRWu4M/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true
+
+Relación de uno a muchos CLIENTES-PEDIDOS
+https://docs.google.com/spreadsheets/d/1v5JvddtWyshKNAlLRQQg1b0JtCfFsFBT/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true
+
+Relación de muchos a muchos CINES-PELÍCULAS
+https://docs.google.com/spreadsheets/d/1Ppd-9sANZHA8zANcronbWZDSnMnlHVFw/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true",https://i.ytimg.com/vi/QC05ysMl8oc/hqdefault.jpg,https://www.youtube.com/watch?v=QC05ysMl8oc
+mqLksU5um3Q,UCUEOHBht8pnQhQvCfIcl-gg,Calidad de datos en POWER QUERY,2022-12-08 09:53:54+00:00,1287,"1) ¿Cómo FILTRAR ERRORES en power query? 3:00
+2) ¿Cómo REEMPLAZAR ERRORES en power query? 4:45
+3) ¿Cómo REEMPLAZAR VALORES VACÍOS en power query? 6:00
+4) La calidad de columna solo me da valores de los 1000 primeros datos ¿Cómo ver el perfil de columna de todos mis datos? 7:05
+5) ¿Diferencia entre DISTINTOS y UNICOS en power query? 9:00
+
+Descarga de archivo de práctica
+https://docs.google.com/spreadsheets/d/1Gg5xas7bgvg5-X2BgKzibVPB_q9d9RLt/edit?usp=sharing&ouid=111287661826122127288&rtpof=true&sd=true",https://i.ytimg.com/vi/mqLksU5um3Q/hqdefault.jpg,https://www.youtube.com/watch?v=mqLksU5um3Q
+ZgZVpp61cYY,UCUEOHBht8pnQhQvCfIcl-gg,¿Qué es la desviación estandar?,2022-11-08 10:21:48+00:00,1242,,https://i.ytimg.com/vi/ZgZVpp61cYY/hqdefault.jpg,https://www.youtube.com/watch?v=ZgZVpp61cYY
+oQ1nPp7viGs,UCUEOHBht8pnQhQvCfIcl-gg,Presentación,2021-05-06 21:50:19+00:00,80,"Hola, me llamo Angel.
+En este canal encontrarás videos relacionados al análisis de datos y otros pasatiempos.
+Me gusta grabar lo que aprendo para practicarlo y recordarlo.
+Me gustaría conocer gente con quien platicar sobre temas de análisis, es un mundo interesante.
+
+
+*Relación de aspecto (16:9)",https://i.ytimg.com/vi/oQ1nPp7viGs/hqdefault.jpg,https://www.youtube.com/watch?v=oQ1nPp7viGs
