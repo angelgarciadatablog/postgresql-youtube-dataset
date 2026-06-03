@@ -19,7 +19,7 @@ from google.oauth2 import service_account
 
 PROJECT = "youtube-datasets-360"
 DATASET = "angelgarciadatablog"
-OUTPUT_DIR = Path(__file__).parent
+OUTPUT_DIR = Path(__file__).resolve().parent.parent.parent  # raíz del repo
 CSV_DIR = OUTPUT_DIR / "csv"
 
 # ── Tablas: orden respeta dependencias FK ─────────────────────────────────────
