@@ -1,4 +1,4 @@
--- seed.sql — generado automáticamente el 2026-06-08 06:07 UTC
+-- seed.sql — generado automáticamente el 2026-06-15 06:15 UTC
 
 -- No editar manualmente: este archivo se sobreescribe cada semana.
 
@@ -86,6 +86,20 @@ En este canal encontrarás videos relacionados al análisis de datos y otros pas
   ON CONFLICT (channel_id) DO UPDATE SET channel_title = EXCLUDED.channel_title, country = EXCLUDED.country, published_at = EXCLUDED.published_at, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, channel_url = EXCLUDED.channel_url;
 
 -- channel_metrics
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-14', 2190, 188580, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-13', 2180, 188476, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-12', 2180, 188360, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-11', 2180, 188321, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-10', 2190, 188228, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-09', 2190, 188064, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-08', 2180, 188021, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-07', 2180, 187955, 195)
   ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-06', 2180, 187906, 195)
@@ -326,7 +340,7 @@ INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds,
   ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
 INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('Gcigj916zyE', 'UCUEOHBht8pnQhQvCfIcl-gg', '3. Estados de Git - git add', '2026-01-11 10:13:56+00:00', 1086, '', 'https://i.ytimg.com/vi/Gcigj916zyE/hqdefault.jpg', 'https://www.youtube.com/watch?v=Gcigj916zyE')
   ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
-INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('M4Q186h3zHA', 'UCUEOHBht8pnQhQvCfIcl-gg', '5. Qualify en SQL BigQuery - Filtrar los resultados de una función de ventana de ranking', '2026-01-09 02:57:13+00:00', 361, '📌 Recursos útiles para este curso de SQL Avanzado 1 (Funciones de ventana)
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('M4Q186h3zHA', 'UCUEOHBht8pnQhQvCfIcl-gg', '5. Qualify en SQL BigQuery - Filtrar los resultados de una función de ventana de ranking', '2026-01-09 02:57:13+00:00', 362, '📌 Recursos útiles para este curso de SQL Avanzado 1 (Funciones de ventana)
 
 📖 Diapositivas de la clase:
 https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit?slide=id.g369c9bc9744_0_21#slide=id.g369c9bc9744_0_21
