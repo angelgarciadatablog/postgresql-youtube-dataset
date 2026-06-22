@@ -1,4 +1,4 @@
--- seed.sql — generado automáticamente el 2026-06-15 06:15 UTC
+-- seed.sql — generado automáticamente el 2026-06-22 06:16 UTC
 
 -- No editar manualmente: este archivo se sobreescribe cada semana.
 
@@ -86,6 +86,20 @@ En este canal encontrarás videos relacionados al análisis de datos y otros pas
   ON CONFLICT (channel_id) DO UPDATE SET channel_title = EXCLUDED.channel_title, country = EXCLUDED.country, published_at = EXCLUDED.published_at, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, channel_url = EXCLUDED.channel_url;
 
 -- channel_metrics
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-21', 2190, 189077, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-20', 2190, 189012, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-19', 2190, 188934, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-18', 2180, 188811, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-17', 2180, 188770, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-16', 2180, 188680, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-15', 2180, 188637, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-14', 2190, 188580, 195)
   ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-13', 2180, 188476, 195)
@@ -7618,6 +7632,12 @@ INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comm
   ON CONFLICT (video_id, snapshot_date) DO NOTHING;
 
 -- playlists
+INSERT INTO playlists (playlist_id, channel_id, title, published_at, description, privacy_status, thumbnail_url, playlist_url) VALUES ('PLV4oS06_KpqYqA4aK15ze3Cv1lXaLZiqM', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Hojas de cálculo', '2026-06-13 07:53:29.433287+00:00', 'Ruta de aprendizaje de Hojas de cálculo. Excel y Google Sheets: fórmulas, tablas dinámicas y análisis de datos. Más contenido en mi blog de datos: https://www.angelgarciadatablog.com/', 'public', 'https://i.ytimg.com/img/no_thumbnail.jpg', 'https://www.youtube.com/playlist?list=PLV4oS06_KpqYqA4aK15ze3Cv1lXaLZiqM')
+  ON CONFLICT (playlist_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, description = EXCLUDED.description, privacy_status = EXCLUDED.privacy_status, thumbnail_url = EXCLUDED.thumbnail_url, playlist_url = EXCLUDED.playlist_url;
+INSERT INTO playlists (playlist_id, channel_id, title, published_at, description, privacy_status, thumbnail_url, playlist_url) VALUES ('PLV4oS06_KpqYEdYQsfeyjdYNavDoHr5Nr', 'UCUEOHBht8pnQhQvCfIcl-gg', 'AWS', '2026-06-13 07:53:15.724196+00:00', 'Ruta de aprendizaje de AWS. Servicios de Amazon Web Services aplicados al análisis de datos. Más contenido en mi blog de datos: https://www.angelgarciadatablog.com/', 'public', 'https://i.ytimg.com/img/no_thumbnail.jpg', 'https://www.youtube.com/playlist?list=PLV4oS06_KpqYEdYQsfeyjdYNavDoHr5Nr')
+  ON CONFLICT (playlist_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, description = EXCLUDED.description, privacy_status = EXCLUDED.privacy_status, thumbnail_url = EXCLUDED.thumbnail_url, playlist_url = EXCLUDED.playlist_url;
+INSERT INTO playlists (playlist_id, channel_id, title, published_at, description, privacy_status, thumbnail_url, playlist_url) VALUES ('PLV4oS06_KpqYMjulfvIRy6OA6XOgyLkoL', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Azure', '2026-06-13 07:53:01.634316+00:00', 'Ruta de aprendizaje de Azure. Servicios de nube de Microsoft aplicados al análisis de datos. Más contenido en mi blog de datos: https://www.angelgarciadatablog.com/', 'public', 'https://i.ytimg.com/img/no_thumbnail.jpg', 'https://www.youtube.com/playlist?list=PLV4oS06_KpqYMjulfvIRy6OA6XOgyLkoL')
+  ON CONFLICT (playlist_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, description = EXCLUDED.description, privacy_status = EXCLUDED.privacy_status, thumbnail_url = EXCLUDED.thumbnail_url, playlist_url = EXCLUDED.playlist_url;
 INSERT INTO playlists (playlist_id, channel_id, title, published_at, description, privacy_status, thumbnail_url, playlist_url) VALUES ('PLV4oS06_KpqZB_vztnKo5_z-TbZEjtj1x', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Portafolio web', '2026-05-13 21:39:33.994902+00:00', 'Ruta de aprendizaje de Portafolio web. HTML, CSS y JavaScript para analistas de datos. Más contenido en mi blog de datos: https://www.angelgarciadatablog.com/', 'public', 'https://i.ytimg.com/img/no_thumbnail.jpg', 'https://www.youtube.com/playlist?list=PLV4oS06_KpqZB_vztnKo5_z-TbZEjtj1x')
   ON CONFLICT (playlist_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, description = EXCLUDED.description, privacy_status = EXCLUDED.privacy_status, thumbnail_url = EXCLUDED.thumbnail_url, playlist_url = EXCLUDED.playlist_url;
 INSERT INTO playlists (playlist_id, channel_id, title, published_at, description, privacy_status, thumbnail_url, playlist_url) VALUES ('PLV4oS06_KpqareOMqeEEjuSjZVE-z3xt9', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Bases de datos', '2026-05-13 21:39:20.920293+00:00', 'Ruta de aprendizaje de Bases de datos. Fundamentos, diseño relacional y no relacional. Más contenido en mi blog de datos: https://www.angelgarciadatablog.com/', 'public', 'https://i.ytimg.com/img/no_thumbnail.jpg', 'https://www.youtube.com/playlist?list=PLV4oS06_KpqareOMqeEEjuSjZVE-z3xt9')
