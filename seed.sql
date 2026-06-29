@@ -1,4 +1,4 @@
--- seed.sql — generado automáticamente el 2026-06-22 06:16 UTC
+-- seed.sql — generado automáticamente el 2026-06-29 06:05 UTC
 
 -- No editar manualmente: este archivo se sobreescribe cada semana.
 
@@ -86,6 +86,20 @@ En este canal encontrarás videos relacionados al análisis de datos y otros pas
   ON CONFLICT (channel_id) DO UPDATE SET channel_title = EXCLUDED.channel_title, country = EXCLUDED.country, published_at = EXCLUDED.published_at, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, channel_url = EXCLUDED.channel_url;
 
 -- channel_metrics
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-28', 2210, 189577, 197)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-27', 2200, 189577, 197)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-26', 2200, 189415, 197)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-25', 2190, 189321, 197)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-24', 2190, 189260, 197)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-23', 2190, 189107, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-22', 2190, 189077, 195)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-21', 2190, 189077, 195)
   ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-06-20', 2190, 189012, 195)
@@ -487,7 +501,7 @@ Ideal si ya completaste el curso básico y quieres avanzar hacia un nivel más p
 💬 Conecta conmigo  
 📸 Instagram / LinkedIn / Tik Tok→ @angelgarciadatablog', 'https://i.ytimg.com/vi/DebaxM_8EO0/hqdefault.jpg', 'https://www.youtube.com/watch?v=DebaxM_8EO0')
   ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
-INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('ddB92jjDOVs', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Uso de Coalesce en Joins | Curso de SQL Intermedio #9', '2026-01-06 00:48:50+00:00', 550, '📌 Recursos útiles para este curso de SQL Intermedio (Joins - Subconsultas - CTE)
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('ddB92jjDOVs', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Uso de Coalesce en Joins | Curso de SQL Intermedio #9', '2026-01-06 00:48:50+00:00', 551, '📌 Recursos útiles para este curso de SQL Intermedio (Joins - Subconsultas - CTE)
 
 📖 Diapositivas de la clase:  
 https://docs.google.com/presentation/d/1iKkBdqz0caPJjqq3t4Q8EMUIHEBg2DSaFh7yWxE2HDM/edit
