@@ -1,4 +1,68 @@
 video_id,channel_id,title,published_at,duration_seconds,description,thumbnail_url,video_url
+QFg5SkPyiqQ,UCUEOHBht8pnQhQvCfIcl-gg,Crear cuenta de azure,2026-06-28 22:29:15+00:00,43,,https://i.ytimg.com/vi/QFg5SkPyiqQ/hqdefault.jpg,https://www.youtube.com/watch?v=QFg5SkPyiqQ
+TVlRs1BUsGM,UCUEOHBht8pnQhQvCfIcl-gg,Crear cuenta de power bi gratis,2026-06-28 22:25:03+00:00,58,,https://i.ytimg.com/vi/TVlRs1BUsGM/hqdefault.jpg,https://www.youtube.com/watch?v=TVlRs1BUsGM
+Q2KQ6SvIU4Q,UCUEOHBht8pnQhQvCfIcl-gg,Cuenta de power bi gratuita con azure,2026-06-28 22:13:37+00:00,68,,https://i.ytimg.com/vi/Q2KQ6SvIU4Q/hqdefault.jpg,https://www.youtube.com/watch?v=Q2KQ6SvIU4Q
+Un9gEpkxsio,UCUEOHBht8pnQhQvCfIcl-gg,Crea tu primer pipeline de datos en Fabric,2026-06-28 22:00:02+00:00,76,,https://i.ytimg.com/vi/Un9gEpkxsio/hqdefault.jpg,https://www.youtube.com/watch?v=Un9gEpkxsio
+eXfqUxzE0MY,UCUEOHBht8pnQhQvCfIcl-gg,Construye tu pipeline de datos en Microsoft Fabric hasta un reporte en Power BI (2/2),2026-06-28 19:15:08+00:00,2188,"Segunda parte del tutorial para construir tu primer pipeline de datos en Microsoft Fabric, desde cero. En la Parte 1 creamos la cuenta y el acceso; aquí construimos el pipeline completo: de una API pública de GitHub hasta un reporte en Power BI.
+
+En este tutorial vas a conocer, paso a paso, varios conceptos clave de Fabric que quizá escuchas por primera vez:
+
+• Workspace — el espacio de trabajo donde vive todo tu proyecto en Fabric
+• Flujo de datos Gen2 (Dataflow Gen2) — Power Query en la nube para traer y transformar datos desde una API pública
+• Lakehouse y OneLake — dónde se guardan tus datos como tabla Delta
+• Modelo semántico en Direct Lake — el modelo que alimenta tus reportes con velocidad de Import y frescura de DirectQuery
+• Reporte en Power BI — el resultado final, construido sobre ese modelo
+
+Todo sobre la prueba gratuita de 60 días de Fabric, sin costo.
+
+📖 Tutorial completo en el blog:
+https://www.angelgarciadatablog.com/fabric-primer-pipeline
+
+▶️ Serie completa (playlist Azure):
+https://www.youtube.com/playlist?list=PLV4oS06_KpqYMjulfvIRy6OA6XOgyLkoL
+
+🔔 Suscríbete para más sobre análisis de datos, automatización y cloud.
+
+#MicrosoftFabric #PowerBI #Azure #AnalisisDeDatos",https://i.ytimg.com/vi/eXfqUxzE0MY/hqdefault.jpg,https://www.youtube.com/watch?v=eXfqUxzE0MY
+lqwMXNy0ATk,UCUEOHBht8pnQhQvCfIcl-gg,Crea tu cuenta de Azure para Microsoft Fabric y arranca tu primer pipeline (1/2),2026-06-28 18:29:43+00:00,1521,"Primera parte de un tutorial para construir tu primer pipeline de datos en Microsoft Fabric, desde cero y de forma 100% gratuita y legítima: trabajamos sobre la prueba gratuita de 60 días de Fabric (que Microsoft ofrece desde 2023, incluso antes). No es ningún hack ni truco raro: es la vía oficial y sin costo para aprender.
+
+Aquí montamos la base —cómo conseguir acceso a Fabric y Power BI Service sin cuenta empresarial— y arrancamos el pipeline.
+
+En esta parte:
+• Crear tu cuenta gratuita de Azure y el tenant de Entra ID que se genera solo
+• Crear tu usuario organizacional para entrar a Fabric y Power BI Service
+• Por qué NO conviene usar tu correo institucional para probar Fabric: tu organización suele limitar a qué elementos tienes acceso según sus políticas
+• Cómo aprovechar los 60 días de prueba de Fabric, sin gastar el crédito de Azure
+• Los primeros pasos del pipeline en Fabric
+
+Nota sobre la gratuidad: la prueba de 60 días lleva años disponible. Si en el futuro Microsoft la retira, habrá que buscar otra vía de acceso a Fabric — pero hoy es la forma legítima y sin costo de aprender.
+
+📖 Tutorial completo en el blog:
+https://www.angelgarciadatablog.com/fabric-primer-pipeline
+
+📝 La creación de tu cuenta de Azure, paso a paso por escrito:
+https://www.angelgarciadatablog.com/primeros-pasos-en-azure
+
+🔔 Suscríbete para más sobre análisis de datos, automatización y cloud.
+
+#MicrosoftFabric #PowerBI #Azure #AnalisisDeDatos",https://i.ytimg.com/vi/lqwMXNy0ATk/hqdefault.jpg,https://www.youtube.com/watch?v=lqwMXNy0ATk
+GSUn2ePNYsk,UCUEOHBht8pnQhQvCfIcl-gg,¿Por qué un analista de datos debe saber de APIS? Parte 2,2026-06-23 20:09:32+00:00,63,,https://i.ytimg.com/vi/GSUn2ePNYsk/hqdefault.jpg,https://www.youtube.com/watch?v=GSUn2ePNYsk
+xA--Kg9DtWM,UCUEOHBht8pnQhQvCfIcl-gg,¿Por qué un analista de datos debe saber de APIS? Parte 1,2026-06-23 19:55:26+00:00,107,,https://i.ytimg.com/vi/xA--Kg9DtWM/hqdefault.jpg,https://www.youtube.com/watch?v=xA--Kg9DtWM
+8KfTQmLyYAY,UCUEOHBht8pnQhQvCfIcl-gg,¿Por qué un analista de datos debe saber de APIs?,2026-06-23 07:05:31+00:00,1063,"¿Todavía descargas CSVs a mano cada vez que necesitas datos para un análisis? Ese método es lento, no se puede repetir y los datos quedan viejos al instante.
+
+En este video te explico, sin tecnicismos, por qué las APIs son la forma profesional de obtener datos —directos de la fuente, siempre frescos y automatizables— y por qué un analista de datos debería dominarlas.
+
+En este video:
+• Por qué saber APIs te vuelve autónomo (dejas de pedir CSVs a mano)
+• Qué es una API, explicado con ejemplos del día a día
+• Los 5 entornos donde viven las APIs y cuál es el del analista
+
+📖 Versión escrita, con todo el detalle:
+https://www.angelgarciadatablog.com/introduccion-apis-para-analistas
+
+🔔 Suscríbete para más sobre análisis de datos, automatización y cloud.
+
+#APIs #AnalisisDeDatos #DataAnalyst",https://i.ytimg.com/vi/8KfTQmLyYAY/hqdefault.jpg,https://www.youtube.com/watch?v=8KfTQmLyYAY
 xB4ecIksJSY,UCUEOHBht8pnQhQvCfIcl-gg,4. Git Push - Actualizar cambios de un repositorio local a remoto,2026-01-24 12:04:21+00:00,960,,https://i.ytimg.com/vi/xB4ecIksJSY/hqdefault.jpg,https://www.youtube.com/watch?v=xB4ecIksJSY
 7bwkNrRpgw0,UCUEOHBht8pnQhQvCfIcl-gg,Modo oscuro - Big query - Google Cloud,2026-01-23 06:52:23+00:00,69,,https://i.ytimg.com/vi/7bwkNrRpgw0/hqdefault.jpg,https://www.youtube.com/watch?v=7bwkNrRpgw0
 HDyKUodeuNw,UCUEOHBht8pnQhQvCfIcl-gg,Como seleccionar valores iguales en SQL,2026-01-23 06:43:39+00:00,294,,https://i.ytimg.com/vi/HDyKUodeuNw/hqdefault.jpg,https://www.youtube.com/watch?v=HDyKUodeuNw
@@ -1831,7 +1895,6 @@ https://www.youtube.com/watch?v=sPJyESLn3cM
 📌Documentación:
 https://learn.microsoft.com/en-us/dax/groupby-function-dax
 https://learn.microsoft.com/en-us/dax/summarize-function-dax",https://i.ytimg.com/vi/2s7evXo3BkI/hqdefault.jpg,https://www.youtube.com/watch?v=2s7evXo3BkI
-C-lZzLmQrsw,UCUEOHBht8pnQhQvCfIcl-gg,Python en Excel,2023-08-25 19:16:16+00:00,61,,https://i.ytimg.com/vi/C-lZzLmQrsw/hqdefault.jpg,https://www.youtube.com/watch?v=C-lZzLmQrsw
 xsptE33QWNE,UCUEOHBht8pnQhQvCfIcl-gg,Como instalar python en excel 2023 [Qué es microsoft insider],2023-08-25 12:19:10+00:00,125,,https://i.ytimg.com/vi/xsptE33QWNE/hqdefault.jpg,https://www.youtube.com/watch?v=xsptE33QWNE
 qr6ATPTgl20,UCUEOHBht8pnQhQvCfIcl-gg,"7. Operadores IN,OR,SEARCH, RIGHT, LEFT [Como crear tablas filtradas en Power BI]",2023-08-23 23:00:31+00:00,1184,"📌CONJUNCIONES PARA LOS FILTROS:
 *(II) Conjunción O
