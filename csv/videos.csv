@@ -1,4 +1,20 @@
 video_id,channel_id,title,published_at,duration_seconds,description,thumbnail_url,video_url
+4ugOz63m5-k,UCUEOHBht8pnQhQvCfIcl-gg,Problema con un pipeline de datos - 4,2026-07-05 01:13:58+00:00,167,,https://i.ytimg.com/vi/4ugOz63m5-k/hqdefault.jpg,https://www.youtube.com/watch?v=4ugOz63m5-k
+6Lkyx9jAWMo,UCUEOHBht8pnQhQvCfIcl-gg,Problema con un pipeline de datos - 3,2026-07-05 01:10:45+00:00,109,,https://i.ytimg.com/vi/6Lkyx9jAWMo/hqdefault.jpg,https://www.youtube.com/watch?v=6Lkyx9jAWMo
+OP7Hest5Ivo,UCUEOHBht8pnQhQvCfIcl-gg,Problema con pipeline de datos - 2,2026-07-05 00:58:58+00:00,76,,https://i.ytimg.com/vi/OP7Hest5Ivo/hqdefault.jpg,https://www.youtube.com/watch?v=OP7Hest5Ivo
+_xdmT6Ir4xk,UCUEOHBht8pnQhQvCfIcl-gg,Problema con pipeline datos - parte 1,2026-07-05 00:52:34+00:00,113,,https://i.ytimg.com/vi/_xdmT6Ir4xk/hqdefault.jpg,https://www.youtube.com/watch?v=_xdmT6Ir4xk
+Wez4b-J_xL4,UCUEOHBht8pnQhQvCfIcl-gg,Mi pipeline de datos se cayó y estuve semanas sin datos | Caso real,2026-07-04 17:21:25+00:00,911,"Un lunes cualquiera mi dashboard amaneció sin datos: el pipeline que analiza las métricas de mi canal de YouTube se cayó por un caso que nunca consideré — cero playlists.
+
+En este video te cuento la historia completa: qué cambio manual lo disparó, por qué la API de YouTube dejó de devolver playlists y la lección que me llevo para diseñar pipelines más robustos.
+
+Más contenido en mi blog de datos: https://www.angelgarciadatablog.com/",https://i.ytimg.com/vi/Wez4b-J_xL4/hqdefault.jpg,https://www.youtube.com/watch?v=Wez4b-J_xL4
+I8oipG4G1GI,UCUEOHBht8pnQhQvCfIcl-gg,Parte final - Crea tu primer pipeline de datos en fabric,2026-06-29 17:48:57+00:00,23,,https://i.ytimg.com/vi/I8oipG4G1GI/hqdefault.jpg,https://www.youtube.com/watch?v=I8oipG4G1GI
+7NnpKR1VA58,UCUEOHBht8pnQhQvCfIcl-gg,"Lakehouse, dataflow, modelo semántico y reporte bi en fabric",2026-06-29 17:47:28+00:00,82,,https://i.ytimg.com/vi/7NnpKR1VA58/hqdefault.jpg,https://www.youtube.com/watch?v=7NnpKR1VA58
+mTCodgOqy3A,UCUEOHBht8pnQhQvCfIcl-gg,Crear un modelo semántico desde lakehouse,2026-06-29 17:45:46+00:00,180,,https://i.ytimg.com/vi/mTCodgOqy3A/hqdefault.jpg,https://www.youtube.com/watch?v=mTCodgOqy3A
+nziKRGItUbo,UCUEOHBht8pnQhQvCfIcl-gg,Consultas SQL dentro de lakehouse en fabric,2026-06-29 17:43:07+00:00,50,,https://i.ytimg.com/vi/nziKRGItUbo/hqdefault.jpg,https://www.youtube.com/watch?v=nziKRGItUbo
+nFQA-o7gZL4,UCUEOHBht8pnQhQvCfIcl-gg,Lakehouse y dataflow gen2,2026-06-29 17:40:55+00:00,114,,https://i.ytimg.com/vi/nFQA-o7gZL4/hqdefault.jpg,https://www.youtube.com/watch?v=nFQA-o7gZL4
+4bYnczoU-8Q,UCUEOHBht8pnQhQvCfIcl-gg,Crea un dataflow gen2 en fabric,2026-06-29 17:37:48+00:00,50,,https://i.ytimg.com/vi/4bYnczoU-8Q/hqdefault.jpg,https://www.youtube.com/watch?v=4bYnczoU-8Q
+0CPm2tH1Ul8,UCUEOHBht8pnQhQvCfIcl-gg,Crea tu primer lakehouse en fabric,2026-06-29 17:35:31+00:00,72,,https://i.ytimg.com/vi/0CPm2tH1Ul8/hqdefault.jpg,https://www.youtube.com/watch?v=0CPm2tH1Ul8
 QFg5SkPyiqQ,UCUEOHBht8pnQhQvCfIcl-gg,Crear cuenta de azure,2026-06-28 22:29:15+00:00,43,,https://i.ytimg.com/vi/QFg5SkPyiqQ/hqdefault.jpg,https://www.youtube.com/watch?v=QFg5SkPyiqQ
 TVlRs1BUsGM,UCUEOHBht8pnQhQvCfIcl-gg,Crear cuenta de power bi gratis,2026-06-28 22:25:03+00:00,58,,https://i.ytimg.com/vi/TVlRs1BUsGM/hqdefault.jpg,https://www.youtube.com/watch?v=TVlRs1BUsGM
 Q2KQ6SvIU4Q,UCUEOHBht8pnQhQvCfIcl-gg,Cuenta de power bi gratuita con azure,2026-06-28 22:13:37+00:00,68,,https://i.ytimg.com/vi/Q2KQ6SvIU4Q/hqdefault.jpg,https://www.youtube.com/watch?v=Q2KQ6SvIU4Q
@@ -834,7 +850,7 @@ P4--JGi1xH8,UCUEOHBht8pnQhQvCfIcl-gg,Cómo usar BETWEEN en SQL para filtrar rang
 
 📚 Lista de reproducción completa del curso:
 https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/P4--JGi1xH8/hqdefault.jpg,https://www.youtube.com/watch?v=P4--JGi1xH8
-4aUW0262vu8,UCUEOHBht8pnQhQvCfIcl-gg,"Buscar texto con LIKE, CONTAINS_SUBSTR, STARTS_WITH y ENDS_WITH | Curso de SQL BigQuery #46",2025-10-08 12:00:10+00:00,652,"En este capítulo aprenderemos a buscar cadenas dentro de columnas en SQL BigQuery usando las expresiones LIKE, CONTAINS_SUBSTR, STARTS_WITH y ENDS_WITH. Veremos las diferencias de funcionamiento y rendimiento entre ellas, por qué conviene usar LOWER() para evitar problemas con mayúsculas/minúsculas y cuándo preferir cada función según la necesidad (contener, comenzar o terminar). 
+4aUW0262vu8,UCUEOHBht8pnQhQvCfIcl-gg,"Buscar texto con LIKE, CONTAINS_SUBSTR, STARTS_WITH y ENDS_WITH | Curso de SQL BigQuery #46",2025-10-08 12:00:10+00:00,653,"En este capítulo aprenderemos a buscar cadenas dentro de columnas en SQL BigQuery usando las expresiones LIKE, CONTAINS_SUBSTR, STARTS_WITH y ENDS_WITH. Veremos las diferencias de funcionamiento y rendimiento entre ellas, por qué conviene usar LOWER() para evitar problemas con mayúsculas/minúsculas y cuándo preferir cada función según la necesidad (contener, comenzar o terminar). 
 
 📌 Temas que veremos:
 ✅ Uso de LIKE y sus comodines para búsquedas por patrón (ej.: LOWER(geo.city) LIKE '%san%').
@@ -1296,7 +1312,7 @@ Revisaremos cómo usar TIMESTAMP_MICROS junto con la función EXTRACT, y cómo a
 
 📚 Lista de reproducción completa del curso:
 https://youtube.com/playlist?list=PLV4oS06_KpqbnahoXdN-A8Ql9zVblYUJl&si=yenYawVlOri5L-SU",https://i.ytimg.com/vi/JbwNhXjC16A/hqdefault.jpg,https://www.youtube.com/watch?v=JbwNhXjC16A
-VrvnwaTppAE,UCUEOHBht8pnQhQvCfIcl-gg,"Cómo usar EXTRACT en BigQuery | Extraer día, mes y año de fechas | Curso de SQL BigQuery #15",2025-09-11 12:00:59+00:00,435,"En este capítulo aprenderemos a usar la función EXTRACT, que permite obtener partes específicas de una fecha, como día, mes, año, trimestre o semana.
+VrvnwaTppAE,UCUEOHBht8pnQhQvCfIcl-gg,"Cómo usar EXTRACT en BigQuery | Extraer día, mes y año de fechas | Curso de SQL BigQuery #15",2025-09-11 12:00:59+00:00,436,"En este capítulo aprenderemos a usar la función EXTRACT, que permite obtener partes específicas de una fecha, como día, mes, año, trimestre o semana.
 
 Veremos ejemplos prácticos con una tabla prueba y con la tabla de events de GA4, explicando las diferencias entre trabajar con campos de tipo DATE y STRING, y cómo combinar EXTRACT con PARSE_DATE para transformar datos en Big Query.
 
