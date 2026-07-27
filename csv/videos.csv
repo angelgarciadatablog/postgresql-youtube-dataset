@@ -1,4 +1,13 @@
 video_id,channel_id,title,published_at,duration_seconds,description,thumbnail_url,video_url
+Eu2w5wSNlJI,UCUEOHBht8pnQhQvCfIcl-gg,¿Lakehouse o Warehouse en Microsoft Fabric? Cuál elegir y por qué,2026-07-23 06:38:03+00:00,1842,"Lakehouse y Warehouse se parecen tanto en Fabric que cuesta saber cuándo usar cada uno. En este video construimos los dos con datos reales y públicos de un canal de YouTube, les aplicamos el mismo SQL y descubrimos que por debajo guardan lo mismo: tablas Delta en OneLake. La diferencia real aparece al intentar escribir.
+
+Recorremos el camino completo: ingesta con Flujo de datos Gen2 → Lakehouse → materializar con CTAS en el Warehouse → modelo semántico Direct Lake → reporte en Power BI.
+
+Post completo: https://www.angelgarciadatablog.com/microsoft-fabric-lakehouse-vs-warehouse
+
+Datos usados en el tutorial:
+https://raw.githubusercontent.com/angelgarciadatablog/postgresql-youtube-dataset/main/csv/videos.csv
+https://raw.githubusercontent.com/angelgarciadatablog/postgresql-youtube-dataset/main/csv/video_metrics.csv",https://i.ytimg.com/vi/Eu2w5wSNlJI/hqdefault.jpg,https://www.youtube.com/watch?v=Eu2w5wSNlJI
 4ugOz63m5-k,UCUEOHBht8pnQhQvCfIcl-gg,Problema con un pipeline de datos - 4,2026-07-05 01:13:58+00:00,167,,https://i.ytimg.com/vi/4ugOz63m5-k/hqdefault.jpg,https://www.youtube.com/watch?v=4ugOz63m5-k
 6Lkyx9jAWMo,UCUEOHBht8pnQhQvCfIcl-gg,Problema con un pipeline de datos - 3,2026-07-05 01:10:45+00:00,109,,https://i.ytimg.com/vi/6Lkyx9jAWMo/hqdefault.jpg,https://www.youtube.com/watch?v=6Lkyx9jAWMo
 OP7Hest5Ivo,UCUEOHBht8pnQhQvCfIcl-gg,Problema con pipeline de datos - 2,2026-07-05 00:58:58+00:00,76,,https://i.ytimg.com/vi/OP7Hest5Ivo/hqdefault.jpg,https://www.youtube.com/watch?v=OP7Hest5Ivo
