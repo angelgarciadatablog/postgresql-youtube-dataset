@@ -1,4 +1,21 @@
 video_id,channel_id,title,published_at,duration_seconds,description,thumbnail_url,video_url
+d4-4XioffMU,UCUEOHBht8pnQhQvCfIcl-gg,Procedimientos almacenados en Microsoft Fabric,2026-07-29 07:49:49+00:00,1268,"Un procedimiento almacenado es un trabajo guardado dentro de la base de datos con nombre propio, que se ejecuta cuando lo llamas.
+
+Acepta parámetros de entrada, devuelve valores por parámetros de salida, contiene varias instrucciones que se ejecutan en orden, puede llamar a otros procedimientos y devuelve un estado según haya salido bien o mal.
+
+Eso es lo que lo separa de una consulta. Una consulta SQL es declarativa: describes qué quieres y el motor decide cómo obtenerlo. Un procedimiento añade la parte procedimental: en qué orden pasan las cosas y qué se hace con el resultado de cada paso.
+
+De ahí sale también la diferencia con una vista. Una vista es una tabla lógica: la puedes poner en un FROM, unirla con otras tablas, anidarla. Un procedimiento no va en ningún FROM, porque no es una tabla — es una acción. Puede escribir, borrar, actualizar y encadenar varios pasos en orden.
+
+La pregunta que separa las dos: ¿esto cambia algo, o solo lo mira? Si solo lo mira, una vista. Si cambia algo, un procedimiento — ahí no hay alternativa.
+
+En este video construimos uno paso a paso en el Warehouse de Microsoft Fabric, con sus tres piezas: CREATE OR ALTER PROCEDURE para bautizarlo, AS BEGIN ... END como envase y EXEC para llamarlo.
+
+Post completo: https://www.angelgarciadatablog.com/fabric-procedimientos-almacenados
+
+Datos usados en el tutorial:
+https://raw.githubusercontent.com/angelgarciadatablog/postgresql-youtube-dataset/main/csv/videos.csv
+https://raw.githubusercontent.com/angelgarciadatablog/postgresql-youtube-dataset/main/csv/video_metrics.csv",https://i.ytimg.com/vi/d4-4XioffMU/hqdefault.jpg,https://www.youtube.com/watch?v=d4-4XioffMU
 Eu2w5wSNlJI,UCUEOHBht8pnQhQvCfIcl-gg,¿Lakehouse o Warehouse en Microsoft Fabric? Cuál elegir y por qué,2026-07-23 06:38:03+00:00,1842,"Lakehouse y Warehouse se parecen tanto en Fabric que cuesta saber cuándo usar cada uno. En este video construimos los dos con datos reales y públicos de un canal de YouTube, les aplicamos el mismo SQL y descubrimos que por debajo guardan lo mismo: tablas Delta en OneLake. La diferencia real aparece al intentar escribir.
 
 Recorremos el camino completo: ingesta con Flujo de datos Gen2 → Lakehouse → materializar con CTAS en el Warehouse → modelo semántico Direct Lake → reporte en Power BI.
