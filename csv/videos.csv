@@ -1,4 +1,18 @@
 video_id,channel_id,title,published_at,duration_seconds,description,thumbnail_url,video_url
+IKRRKvhnnJ0,UCUEOHBht8pnQhQvCfIcl-gg,API de Notion: cómo leer páginas y tablas con Postman,2026-08-11 20:57:15+00:00,1522,"La API de Notion no tiene acceso público: hasta la petición más simple necesita autenticación. En este video conectamos con ella desde Postman y extraemos el contenido de una página real, incluidas sus tablas.
+
+Lo que vemos:
+
+- Qué tipo de API es Notion y por qué el header Notion-Version es obligatorio
+- Crear una Integration y darle acceso explícito a tus páginas
+- Las capabilities de Notion (sus ""scopes""): pedir solo lo necesario
+- POST /search para descubrir qué hay en tu workspace
+- GET /blocks/{id}/children para leer el contenido de una página
+- El modelo de bloques: en Notion todo es un bloque, y el contenido es un árbol
+- Tablas y recursividad: por qué leer una tabla exige una segunda petición
+
+El post completo, con los JSON de ejemplo y las tablas de referencia:
+https://www.angelgarciadatablog.com/api-notion-extraer-paginas-tablas-postman",https://i.ytimg.com/vi/IKRRKvhnnJ0/hqdefault.jpg,https://www.youtube.com/watch?v=IKRRKvhnnJ0
 d4-4XioffMU,UCUEOHBht8pnQhQvCfIcl-gg,Procedimientos almacenados en Microsoft Fabric,2026-07-29 07:49:49+00:00,1268,"Un procedimiento almacenado es un trabajo guardado dentro de la base de datos con nombre propio, que se ejecuta cuando lo llamas.
 
 Acepta parámetros de entrada, devuelve valores por parámetros de salida, contiene varias instrucciones que se ejecutan en orden, puede llamar a otros procedimientos y devuelve un estado según haya salido bien o mal.
