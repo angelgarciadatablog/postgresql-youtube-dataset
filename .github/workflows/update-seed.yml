@@ -2,7 +2,12 @@ name: Actualizar seed y CSVs
 
 on:
   schedule:
-    - cron: '30 4 * * 1'  # Lunes 4:30 AM UTC — después del pipeline semanal
+    # Los crons de GitHub Actions son SIEMPRE UTC.
+    # 8:30 UTC = 3:30 AM lunes hora Lima — una hora después de que el ETL
+    # (youtube-v3-data-pipeline, 2:30 AM Lima) escribe la semana en BigQuery.
+    # El cron anterior era '30 4 * * 1' = 11:30 PM del DOMINGO en Lima: corría
+    # antes de que existieran los datos y publicaba los de la semana pasada.
+    - cron: '30 8 * * 1'
   workflow_dispatch:        # permite ejecución manual desde GitHub
 
 permissions:
