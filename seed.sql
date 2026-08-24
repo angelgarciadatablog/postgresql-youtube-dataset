@@ -1,4 +1,4 @@
--- seed.sql — generado automáticamente el 2026-08-17 09:06 UTC
+-- seed.sql — generado automáticamente el 2026-08-24 09:11 UTC
 
 -- No editar manualmente: este archivo se sobreescribe cada semana.
 
@@ -86,6 +86,20 @@ En este canal encontrarás videos relacionados al análisis de datos y otros pas
   ON CONFLICT (channel_id) DO UPDATE SET channel_title = EXCLUDED.channel_title, country = EXCLUDED.country, published_at = EXCLUDED.published_at, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, channel_url = EXCLUDED.channel_url;
 
 -- channel_metrics
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-08-24', 2360, 197574, 218)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-08-23', 2360, 197512, 218)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-08-22', 2350, 197400, 218)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-08-21', 2350, 197319, 218)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-08-20', 2350, 197194, 218)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-08-19', 2350, 197116, 218)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-08-18', 2350, 197013, 218)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-08-17', 2350, 196898, 218)
   ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-08-16', 2350, 196859, 218)
@@ -2790,6 +2804,444 @@ Me gustaría conocer gente con quien platicar sobre temas de análisis, es un mu
   ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
 
 -- video_metrics
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('-W0cM6L62s8', '2026-08-24', 295, 8, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('0CPm2tH1Ul8', '2026-08-24', 12, 1, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('0VmI47XeOuE', '2026-08-24', 22, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('0i8W5wucIMc', '2026-08-24', 98, 4, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('1-VRjF4aDgk', '2026-08-24', 136, 7, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('1Hgmt97AkBw', '2026-08-24', 34, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('1ISPibwIVQA', '2026-08-24', 3897, 25, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('1OxYQbmdW-Y', '2026-08-24', 1638, 23, 3)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('1eRuwnvwsPo', '2026-08-24', 69, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('2W7sPgGlNqo', '2026-08-24', 458, 8, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('2eUOg1Vmt7Y', '2026-08-24', 2320, 22, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('2s7evXo3BkI', '2026-08-24', 2895, 71, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('46knscCk2Ic', '2026-08-24', 43, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('4JmKLgtmMBI', '2026-08-24', 21, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('4XgvRRtSUdg', '2026-08-24', 298, 9, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('4aUW0262vu8', '2026-08-24', 70, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('4bYnczoU-8Q', '2026-08-24', 25, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('4ugOz63m5-k', '2026-08-24', 654, 4, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('4v5Vv8fsR-g', '2026-08-24', 51, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('5BEWVMsLsBo', '2026-08-24', 196, 13, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('6Lkyx9jAWMo', '2026-08-24', 785, 9, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('6QlUSg3-ivQ', '2026-08-24', 0, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('6lR81YOeNKs', '2026-08-24', 51, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('6mBufYO1YR8', '2026-08-24', 93, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('6rc09OdwHlk', '2026-08-24', 10822, 132, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('7EhEb5ojYZw', '2026-08-24', 352, 8, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('7NnpKR1VA58', '2026-08-24', 37, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('7beGTcu4wOY', '2026-08-24', 110, 5, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('7bwkNrRpgw0', '2026-08-24', 31, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('7kTYy0cJ_EE', '2026-08-24', 37, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('7q20ukuXuN8', '2026-08-24', 1747, 10, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('7sgJBBtJV3A', '2026-08-24', 127, 6, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('8AMwesfk-DM', '2026-08-24', 115, 5, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('8KfTQmLyYAY', '2026-08-24', 221, 21, 4)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('8_fVq-UewMc', '2026-08-24', 1493, 75, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('9wkGoWLVjT8', '2026-08-24', 194, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('9xx1KaBQxVQ', '2026-08-24', 224, 5, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('AARzy2sfqVw', '2026-08-24', 467, 7, 6)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Aeue3yzSc4M', '2026-08-24', 78, 4, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('AtGVhnK5jRo', '2026-08-24', 162, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('BQnwEe6r4Fg', '2026-08-24', 212, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('BUC65TLIGf8', '2026-08-24', 11024, 227, 6)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('CHz9g2LGYlo', '2026-08-24', 451, 17, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('CrG-FruGb-k', '2026-08-24', 67, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Cz9osSyqYXI', '2026-08-24', 91, 4, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('DFETYUUNO18', '2026-08-24', 63, 4, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('DPDmPO-JXe0', '2026-08-24', 102, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('DQlkV2DmA_M', '2026-08-24', 304, 6, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('DWS8WsB2FgE', '2026-08-24', 38, 1, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Dc98c6LPQQE', '2026-08-24', 145, 9, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('DebaxM_8EO0', '2026-08-24', 98, 11, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('E6-cYClJn3Y', '2026-08-24', 88, 6, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('EVkg5zFPcMs', '2026-08-24', 885, 13, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('E_MeMkTfBsk', '2026-08-24', 50, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Eu2w5wSNlJI', '2026-08-24', 53, 4, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('FXk9SQvqFFs', '2026-08-24', 113, 4, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('G0pKbjeeTMs', '2026-08-24', 9091, 163, 13)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('GLJffh1QDM4', '2026-08-24', 30, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('GSUn2ePNYsk', '2026-08-24', 40, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Gcigj916zyE', '2026-08-24', 14, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('GgunOaMm_-g', '2026-08-24', 108, 6, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('HDyKUodeuNw', '2026-08-24', 19, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('HvXbln87KY0', '2026-08-24', 9248, 61, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('HyPyDdUy-Xk', '2026-08-24', 163, 7, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('I8oipG4G1GI', '2026-08-24', 439, 4, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('IAjVUpwzMGo', '2026-08-24', 13257, 314, 25)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('ICnRxj-bjJE', '2026-08-24', 439, 9, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('IIT39Xomn94', '2026-08-24', 42, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('IKRRKvhnnJ0', '2026-08-24', 10, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('IQPxO_NmSJk', '2026-08-24', 2284, 45, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Ie-FqoNGqLA', '2026-08-24', 297, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Im9z2T57eEw', '2026-08-24', 5446, 44, 3)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('J0GOADsEp4E', '2026-08-24', 94, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('JbwNhXjC16A', '2026-08-24', 103, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('K2jlyUL3zK8', '2026-08-24', 275, 7, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('KpjJH-fdImI', '2026-08-24', 33, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('LDp0JP4L6YY', '2026-08-24', 1179, 33, 3)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('LXwH60B973Q', '2026-08-24', 41, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Lox4HlSibXo', '2026-08-24', 52, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('M4Q186h3zHA', '2026-08-24', 102, 5, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('MHxjAOrdxCU', '2026-08-24', 121, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('N-7O94hPplU', '2026-08-24', 39, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('N5qEWgYkGwk', '2026-08-24', 1192, 25, 9)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('NBrio9XsAto', '2026-08-24', 56, 1, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('NMt3A12yjhg', '2026-08-24', 90, 4, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('NQpnc4YfuQo', '2026-08-24', 117, 4, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('NVwGmBS-wMw', '2026-08-24', 36, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('OP7Hest5Ivo', '2026-08-24', 166, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('OTkdggNWv14', '2026-08-24', 162, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('OoG2Z1GdWQQ', '2026-08-24', 77, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Oswa8OkiQPs', '2026-08-24', 77, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('OzgC7e3Eths', '2026-08-24', 25, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('P4--JGi1xH8', '2026-08-24', 41, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('PGZNyTVcZbI', '2026-08-24', 1417, 39, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('PIOYkiA1qBw', '2026-08-24', 309, 6, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('PLGbRoNcVL4', '2026-08-24', 54, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('PPTTWwot8uw', '2026-08-24', 75, 6, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Q275enpY7bY', '2026-08-24', 75, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Q2KQ6SvIU4Q', '2026-08-24', 59, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Q3olnvgueTQ', '2026-08-24', 625, 10, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Q6vUPD3f4bs', '2026-08-24', 363, 10, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Q7BvnpCsUAU', '2026-08-24', 84, 5, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('QC05ysMl8oc', '2026-08-24', 664, 8, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('QFg5SkPyiqQ', '2026-08-24', 40, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Qc0HiH1iZ8U', '2026-08-24', 76, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('QueSk8MsubI', '2026-08-24', 244, 7, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('R7hA1gBrsvQ', '2026-08-24', 37, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('RiYjYfMTGvw', '2026-08-24', 22, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('TGfUG__aOhw', '2026-08-24', 217, 6, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('THxGW9huLRg', '2026-08-24', 76, 4, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('TVlRs1BUsGM', '2026-08-24', 47, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('U92pTqhzxoQ', '2026-08-24', 68, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('UlDUQ9G0QHM', '2026-08-24', 38, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Un9gEpkxsio', '2026-08-24', 69, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('V3pMWhj4lxQ', '2026-08-24', 39, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('VUPm0AxqTho', '2026-08-24', 7262, 83, 3)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('VgumMjYb89g', '2026-08-24', 86, 2, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('VrvnwaTppAE', '2026-08-24', 128, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('W8clxC5S3dU', '2026-08-24', 685, 8, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Wez4b-J_xL4', '2026-08-24', 46, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('X6JyQKV5d0E', '2026-08-24', 659, 16, 3)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('XEdE-i6as6I', '2026-08-24', 165, 4, 4)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('XHnA-a5rivU', '2026-08-24', 145, 8, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Xgk-fE4kDH4', '2026-08-24', 46, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Xnd-Ygs7U3Y', '2026-08-24', 91, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Y9dNljQTNe0', '2026-08-24', 33, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('YC6d_IxCfPo', '2026-08-24', 816, 7, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('YDElIJ6jMrw', '2026-08-24', 78, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('YI0_i2mVva0', '2026-08-24', 300, 9, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('YnFvHoWdvzs', '2026-08-24', 240, 6, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Z4Fo5F_mLuU', '2026-08-24', 104, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('ZWi_B_rqvt4', '2026-08-24', 63, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('ZgZVpp61cYY', '2026-08-24', 212, 8, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Zj6uiqMvFOU', '2026-08-24', 32, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Zyg3scrypKQ', '2026-08-24', 60, 3, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('_4lqZZO3ifA', '2026-08-24', 324, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('_VCX-MmBF_4', '2026-08-24', 4034, 55, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('_cXvg-XPnUs', '2026-08-24', 87, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('_ofTsPs9mT8', '2026-08-24', 2448, 95, 9)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('_wQMZfzqCAo', '2026-08-24', 1419, 38, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('_xdmT6Ir4xk', '2026-08-24', 496, 7, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('a1nrZ-A7vSg', '2026-08-24', 84, 2, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('a4PcaVKyCko', '2026-08-24', 122, 8, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('aLp96mNnYA8', '2026-08-24', 680, 17, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('aoP5EPC9Skw', '2026-08-24', 559, 13, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('b94_Fgq1uM0', '2026-08-24', 684, 12, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('bOvsWX2Mgmg', '2026-08-24', 6562, 46, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('bZgmdcD9THA', '2026-08-24', 2929, 15, 3)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('ci1hFXvOMjw', '2026-08-24', 7858, 125, 8)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('d4-4XioffMU', '2026-08-24', 31, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('dHx1iSHHwx4', '2026-08-24', 1367, 6, 4)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('dbYadcZ2uOU', '2026-08-24', 47, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('ddB92jjDOVs', '2026-08-24', 35, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('dnLOQnSM8W8', '2026-08-24', 14, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('eO7e64yu3Kk', '2026-08-24', 6073, 141, 11)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('eVL3dw9BfPc', '2026-08-24', 64, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('eXfqUxzE0MY', '2026-08-24', 101, 7, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('ecJm9JHj18g', '2026-08-24', 40, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('ee-gYMaH1Rk', '2026-08-24', 3138, 8, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('f144Cg6EGxE', '2026-08-24', 1283, 35, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('ffCLLOraLFA', '2026-08-24', 70, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('gKrXqZNAV1Y', '2026-08-24', 609, 6, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('hhX0ynoT_mc', '2026-08-24', 48, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('hipquVDxH70', '2026-08-24', 1546, 33, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('i6Cfsd0CP2g', '2026-08-24', 412, 15, 3)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('iMbfo-nXbOg', '2026-08-24', 76, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('iNyOOzX6lKk', '2026-08-24', 41, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('jJT2Pjgug7s', '2026-08-24', 177, 5, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('jRm_0dohWB4', '2026-08-24', 2330, 46, 4)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('kJzw5JPC6AI', '2026-08-24', 4278, 72, 7)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('kPT8l-XKm8A', '2026-08-24', 1100, 17, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('kegfG0chZHI', '2026-08-24', 57, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('lcOQNnj3lwQ', '2026-08-24', 428, 7, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('lqwMXNy0ATk', '2026-08-24', 108, 9, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('mTCodgOqy3A', '2026-08-24', 10, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('m_WT3mJ0J9E', '2026-08-24', 175, 8, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('mdQHFYj09wg', '2026-08-24', 34, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('mj_b9_nxJfw', '2026-08-24', 1482, 46, 3)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('mqLksU5um3Q', '2026-08-24', 510, 18, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('nAYXMoOpNsM', '2026-08-24', 71, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('nFQA-o7gZL4', '2026-08-24', 8, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('njqE2uGyysQ', '2026-08-24', 33, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('nziKRGItUbo', '2026-08-24', 37, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('o3fMDF3PGhM', '2026-08-24', 10873, 211, 13)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('oQ1nPp7viGs', '2026-08-24', 655, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('pHAb6YNGRl4', '2026-08-24', 46, 5, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('pLRAticn7NU', '2026-08-24', 30, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('pcSv3TjR5ZQ', '2026-08-24', 11683, 240, 12)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('pqAswnET2XQ', '2026-08-24', 194, 6, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('q0n48c-f4O8', '2026-08-24', 93, 4, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('qr6ATPTgl20', '2026-08-24', 1817, 63, 4)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('qytf-g55XFE', '2026-08-24', 263, 6, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('rSYSSOP3h2k', '2026-08-24', 481, 7, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('rvVwrHtI4gQ', '2026-08-24', 37, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('sV8nczRvPAU', '2026-08-24', 84, 2, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('t3jyABNSOno', '2026-08-24', 31, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('t4eZfB4XTHg', '2026-08-24', 66, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('t8grl_NIYPw', '2026-08-24', 140, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('tIxrQnDwvx4', '2026-08-24', 87, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('thQUAzH5d2o', '2026-08-24', 80, 6, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('uN-yP7FwIN4', '2026-08-24', 1165, 37, 6)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('ue5vLsIijHs', '2026-08-24', 83, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('v1Qnd2Uxcjs', '2026-08-24', 89, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('v1lKqeiQFTI', '2026-08-24', 540, 14, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('vBRiaP5NgVw', '2026-08-24', 52, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('vJXvL5i4OQY', '2026-08-24', 72, 4, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('x1FB0zvtgOw', '2026-08-24', 223, 4, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('xA--Kg9DtWM', '2026-08-24', 34, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('xB4ecIksJSY', '2026-08-24', 47, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('xJ05Nq48Zq4', '2026-08-24', 49, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('xic7AMpR4IM', '2026-08-24', 49, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('xsptE33QWNE', '2026-08-24', 7209, 56, 12)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('yZ8DSleduDs', '2026-08-24', 1088, 20, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('y_rVPdd-RNY', '2026-08-24', 52, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('yiDhqGdxFPs', '2026-08-24', 565, 15, 2)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('yzvzl1LBXm0', '2026-08-24', 51, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('zT66rq7mEu4', '2026-08-24', 74, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('zToHhAif9Gw', '2026-08-24', 58, 5, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('zcOZ0IEsXHc', '2026-08-24', 145, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
 INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('-W0cM6L62s8', '2026-08-17', 295, 8, 0)
   ON CONFLICT (video_id, snapshot_date) DO NOTHING;
 INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('0CPm2tH1Ul8', '2026-08-17', 12, 1, 1)
@@ -11384,6 +11836,20 @@ INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES (
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
 
 -- playlist_videos_history
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLHqP60_HwgQw', 'Wez4b-J_xL4', '2026-08-24', 0, '2026-07-04 16:59:46+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLV4oS06_KpqYMjulfvIRy6OA6XOgyLkoL', 'lqwMXNy0ATk', '2026-08-24', 0, '2026-06-28 18:12:14+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLV4oS06_KpqYMjulfvIRy6OA6XOgyLkoL', 'eXfqUxzE0MY', '2026-08-24', 1, '2026-06-28 18:42:29+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLV4oS06_KpqYMjulfvIRy6OA6XOgyLkoL', 'Eu2w5wSNlJI', '2026-08-24', 2, '2026-07-23 05:49:25+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLV4oS06_KpqYMjulfvIRy6OA6XOgyLkoL', 'd4-4XioffMU', '2026-08-24', 3, '2026-07-29 07:49:59+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLV4oS06_KpqY_vrV-qHy-bcd6SNBJfIfD', '8KfTQmLyYAY', '2026-08-24', 0, '2026-06-23 06:43:42+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLV4oS06_KpqY_vrV-qHy-bcd6SNBJfIfD', 'IKRRKvhnnJ0', '2026-08-24', 1, '2026-08-11 11:31:24+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
 INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLHqP60_HwgQw', 'Wez4b-J_xL4', '2026-08-17', 0, '2026-07-04 16:59:46+00:00')
   ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
 INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLV4oS06_KpqYMjulfvIRy6OA6XOgyLkoL', 'lqwMXNy0ATk', '2026-08-17', 0, '2026-06-28 18:12:14+00:00')
