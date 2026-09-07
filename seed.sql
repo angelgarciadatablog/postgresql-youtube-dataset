@@ -1,4 +1,4 @@
--- seed.sql — generado automáticamente el 2026-08-31 16:16 UTC
+-- seed.sql — generado automáticamente el 2026-09-07 14:21 UTC
 
 -- No editar manualmente: este archivo se sobreescribe cada semana.
 
@@ -86,6 +86,20 @@ En este canal encontrarás videos relacionados al análisis de datos y otros pas
   ON CONFLICT (channel_id) DO UPDATE SET channel_title = EXCLUDED.channel_title, country = EXCLUDED.country, published_at = EXCLUDED.published_at, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, channel_url = EXCLUDED.channel_url;
 
 -- channel_metrics
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-09-07', 2390, 199688, 225)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-09-06', 2380, 199586, 223)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-09-05', 2380, 199081, 220)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-09-04', 2380, 199081, 220)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-09-03', 2380, 199081, 221)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-09-02', 2380, 198865, 221)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-09-01', 2380, 198609, 220)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-08-31', 2370, 198521, 220)
   ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-08-30', 2370, 198395, 220)
@@ -478,9 +492,19 @@ INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_c
   ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 
 -- videos
-INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('PJf8-GeF9tc', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Primera vez usando DBeaver - Curso SQL', '2026-08-27 09:16:06+00:00', 1546, 'https://www.angelgarciadatablog.com/curso-sql/', 'https://i.ytimg.com/vi/PJf8-GeF9tc/hqdefault.jpg', 'https://www.youtube.com/watch?v=PJf8-GeF9tc')
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('jArOd_FANBE', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Clausulas basicas SQL - SELECT - FROM - WHERE - GROUP BY - HAVING - ORDER BY - Curso SQL - 2.2', '2026-09-07 06:37:41+00:00', 1058, 'https://www.angelgarciadatablog.com/curso-sql/orden-logico-de-ejecucion/', 'https://i.ytimg.com/vi/jArOd_FANBE/hqdefault.jpg', 'https://www.youtube.com/watch?v=jArOd_FANBE')
   ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
-INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('OPHykPx5Px8', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Conectarte a una base de datos - Curso de SQL', '2026-08-26 14:31:19+00:00', 551, 'https://www.angelgarciadatablog.com/curso-sql/', 'https://i.ytimg.com/vi/OPHykPx5Px8/hqdefault.jpg', 'https://www.youtube.com/watch?v=OPHykPx5Px8')
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('f2-ZWpREmB4', 'UCUEOHBht8pnQhQvCfIcl-gg', 'SELECT y FROM - Curso SQL - 2.1', '2026-09-07 06:37:19+00:00', 1289, 'https://www.angelgarciadatablog.com/curso-sql/select-y-from/', 'https://i.ytimg.com/vi/f2-ZWpREmB4/hqdefault.jpg', 'https://www.youtube.com/watch?v=f2-ZWpREmB4')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('hwUntjf7Z4k', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Leer esquema desconocido - Curso SQL - 1.5', '2026-09-05 21:46:38+00:00', 1400, 'https://www.angelgarciadatablog.com/curso-sql/leer-un-esquema-desconocido/', 'https://i.ytimg.com/vi/hwUntjf7Z4k/hqdefault.jpg', 'https://www.youtube.com/watch?v=hwUntjf7Z4k')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('2hDoXOr1RHY', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Relación muchos a muchos - Curso SQL -  1.4', '2026-09-05 21:45:35+00:00', 1428, 'https://www.angelgarciadatablog.com/curso-sql/muchos-a-muchos-y-tablas-puente/', 'https://i.ytimg.com/vi/2hDoXOr1RHY/hqdefault.jpg', 'https://www.youtube.com/watch?v=2hDoXOr1RHY')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('wRIpDE3b8jk', 'UCUEOHBht8pnQhQvCfIcl-gg', '¿Qué es una base de datos relacional? - Curso SQL - 1.3', '2026-09-01 14:23:14+00:00', 1176, 'https://www.angelgarciadatablog.com/curso-sql/que-es-una-base-de-datos-relacional/', 'https://i.ytimg.com/vi/wRIpDE3b8jk/hqdefault.jpg', 'https://www.youtube.com/watch?v=wRIpDE3b8jk')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('PJf8-GeF9tc', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Primera vez usando DBeaver - Curso SQL -  1.2', '2026-08-27 09:16:06+00:00', 1546, 'https://www.angelgarciadatablog.com/curso-sql/conectarse-y-explorar/', 'https://i.ytimg.com/vi/PJf8-GeF9tc/hqdefault.jpg', 'https://www.youtube.com/watch?v=PJf8-GeF9tc')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('OPHykPx5Px8', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Conectarte a una base de datos - Curso de SQL - 1.1', '2026-08-26 14:31:19+00:00', 551, 'https://www.angelgarciadatablog.com/curso-sql/conectarse-y-explorar/', 'https://i.ytimg.com/vi/OPHykPx5Px8/hqdefault.jpg', 'https://www.youtube.com/watch?v=OPHykPx5Px8')
   ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
 INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('IKRRKvhnnJ0', 'UCUEOHBht8pnQhQvCfIcl-gg', 'API de Notion: cómo leer páginas y tablas con Postman', '2026-08-11 20:57:15+00:00', 1522, 'La API de Notion no tiene acceso público: hasta la petición más simple necesita autenticación. En este video conectamos con ella desde Postman y extraemos el contenido de una página real, incluidas sus tablas.
 
