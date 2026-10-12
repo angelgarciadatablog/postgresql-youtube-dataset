@@ -1,4 +1,4 @@
--- seed.sql — generado automáticamente el 2026-10-05 17:16 UTC
+-- seed.sql — generado automáticamente el 2026-10-12 18:05 UTC
 
 -- No editar manualmente: este archivo se sobreescribe cada semana.
 
@@ -86,6 +86,20 @@ En este canal encontrarás videos relacionados al análisis de datos y otros pas
   ON CONFLICT (channel_id) DO UPDATE SET channel_title = EXCLUDED.channel_title, country = EXCLUDED.country, published_at = EXCLUDED.published_at, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, channel_url = EXCLUDED.channel_url;
 
 -- channel_metrics
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-12', 2420, 1994, 17)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-11', 2420, 1970, 17)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-10', 2420, 1967, 17)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-09', 2420, 1966, 15)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-08', 2420, 1958, 15)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-07', 2420, 1945, 15)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-06', 2420, 1936, 15)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-05', 2420, 1935, 15)
   ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-04', 2420, 1925, 15)
@@ -548,6 +562,10 @@ INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_c
   ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 
 -- videos
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('JR1QF3DMqmg', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Tipos de datos en SQL - Postgress - parte 2', '2026-10-09 13:16:40+00:00', 1674, '', 'https://i.ytimg.com/vi/JR1QF3DMqmg/hqdefault.jpg', 'https://www.youtube.com/watch?v=JR1QF3DMqmg')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('w7-deOhkhjM', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Tipos de datos en SQL - Postgress - Cap 2.8', '2026-10-09 13:12:23+00:00', 982, '', 'https://i.ytimg.com/vi/w7-deOhkhjM/hqdefault.jpg', 'https://www.youtube.com/watch?v=w7-deOhkhjM')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
 INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('f2kKG_43VfI', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Distinct - Curso de SQL - Cap 2.7', '2026-09-24 08:37:07+00:00', 1340, '', 'https://i.ytimg.com/vi/f2kKG_43VfI/hqdefault.jpg', 'https://www.youtube.com/watch?v=f2kKG_43VfI')
   ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
 INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('o2rdf8rEhTI', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Order By y Limit - Curso de SQL - Cap 2.6', '2026-09-24 07:58:24+00:00', 1429, '', 'https://i.ytimg.com/vi/o2rdf8rEhTI/hqdefault.jpg', 'https://www.youtube.com/watch?v=o2rdf8rEhTI')
