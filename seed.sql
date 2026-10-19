@@ -1,4 +1,4 @@
--- seed.sql — generado automáticamente el 2026-10-12 18:05 UTC
+-- seed.sql — generado automáticamente el 2026-10-19 15:46 UTC
 
 -- No editar manualmente: este archivo se sobreescribe cada semana.
 
@@ -86,6 +86,20 @@ En este canal encontrarás videos relacionados al análisis de datos y otros pas
   ON CONFLICT (channel_id) DO UPDATE SET channel_title = EXCLUDED.channel_title, country = EXCLUDED.country, published_at = EXCLUDED.published_at, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, channel_url = EXCLUDED.channel_url;
 
 -- channel_metrics
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-19', 2440, 3106, 26)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-18', 2440, 3065, 23)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-17', 2440, 3044, 23)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-16', 2440, 2843, 23)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-15', 2440, 2805, 23)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-14', 2430, 2365, 23)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-13', 2430, 2003, 20)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-12', 2420, 1994, 17)
   ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-11', 2420, 1970, 17)
@@ -562,6 +576,24 @@ INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_c
   ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 
 -- videos
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('hlgyygxn8FU', 'UCUEOHBht8pnQhQvCfIcl-gg', 'VPS - permisos a nivel de archivo', '2026-10-18 19:03:50+00:00', 180, '', 'https://i.ytimg.com/vi/hlgyygxn8FU/hqdefault.jpg', 'https://www.youtube.com/watch?v=hlgyygxn8FU')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('gZLSOy6IJJ4', 'UCUEOHBht8pnQhQvCfIcl-gg', 'VPS - permisos a nivel de carpeta', '2026-10-18 18:57:19+00:00', 181, '', 'https://i.ytimg.com/vi/gZLSOy6IJJ4/hqdefault.jpg', 'https://www.youtube.com/watch?v=gZLSOy6IJJ4')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('MyM_pHA3YvY', 'UCUEOHBht8pnQhQvCfIcl-gg', 'VPS - carpeta raíz', '2026-10-18 18:55:03+00:00', 148, '', 'https://i.ytimg.com/vi/MyM_pHA3YvY/hqdefault.jpg', 'https://www.youtube.com/watch?v=MyM_pHA3YvY')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('lKGoibFMQro', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Carpeta SSH', '2026-10-13 22:29:53+00:00', 181, '', 'https://i.ytimg.com/vi/lKGoibFMQro/hqdefault.jpg', 'https://www.youtube.com/watch?v=lKGoibFMQro')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('e0wlwkKaCK4', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Passphrase', '2026-10-13 22:18:55+00:00', 126, '', 'https://i.ytimg.com/vi/e0wlwkKaCK4/hqdefault.jpg', 'https://www.youtube.com/watch?v=e0wlwkKaCK4')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('NdxKuiMJhRo', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Llave SSH', '2026-10-13 22:07:59+00:00', 150, '', 'https://i.ytimg.com/vi/NdxKuiMJhRo/hqdefault.jpg', 'https://www.youtube.com/watch?v=NdxKuiMJhRo')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('f9Ijhe7r-Dk', 'UCUEOHBht8pnQhQvCfIcl-gg', 'VPS - ufw y sshd', '2026-10-12 11:57:56+00:00', 143, '', 'https://i.ytimg.com/vi/f9Ijhe7r-Dk/hqdefault.jpg', 'https://www.youtube.com/watch?v=f9Ijhe7r-Dk')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('tLvXtYNJy68', 'UCUEOHBht8pnQhQvCfIcl-gg', 'VPS - puerto 22', '2026-10-12 11:56:33+00:00', 81, '', 'https://i.ytimg.com/vi/tLvXtYNJy68/hqdefault.jpg', 'https://www.youtube.com/watch?v=tLvXtYNJy68')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('oklHXbDyu4I', 'UCUEOHBht8pnQhQvCfIcl-gg', 'VPS - ¿Qué es?', '2026-10-12 11:55:12+00:00', 96, '', 'https://i.ytimg.com/vi/oklHXbDyu4I/hqdefault.jpg', 'https://www.youtube.com/watch?v=oklHXbDyu4I')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
 INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('JR1QF3DMqmg', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Tipos de datos en SQL - Postgress - parte 2', '2026-10-09 13:16:40+00:00', 1674, '', 'https://i.ytimg.com/vi/JR1QF3DMqmg/hqdefault.jpg', 'https://www.youtube.com/watch?v=JR1QF3DMqmg')
   ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
 INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('w7-deOhkhjM', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Tipos de datos en SQL - Postgress - Cap 2.8', '2026-10-09 13:12:23+00:00', 982, '', 'https://i.ytimg.com/vi/w7-deOhkhjM/hqdefault.jpg', 'https://www.youtube.com/watch?v=w7-deOhkhjM')
@@ -632,6 +664,58 @@ INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds,
   ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
 
 -- video_metrics
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('1FWsaTAHTLI', '2026-10-19', 98, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('2hDoXOr1RHY', '2026-10-19', 126, 8, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('JR1QF3DMqmg', '2026-10-19', 39, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('MyM_pHA3YvY', '2026-10-19', 72, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('NdxKuiMJhRo', '2026-10-19', 261, 12, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('OPHykPx5Px8', '2026-10-19', 274, 18, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('PJf8-GeF9tc', '2026-10-19', 372, 15, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('Q9NcVV4juv8', '2026-10-19', 115, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('SYAeXXgoGlA', '2026-10-19', 44, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('UwN0iMhqvxg', '2026-10-19', 101, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('e0wlwkKaCK4', '2026-10-19', 126, 8, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('f2-ZWpREmB4', '2026-10-19', 57, 4, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('f2kKG_43VfI', '2026-10-19', 110, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('f9Ijhe7r-Dk', '2026-10-19', 97, 11, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('gZLSOy6IJJ4', '2026-10-19', 3, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('hlgyygxn8FU', '2026-10-19', 64, 2, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('hwUntjf7Z4k', '2026-10-19', 107, 5, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('jArOd_FANBE', '2026-10-19', 69, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('lKGoibFMQro', '2026-10-19', 81, 1, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('o2rdf8rEhTI', '2026-10-19', 58, 3, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('oklHXbDyu4I', '2026-10-19', 245, 9, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('sGHxCf6zluo', '2026-10-19', 96, 4, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('tLvXtYNJy68', '2026-10-19', 200, 12, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('w7-deOhkhjM', '2026-10-19', 14, 0, 0)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('wRIpDE3b8jk', '2026-10-19', 247, 11, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
+INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('z3qYccqav_Q', '2026-10-19', 98, 4, 1)
+  ON CONFLICT (video_id, snapshot_date) DO NOTHING;
 INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('1FWsaTAHTLI', '2026-10-05', 95, 3, 0)
   ON CONFLICT (video_id, snapshot_date) DO NOTHING;
 INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comment_count) VALUES ('2hDoXOr1RHY', '2026-10-05', 118, 8, 1)
@@ -10552,7 +10636,7 @@ INSERT INTO video_metrics (video_id, snapshot_date, view_count, like_count, comm
 -- playlists
 INSERT INTO playlists (playlist_id, channel_id, title, published_at, description, privacy_status, thumbnail_url, playlist_url) VALUES ('PLHQQHxmTkGuU', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Hola soy Angel', '2026-09-15 08:11:50.969065+00:00', '', 'public', 'https://i.ytimg.com/vi/SYAeXXgoGlA/hqdefault.jpg', 'https://www.youtube.com/playlist?list=PLHQQHxmTkGuU')
   ON CONFLICT (playlist_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, description = EXCLUDED.description, privacy_status = EXCLUDED.privacy_status, thumbnail_url = EXCLUDED.thumbnail_url, playlist_url = EXCLUDED.playlist_url;
-INSERT INTO playlists (playlist_id, channel_id, title, published_at, description, privacy_status, thumbnail_url, playlist_url) VALUES ('PLG7eg57L7O48', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Curso Postgre SQL', '2026-08-27 06:31:45.174276+00:00', 'https://www.angelgarciadatablog.com/curso-sql/', 'public', 'https://i.ytimg.com/vi/f2kKG_43VfI/hqdefault.jpg', 'https://www.youtube.com/playlist?list=PLG7eg57L7O48')
+INSERT INTO playlists (playlist_id, channel_id, title, published_at, description, privacy_status, thumbnail_url, playlist_url) VALUES ('PLG7eg57L7O48', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Curso Postgre SQL', '2026-08-27 06:31:45.174276+00:00', 'https://www.angelgarciadatablog.com/curso-sql/', 'public', 'https://i.ytimg.com/vi/JR1QF3DMqmg/hqdefault.jpg', 'https://www.youtube.com/playlist?list=PLG7eg57L7O48')
   ON CONFLICT (playlist_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, description = EXCLUDED.description, privacy_status = EXCLUDED.privacy_status, thumbnail_url = EXCLUDED.thumbnail_url, playlist_url = EXCLUDED.playlist_url;
 INSERT INTO playlists (playlist_id, channel_id, title, published_at, description, privacy_status, thumbnail_url, playlist_url) VALUES ('PLV4oS06_KpqYqA4aK15ze3Cv1lXaLZiqM', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Hojas de cálculo', '2026-06-13 07:53:29.433287+00:00', 'Ruta de aprendizaje de Hojas de cálculo. Excel y Google Sheets: fórmulas, tablas dinámicas y análisis de datos. Más contenido en mi blog de datos: https://www.angelgarciadatablog.com/', 'public', 'https://i.ytimg.com/img/no_thumbnail.jpg', 'https://www.youtube.com/playlist?list=PLV4oS06_KpqYqA4aK15ze3Cv1lXaLZiqM')
   ON CONFLICT (playlist_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, description = EXCLUDED.description, privacy_status = EXCLUDED.privacy_status, thumbnail_url = EXCLUDED.thumbnail_url, playlist_url = EXCLUDED.playlist_url;
@@ -10584,31 +10668,35 @@ INSERT INTO playlists (playlist_id, channel_id, title, published_at, description
   ON CONFLICT (playlist_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, description = EXCLUDED.description, privacy_status = EXCLUDED.privacy_status, thumbnail_url = EXCLUDED.thumbnail_url, playlist_url = EXCLUDED.playlist_url;
 
 -- playlist_videos
-INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'f2kKG_43VfI', 0, '2026-09-24 08:10:16+00:00')
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'JR1QF3DMqmg', 0, '2026-10-09 13:06:48+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
-INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'o2rdf8rEhTI', 1, '2026-09-24 07:28:59+00:00')
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'w7-deOhkhjM', 1, '2026-10-09 13:05:54+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
-INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'UwN0iMhqvxg', 2, '2026-09-23 09:05:12+00:00')
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'f2kKG_43VfI', 2, '2026-09-24 08:10:16+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
-INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'z3qYccqav_Q', 3, '2026-09-14 02:22:00+00:00')
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'o2rdf8rEhTI', 3, '2026-09-24 07:28:59+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
-INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'sGHxCf6zluo', 4, '2026-09-14 02:21:05+00:00')
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'UwN0iMhqvxg', 4, '2026-09-23 09:05:12+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
-INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', '1FWsaTAHTLI', 5, '2026-09-10 07:31:07+00:00')
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'z3qYccqav_Q', 5, '2026-09-14 02:22:00+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
-INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'jArOd_FANBE', 6, '2026-09-07 06:29:29+00:00')
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'sGHxCf6zluo', 6, '2026-09-14 02:21:05+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
-INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'f2-ZWpREmB4', 7, '2026-09-06 22:28:30+00:00')
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', '1FWsaTAHTLI', 7, '2026-09-10 07:31:07+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
-INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'hwUntjf7Z4k', 8, '2026-09-05 21:38:11+00:00')
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'jArOd_FANBE', 8, '2026-09-07 06:29:29+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
-INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', '2hDoXOr1RHY', 9, '2026-09-05 21:35:22+00:00')
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'f2-ZWpREmB4', 9, '2026-09-06 22:28:30+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
-INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'wRIpDE3b8jk', 10, '2026-09-01 13:59:48+00:00')
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'hwUntjf7Z4k', 10, '2026-09-05 21:38:11+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
-INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'PJf8-GeF9tc', 11, '2026-08-27 08:46:21+00:00')
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', '2hDoXOr1RHY', 11, '2026-09-05 21:35:22+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
-INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'OPHykPx5Px8', 12, '2026-08-27 06:31:45+00:00')
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'wRIpDE3b8jk', 12, '2026-09-01 13:59:48+00:00')
+  ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'PJf8-GeF9tc', 13, '2026-08-27 08:46:21+00:00')
+  ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
+INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLG7eg57L7O48', 'OPHykPx5Px8', 14, '2026-08-27 06:31:45+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
 INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES ('PLHQQHxmTkGuU', 'SYAeXXgoGlA', 0, '2026-09-15 08:34:19+00:00')
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
@@ -10616,6 +10704,40 @@ INSERT INTO playlist_videos (playlist_id, video_id, position, added_at) VALUES (
   ON CONFLICT (playlist_id, video_id) DO UPDATE SET position = EXCLUDED.position, added_at = EXCLUDED.added_at;
 
 -- playlist_videos_history
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'JR1QF3DMqmg', '2026-10-19', 0, '2026-10-09 13:06:48+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'w7-deOhkhjM', '2026-10-19', 1, '2026-10-09 13:05:54+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'f2kKG_43VfI', '2026-10-19', 2, '2026-09-24 08:10:16+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'o2rdf8rEhTI', '2026-10-19', 3, '2026-09-24 07:28:59+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'UwN0iMhqvxg', '2026-10-19', 4, '2026-09-23 09:05:12+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'z3qYccqav_Q', '2026-10-19', 5, '2026-09-14 02:22:00+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'sGHxCf6zluo', '2026-10-19', 6, '2026-09-14 02:21:05+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', '1FWsaTAHTLI', '2026-10-19', 7, '2026-09-10 07:31:07+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'jArOd_FANBE', '2026-10-19', 8, '2026-09-07 06:29:29+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'f2-ZWpREmB4', '2026-10-19', 9, '2026-09-06 22:28:30+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'hwUntjf7Z4k', '2026-10-19', 10, '2026-09-05 21:38:11+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', '2hDoXOr1RHY', '2026-10-19', 11, '2026-09-05 21:35:22+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'wRIpDE3b8jk', '2026-10-19', 12, '2026-09-01 13:59:48+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'PJf8-GeF9tc', '2026-10-19', 13, '2026-08-27 08:46:21+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'OPHykPx5Px8', '2026-10-19', 14, '2026-08-27 06:31:45+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLHQQHxmTkGuU', 'SYAeXXgoGlA', '2026-10-19', 0, '2026-09-15 08:34:19+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
+INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLHQQHxmTkGuU', 'Q9NcVV4juv8', '2026-10-19', 1, '2026-09-15 08:11:59+00:00')
+  ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
 INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'f2kKG_43VfI', '2026-10-05', 0, '2026-09-24 08:10:16+00:00')
   ON CONFLICT (playlist_id, video_id, snapshot_date) DO NOTHING;
 INSERT INTO playlist_videos_history (playlist_id, video_id, snapshot_date, position, added_at) VALUES ('PLG7eg57L7O48', 'o2rdf8rEhTI', '2026-10-05', 1, '2026-09-24 07:28:59+00:00')
