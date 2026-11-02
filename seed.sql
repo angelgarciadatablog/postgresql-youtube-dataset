@@ -1,4 +1,4 @@
--- seed.sql — generado automáticamente el 2026-10-26 15:20 UTC
+-- seed.sql — generado automáticamente el 2026-11-02 18:38 UTC
 
 -- No editar manualmente: este archivo se sobreescribe cada semana.
 
@@ -86,6 +86,20 @@ En este canal encontrarás videos relacionados al análisis de datos y otros pas
   ON CONFLICT (channel_id) DO UPDATE SET channel_title = EXCLUDED.channel_title, country = EXCLUDED.country, published_at = EXCLUDED.published_at, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, channel_url = EXCLUDED.channel_url;
 
 -- channel_metrics
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-11-02', 2460, 4337, 34)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-11-01', 2450, 4322, 34)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-31', 2450, 4317, 34)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-30', 2450, 4276, 34)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-29', 2450, 4259, 34)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-28', 2450, 4001, 34)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
+INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-27', 2450, 3986, 32)
+  ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-26', 2450, 3961, 32)
   ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_count, video_count) VALUES ('UCUEOHBht8pnQhQvCfIcl-gg', '2026-10-25', 2450, 3862, 32)
@@ -590,6 +604,10 @@ INSERT INTO channel_metrics (channel_id, snapshot_date, subscriber_count, view_c
   ON CONFLICT (channel_id, snapshot_date) DO NOTHING;
 
 -- videos
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('3Kj9K8oVARI', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Comandos básicos de Linux', '2026-10-27 23:36:46+00:00', 152, '', 'https://i.ytimg.com/vi/3Kj9K8oVARI/hqdefault.jpg', 'https://www.youtube.com/watch?v=3Kj9K8oVARI')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
+INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('Lvboyx-rBNs', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Comandos básicos de Linux', '2026-10-27 23:33:15+00:00', 178, '', 'https://i.ytimg.com/vi/Lvboyx-rBNs/hqdefault.jpg', 'https://www.youtube.com/watch?v=Lvboyx-rBNs')
+  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
 INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('MwEbq-ej7GE', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Respuesta de una API', '2026-10-23 03:00:35+00:00', 112, '', 'https://i.ytimg.com/vi/MwEbq-ej7GE/hqdefault.jpg', 'https://www.youtube.com/watch?v=MwEbq-ej7GE')
   ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
 INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('8M3ZS6Kvg2A', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Método GET y POST', '2026-10-23 02:34:59+00:00', 106, '', 'https://i.ytimg.com/vi/8M3ZS6Kvg2A/hqdefault.jpg', 'https://www.youtube.com/watch?v=8M3ZS6Kvg2A')
@@ -629,44 +647,6 @@ INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds,
 INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('o2rdf8rEhTI', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Order By y Limit - Curso de SQL - Cap 2.6', '2026-09-24 07:58:24+00:00', 1429, '', 'https://i.ytimg.com/vi/o2rdf8rEhTI/hqdefault.jpg', 'https://www.youtube.com/watch?v=o2rdf8rEhTI')
   ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
 INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('UwN0iMhqvxg', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Like - Curso de SQL -  Cap 2.5', '2026-09-23 09:16:36+00:00', 570, 'https://www.angelgarciadatablog.com/curso-sql/buscar-texto-like-y-regex/', 'https://i.ytimg.com/vi/UwN0iMhqvxg/hqdefault.jpg', 'https://www.youtube.com/watch?v=UwN0iMhqvxg')
-  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
-INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('SYAeXXgoGlA', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Video 2  - Proyectos del 2024', '2026-09-15 08:40:25+00:00', 523, 'Hola, bienvenido
-
-Este es mi primer video donde deje registrado los proyectos que tenía en el año 2024. Esto lo he tenido guardado en mi laptop y no me atrevía hacerlo público, me daba temor exponer mis proyectos por miedo a que quizás no los pueda cumplir y luego sentir el dolor del fracaso.
-
-Pero ha tenido que pasar 2 años para darme cuenta que tener los proyectos definidos te da dirección y de alguna forma te motiva a luchar por eso, porque ya lo dijiste y quieres demostrarte a ti mismo que harás todo lo que esté a tu alcance para cumplir tu palabra. 
-
-En estos dos años, actualmente es 2026, puedo decir que al menos uno de esos proyectos sobrevivió y no se imaginan la alegría que se siente ver este recuerdo y ver que lo tenía planeado y todo lo que he hecho para que este proyecto avance.
-
-No tengas miedo de plantear y decirle al mundo tus proyectos, pero piensa bien a qué le llamas proyecto, porque deben ser algo que realmente deseas al terminar el año y lo más importante, el proyecto debe tener un plan detrás y una serie de acciones que definan el rumbo de éxito, tal vez en un año no lo logres, tal vez si, lo importante es todo lo que luchaste para lograrlo. Porque siempre habrán situaciones que no podremos manejar, pero tu vida no se acaba en un año, sino lo lograste hoy, podrás intentarlo nuevamente, pero deséalo tanto que no te canses nunca de intentarlo. 
-
-Recomendación: reproducir esta canción de fondo: https://open.spotify.com/intl-es/track/0THHEiD7yLQsHxAo6fmtsQ?si=2189bc353cf14d16', 'https://i.ytimg.com/vi/SYAeXXgoGlA/hqdefault.jpg', 'https://www.youtube.com/watch?v=SYAeXXgoGlA')
-  ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
-INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('Q9NcVV4juv8', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Video 1  -  El comienzo de todo - 12 marzo 2024', '2026-09-15 08:12:39+00:00', 162, 'Hola, bienvenido
-
-Este es el comienzo de mi historia formalmente contada. Digo esto porque la idea de crear contenido nació en el 2020, en pandemia, con un enfoque diferente. Por suerte no borré los videos de esos años, los dejo por aquí como referencia porque es un recuerdo de cómo comencé, de cómo tomé la decisión de compartir lo que sé.
-
-- https://youtu.be/EyWTX76Pprc
-- https://youtu.be/HbNNZuwqkM4
-
-Desde allí, cada año he venido intentando algo diferente, no me había atrevido a contarlo antes, y ahora que lo pienso me pregunto: ¿Qué cambió? ¿Por qué ahora si quiero compartir esto?
-
-Y hoy tengo la respuesta: ''Actitud positiva'' respaldado por la ''esperanza'' que todo tiempo será diferente en la medida que hagamos algo diferente.
-
-Me atrevo a publicar esto en 2024, tres años después de que lo grabé, porque vi en el camino pasaron muchas dificultades (problemas de salud, problemas económicos, inestabilidad emocional), pero también hubieron muchos momentos de alegría y una mejora constante a nivel profesional y personal. 
-
-El saber que he pasado por todo eso en solo 2 años, me da la seguridad que pasarán cosas buenas y malas, es inevitable y grabar el proceso te ayuda a recordar bueno y aprender de lo malo.
-
-Es por ello que comenzaremos con esta serie de videos personales, no se de dónde me veas, no sé quién eres quién esta leyendo esto, pero creéme que documentar tu vida puede generarte una satisfacción enorme de aquí algunos años, solo mantén la esperanza en lo que creas.
-
-Yo creo en Dios y sinceramente eso es uno de los puntos más importantes a mencionar porque solo no hubiera podido lograr el equilibrio en mi vida. 
-
-En unos años comenzaré los 30 y aquí quedará documentado una parte de mi historia. La historia que quiero contar, la que quiero recordar.
-
-Hay una frase que algún día leí en el libro personal de alguien: ''La vida es Amarilla'' , leelo lento y lo entenderás.
-
-
-Recomendación: reproducir esta canción de fondo: https://open.spotify.com/intl-es/track/2GAaraH2pHHXi3fvlTWDW6?si=4e7d75de04504636', 'https://i.ytimg.com/vi/Q9NcVV4juv8/hqdefault.jpg', 'https://www.youtube.com/watch?v=Q9NcVV4juv8')
   ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
 INSERT INTO videos (video_id, channel_id, title, published_at, duration_seconds, description, thumbnail_url, video_url) VALUES ('sGHxCf6zluo', 'UCUEOHBht8pnQhQvCfIcl-gg', 'Nulos en SQL - Curso SQL - Cap 2.4', '2026-09-14 02:49:56+00:00', 1436, '', 'https://i.ytimg.com/vi/sGHxCf6zluo/hqdefault.jpg', 'https://www.youtube.com/watch?v=sGHxCf6zluo')
   ON CONFLICT (video_id) DO UPDATE SET channel_id = EXCLUDED.channel_id, title = EXCLUDED.title, published_at = EXCLUDED.published_at, duration_seconds = EXCLUDED.duration_seconds, description = EXCLUDED.description, thumbnail_url = EXCLUDED.thumbnail_url, video_url = EXCLUDED.video_url;
